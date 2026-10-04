@@ -1,0 +1,171 @@
+# Escada de cenários do Estrela I — a lista FECHADA de cenários, como dado.
+#
+# Quem lê: scripts/rodar_cenario.py (roda um cenário), scripts/
+# gerar_tabelas_cenarios.py (Tabelas 3, 4 e 5 e Figura 4) e o teste de
+# integração tests/scripts/test_cenarios_estrela_i.py (gabaritos por
+# família). Id, família e pai têm um lugar só — este arquivo —, para que os
+# três não divirjam. O que cada cenário MEDE e o resultado ESPERADO ficam na
+# documentação do caso base; aqui só o que o código precisa para achar o
+# arquivo e encadear.
+#
+# Arquivos: entradas/ifc/estrela_i/<id>_*.ifc e entradas/gis/estrela_i/
+# <id>_*.csv (não versionados). O prefixo `<id>_` é a chave de
+# busca; o slug depois do sublinhado é livre.
+#
+# Campos por cenário:
+#   id        — o id do cenário (E0…E3, D1…D5, DD1, DD2, V1…V5).
+#   familia   — enriquecimento | degradacao | variacao.
+#   pai       — de que cenário este é desvio (null só no E0). O que o cenário
+#               não traz em arquivo próprio, herda do pai: modelo BIM e terreno.
+#   arquivo   — papel do `<id>_*.ifc`: modelo (as duas checagens BIM e a
+#               BIM + GIS leem o arquivo) | terreno (o IfcSite do arquivo vira
+#               o terreno; o modelo BIM é o do pai) | do_pai (não tem arquivo
+#               próprio; roda sobre os do pai — o D4 muda só a execução) |
+#               tela (só se produz na interface; o comando recusa).
+#   csv       — true quando o cenário vem de um `<id>_*.csv` (terreno pelo
+#               memorial, ADR-029).
+#   unidades_representadas — quantas UH o IFC representa, quando difere do
+#               caso base (8).
+#   ors       — false FORÇA a execução sem provedor de rede, mesmo com --ors
+#               (é o que o D4 isola).
+#   numeros_comparaveis — nas variações legítimas, true quando a geometria é
+#               a MESMA do pai e os números do relatório têm de bater com
+#               tolerância relativa 1e-9 ; false quando a variação
+#               muda legitimamente os números (metade da geometria, outro
+#               centróide) e só o veredito — estado e motivo — tem de se manter.
+#   rotulo    — o nome curto da coluna/linha nas tabelas.
+
+caso_base:
+  # O IFC do E0 é entradas/ifc/estrela_i/E0_asis.ifc, achado pelo prefixo como
+  # os demais (não há via especial: tudo padronizado na pasta).
+  natureza: edificacao_isolada
+  unidades_representadas: 8
+  epsg_memorial: "EPSG:31982"     # SIRGAS 2000 / UTM 22S — declarado (ADR-029)
+
+pastas:
+  ifc: entradas/ifc/estrela_i
+  gis: entradas/gis/estrela_i
+  saida: artefatos/cenarios       # regerável, não versionada
+
+# As cinco checagens que compõem o perfil dos 14 requisitos (§15.2), na ordem
+# de apresentação; `grupo` é o id em config/grupos_requisitos.yaml e `chave` o
+# nome do relatório (artefatos/cenarios/<id>/<chave>.json — o mesmo das telas).
+checagens:
+  - chave: georref
+    grupo: georreferenciamento
+    rotulo: Georreferenciamento
+    modelo: true
+  - chave: programa
+    grupo: programa_necessidades
+    rotulo: Programa de necessidades
+    modelo: true
+  - chave: bim_gis
+    grupo: absortancia_zona_bioclimatica
+    rotulo: BIM + GIS (absortância)
+    modelo: true
+  - chave: qualificacao
+    grupo: qualificacao_urbanistica
+    rotulo: Qualificação urbanística
+    modelo: false
+  - chave: enquadramento
+    grupo: enquadramento
+    rotulo: Enquadramento
+    modelo: false
+    rede: true
+
+cenarios:
+  # Família 1 — enriquecimentos (cumulativos; §15.3)
+  - id: E0
+    familia: enriquecimento
+    rotulo: "as-is"
+    pai: null
+    arquivo: modelo
+  - id: E1
+    familia: enriquecimento
+    rotulo: "georref"
+    pai: E0
+    arquivo: modelo
+  - id: E2
+    familia: enriquecimento
+    rotulo: "ambientes"
+    pai: E1
+    arquivo: modelo
+  - id: E3
+    familia: enriquecimento
+    rotulo: "teto"
+    pai: E2
+    arquivo: modelo
+
+  # Família 2 — degradações a partir do teto (§15.4)
+  - id: D1
+    familia: degradacao
+    rotulo: "IFC2X3"
+    pai: E3
+    arquivo: modelo
+  - id: D2
+    familia: degradacao
+    rotulo: "Maceió"
+    pai: E1
+    arquivo: modelo
+  - id: D3
+    familia: degradacao
+    rotulo: "inglês"
+    pai: E2
+    arquivo: modelo
+  - id: D4
+    familia: degradacao
+    rotulo: "sem ORS"
+    pai: E3
+    arquivo: do_pai
+    ors: false
+  - id: D5
+    familia: degradacao
+    rotulo: "terreno por ponto"
+    pai: E3
+    arquivo: tela
+  - id: DD1
+    familia: degradacao
+    rotulo: "números não fecham"
+    pai: E3
+    arquivo: tela
+  - id: DD2
+    familia: degradacao
+    rotulo: "heterogeneidade"
+    pai: E3
+    arquivo: tela
+
+  # Família 3 — variações legítimas (§15.5)
+  - id: V1
+    familia: variacao
+    rotulo: "sinônimos"
+    pai: E2
+    arquivo: modelo
+    numeros_comparaveis: false
+  - id: V2
+    familia: variacao
+    rotulo: "pés"            # o projeto real já era em metros; a variação foi para a unidade estranha (C4)
+    pai: E3
+    arquivo: modelo
+    numeros_comparaveis: true
+  - id: V3
+    familia: variacao
+    rotulo: "terreno por IFC"
+    pai: E0
+    arquivo: terreno
+    numeros_comparaveis: false
+  - id: V4
+    familia: variacao
+    rotulo: "psets"
+    pai: E3
+    arquivo: modelo
+    numeros_comparaveis: true
+  # A variação do Bloco A (4 UH) não é um cenário: o modelo de origem não se corta
+  # ao meio sem remodelar; a normalização por UH
+  # (ADR-021) fica provada só na suíte unitária.
+  - id: V5
+    familia: variacao
+    rotulo: "módulo I"
+    pai: E0
+    arquivo: do_pai
+    csv: true
+    numeros_comparaveis: false

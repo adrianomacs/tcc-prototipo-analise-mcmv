@@ -1,0 +1,74 @@
+# Requisitos ATIVOS no recorte atual do protótipo.
+#
+# Esta lista é a chave de seleção do recorte sobre a base completa
+# (Base_Requisitos_Portaria_MCID_725.xlsx); a interface a lê direto daqui, sem
+# arquivo derivado no meio.
+#
+# Para ativar/desativar uma regra, acrescente ou remova o ID aqui. A regra só é
+# executada se, além de estar nesta lista, tiver um arquivo de implementação
+# registrado com @registrar.
+
+ativas:
+  - EMP-001      # georreferenciamento (GIS + BIM) — porta da trilha espacial
+
+  # Conjunto "programa de necessidades + áreas" (dependência entre requisitos):
+  #   EDI-004  ──►  EDI-004.1  ──►  EDI-002   (trilha multifamiliar)
+  #       └───────────────────────►  EDI-001   (trilha casa)
+  - EDI-004      # presença do programa mínimo de ambientes na UH (porta do conjunto)
+  - EDI-004.1    # varanda integrante do programa mínimo (multifamiliar); depende de EDI-004
+  - EDI-001      # área útil mínima da UH tipo casa (>= 40,00 m2); depende de EDI-004
+  - EDI-002      # área útil mínima de apto/casa sobreposta (>= 41,50 m2); depende de EDI-004 e EDI-004.1
+
+  # Dimensões mínimas dos ambientes — grupo "programa de necessidades"
+  # (config/grupos_requisitos.yaml); motor implementado em 2026-07-10
+  # (largura = menor lado do retângulo rotacionado mínimo do footprint):
+  - EDI-007      # largura mínima da cozinha (>= 1,80 m)
+  - EDI-008      # largura mínima da sala de estar/refeições (>= 2,40 m)
+  - EDI-009      # largura mínima do banheiro (>= 1,50 m)
+  - EDI-011      # varanda de apartamentos: largura >= 0,80 m e área >= 1,50 m2 (multifamiliar)
+
+  # Absortância solar por zona bioclimática — grupo "absortancia_zona_bioclimatica"
+  # (BIM + GIS). Cada item da Portaria é um PAI com dois RAMOS que a zona
+  # seleciona (ADR-026); os ramos ficam ATIVOS pelo mesmo motivo das
+  # alternativas B acima: sem eles o pai não teria o que agregar. Quem conta em
+  # conformidade e cobertura é o pai (ADR-015/026). A cláusula do telhado está
+  # em vocabulário de 2005 (DN-08): os dois ramos são candidatos em todo
+  # município e o pai conclui só o invariante à leitura.
+  # Parede externa (item 4.II.a.x): cláusula MIGRADA — as faixas de 2025
+  # esgotam as doze classes da norma vigente (ADR-030), então a zona seleciona
+  # exatamente um ramo e o pai é degenerado; a estrutura é a mesma do telhado
+  # (ADR-026). Sem exceção de material (DN-02).
+  - EDI-019      # absortância solar das paredes externas (item 4.II.a.x) — pai, seleção exclusiva
+  - EDI-019.1    # ramo ZB 1 e 2 (R e M): <= 0,6 (item 4.II.a.x.1)
+  - EDI-019.2    # ramo ZB 3, 4, 5 e 6 (A e B): <= 0,4 (item 4.II.a.x.2)
+
+  - EDI-024      # absortância solar do telhado (item 4.III.i) — pai, seleção exclusiva
+  - EDI-024.1    # ramo ZB 1, 2 e 3: <= 0,6 (item 4.III.i.i)
+  - EDI-024.2    # ramo ZB 4, 5, 6, 7 e 8: <= 0,4 (item 4.III.i.ii)
+  # Porte do empreendimento — grupo "qualificacao_urbanistica" (GIS). Anexo II,
+  # item 4.I.a: limite de UH por empreendimento E por grupo de contíguos, pelo
+  # porte do município (população do Censo 2022, ADR-030). O pai é um "e"
+  # (modo todos, ADR-015); a folha dos contíguos é REMETIDA (DN-04) e fica
+  # ativa pelo mesmo motivo das alternativas B: sem ela o pai aprovaria com um
+  # membro só. A contagem é a declarada na proposta (ADR-028).
+  - EMP-025      # porte do empreendimento (item 4.I.a) — pai, modo todos
+  - EMP-025.1    # UH por empreendimento <= limite do porte (declarado x Censo)
+  - EMP-025.2    # UH do grupo de contíguos (<= 1 km) — remetida
+
+  # Enquadramento — recorte atual (equipamentos de educação). Enquanto o motor
+  # não as executa, as regras
+  # aparecem como "em implementação" na tela do grupo.
+  - ENQ-009      # escola de educação infantil (<= 1 km caminhável do centro)
+  - ENQ-010      # ensino fundamental Ciclo I (agregação das alternativas)
+  - ENQ-010.1    # alternativa A do Ciclo I (<= 1,5 km caminhável)
+  - ENQ-011      # ensino fundamental Ciclo II (agregação das alternativas)
+  - ENQ-011.1    # alternativa A do Ciclo II (<= 1,5 km caminhável)
+
+  # As alternativas B estão ATIVAS e NÃO são avaliadas automaticamente — elas
+  # declaram a própria não avaliabilidade (core/motor/remessa.py). Ativá-las não
+  # é otimismo: é o que impede o pai de reprovar por ignorância. Se ficassem
+  # fora, o agregador veria um "ou" de um único membro, n_pot igualaria n_conf e
+  # a alternativa A não atendida produziria falso NÃO CONFORME — o defeito do §4
+  # do recorte, agora na camada da agregação.
+  - ENQ-010.2    # alternativa B do Ciclo I: transporte público ESCOLAR < 20 min
+  - ENQ-011.2    # alternativa B do Ciclo II: transporte escolar OU coletivo < 20 min

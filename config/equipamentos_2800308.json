@@ -1,0 +1,198 @@
+{
+  "municipio": "2800308",
+  "nome_municipio": "Aracaju",
+  "uf": "SE",
+  "ano_censo": "2025",
+  "gerado_em": "2026-10-03T21:32:10-03:00",
+  "gerador": {
+    "script": "scripts/gerar_equipamentos.py",
+    "versao": "1.0"
+  },
+  "urls": {
+    "microdado": "https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar",
+    "catalogo": "https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar"
+  },
+  "precedencia_por_campo": {
+    "identidade": "microdado/Tabela_Escola",
+    "rede": "microdado/Tabela_Escola",
+    "situacao": "microdado/Tabela_Escola",
+    "ciclos": "microdado/Tabela_Turma",
+    "coordenada": "Catálogo de Escolas",
+    "conveniada": "Catálogo de Escolas",
+    "motivo": "a divulgação pública do microdado 2025 não traz coordenada nem oferta de etapa; a precedência por campo é imposição da fonte, não escolha de projeto"
+  },
+  "fontes": [
+    {
+      "papel": "escola",
+      "arquivo": "Tabela_Escola_2025_V2.csv",
+      "sha256": "f737d25dc5e80879e08f868d06d55f2bc1178cbb893dc14589a2123151f5b523",
+      "bytes": 141425160,
+      "linhas_lidas": 214192,
+      "linhas_no_municipio": 417
+    },
+    {
+      "papel": "turma",
+      "arquivo": "Tabela_Turma_2025_V2.csv",
+      "sha256": "be3832b6af9c1f3717262336c4d764b480cdc063f9ead17467155a7346cb9102",
+      "bytes": 99920475,
+      "linhas_lidas": 178772,
+      "linhas_no_municipio": 347
+    },
+    {
+      "papel": "catalogo",
+      "arquivo": "Análise - Tabela da lista das escolas - Detalhado.csv",
+      "sha256": "0022540a48a944972f6a2d9b9756153ae92bf242b25f2aa1a49a486c9f164c59",
+      "bytes": 85660101,
+      "linhas_lidas": 212386,
+      "linhas_no_municipio": 404
+    }
+  ],
+  "contagens": {
+    "no_municipio": 417,
+    "gravados_no_csv": 300,
+    "sem_coordenada": 117,
+    "considerados_apos_filtros": 151,
+    "por_motivo_de_descarte": {
+      "rede_privada": 147,
+      "sem_coordenada": 117,
+      "atendimento_exclusivo": 1,
+      "sem_escolarizacao": 1
+    },
+    "aptos_por_ciclo": {
+      "infantil": 46,
+      "fundamental_i": 75,
+      "fundamental_ii": 66
+    },
+    "resumo": "417 equipamento(s) no conjunto; 151 considerado(s); 266 descartado(s) — 147 rede privada, 117 sem coordenada, 1 atendimento exclusivo a alunos com deficiência, 1 sem matrícula de escolarização."
+  },
+  "sensibilidade_conveniadas": {
+    "infantil": {
+      "considerados": 46,
+      "conveniadas_excluidas": 3,
+      "considerados_se_incluisse": 49,
+      "nomes": [
+        "ESC AMELIE BOUDET",
+        "ESC MATERNAL MARILDA LEITE",
+        "EXTERNATO SAO FRANCISCO DE ASSIS"
+      ],
+      "regra_aplicada": "somente rede pública (municipal, estadual, federal)"
+    },
+    "fundamental_i": {
+      "considerados": 75,
+      "conveniadas_excluidas": 3,
+      "considerados_se_incluisse": 78,
+      "nomes": [
+        "ESC AMELIE BOUDET",
+        "EXTERNATO SAO FRANCISCO DE ASSIS",
+        "INSTITUTO PEDAGOGICO DE APOIO A EDUCACAO DO SURDO DE SERGIPE-IPAESE"
+      ],
+      "regra_aplicada": "somente rede pública (municipal, estadual, federal)"
+    },
+    "fundamental_ii": {
+      "considerados": 66,
+      "conveniadas_excluidas": 1,
+      "considerados_se_incluisse": 67,
+      "nomes": [
+        "INSTITUTO PEDAGOGICO DE APOIO A EDUCACAO DO SURDO DE SERGIPE-IPAESE"
+      ],
+      "regra_aplicada": "somente rede pública (municipal, estadual, federal)"
+    }
+  },
+  "divergencias_entre_fontes": {
+    "so_no_microdado": 13,
+    "so_no_catalogo": 0,
+    "situacao_divergente": 5,
+    "atendimento_divergente": 1,
+    "conveniada_divergente": 3,
+    "sem_linha_de_turma": 70,
+    "codigos": {
+      "so_no_microdado": [
+        "28038088",
+        "28038096",
+        "28038100",
+        "28038118",
+        "28038126",
+        "28038134",
+        "28038142",
+        "28038150",
+        "28038169",
+        "28038240",
+        "28038274",
+        "28038282",
+        "28038320"
+      ],
+      "so_no_catalogo": [],
+      "situacao_divergente": [
+        "28020014",
+        "28036883",
+        "28037413",
+        "28037880",
+        "28059409"
+      ],
+      "atendimento_divergente": [
+        "28017234"
+      ],
+      "conveniada_divergente": [
+        "28017234",
+        "28020014",
+        "28037987"
+      ],
+      "sem_linha_de_turma": [
+        "28017250",
+        "28017269",
+        "28017293",
+        "28017412",
+        "28017765",
+        "28017935",
+        "28017951",
+        "28018087",
+        "28018192",
+        "28018214",
+        "28018249",
+        "28018257",
+        "28019687",
+        "28019709",
+        "28019954",
+        "28019997",
+        "28020014",
+        "28020154",
+        "28026560",
+        "28026578",
+        "28026586",
+        "28026756",
+        "28026837",
+        "28027922",
+        "28027957",
+        "28028120",
+        "28028163",
+        "28028244",
+        "28028279",
+        "28028287",
+        "28028295",
+        "28028880",
+        "28028929",
+        "28029445",
+        "28030125",
+        "28030192",
+        "28030524",
+        "28030532",
+        "28030702",
+        "28031245",
+        "28031423",
+        "28031989",
+        "28032500",
+        "28032721",
+        "28032802",
+        "28032900",
+        "28034236",
+        "28034325",
+        "28034449",
+        "28034473"
+      ]
+    }
+  },
+  "avisos": [
+    "117 de 417 estabelecimento(s) sem coordenada no Catálogo. Eles entram no conjunto e são descartados com motivo 'sem_coordenada' — lacuna para o CSV complementar resolver, nunca motivo para reprovar o requisito.",
+    "70 estabelecimento(s) sem linha na Tabela_Turma: não ofertam turma alguma, e por isso ficam sem ciclo. Não é lacuna de leitura."
+  ]
+}

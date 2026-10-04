@@ -1,0 +1,2 @@
+# Coloque aqui as camadas geoespaciais (.shp, .geojson, .gpkg).
+# O nome do arquivo vira a chave semântica da camada (ex.: equipamento_escola.geojson).

@@ -1,0 +1,131 @@
+{
+  "id": "ad4d03de876d",
+  "nome": "Residencial Estrela I",
+  "versao": 1,
+  "localizacao": {
+    "codigo_ibge": "4307807",
+    "uf": "RS",
+    "municipio": "Estrela"
+  },
+  "declaracoes": {
+    "arranjo": "condominio"
+  },
+  "terreno": {
+    "origem": "csv",
+    "nivel": "poligonal",
+    "precisao": "levantada",
+    "crs_metrico": "EPSG:31982",
+    "centro_wgs84": {
+      "lat": -29.4874013075961,
+      "lon": -51.92925946779939
+    },
+    "poligonal_wgs84": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -51.93153862006408,
+            -29.492358084026204
+          ],
+          [
+            -51.930735593628114,
+            -29.492583167637083
+          ],
+          [
+            -51.92759529946934,
+            -29.4840874520621
+          ],
+          [
+            -51.92701719042211,
+            -29.482661598680608
+          ],
+          [
+            -51.92749671604664,
+            -29.48224964511508
+          ],
+          [
+            -51.927689919313245,
+            -29.481997393295813
+          ],
+          [
+            -51.93153862006408,
+            -29.492358084026204
+          ]
+        ]
+      ]
+    },
+    "area_m2": 95906.03,
+    "perimetro_m": 2544.8,
+    "procedencia": {
+      "metodo_centro": "centróide da poligonal no CRS métrico",
+      "fuso_utm": 22,
+      "arquivo": "entradas/gis/estrela_i/E0_memorial.csv",
+      "sha256": "329a9d4a0d564acd792d9f3432a0420debd1d551bac5f1c5574026c23cea94d8",
+      "epsg_origem": "EPSG:31982",
+      "epsg_origem_fonte": "informado_pelo_usuario",
+      "colunas": {
+        "vertice": "VÉRTICES",
+        "leste": "LESTE (L)",
+        "norte": "NORTE(N)",
+        "distancia": "DISTÂNCIAS"
+      },
+      "vertices": [
+        "M1",
+        "M2",
+        "M3",
+        "M4",
+        "M5",
+        "M6"
+      ],
+      "area_no_crs_do_memorial_m2": 95906.03,
+      "perimetro_no_crs_do_memorial_m": 2544.8,
+      "desvio_reprojecao_ppm": 0.0,
+      "conferencia_distancias": {
+        "lados_declarados": 6,
+        "lados_conferidos": 6,
+        "divergencias": []
+      },
+      "confronto_municipio": {
+        "dentro": true,
+        "fonte": "cache",
+        "mensagem": "Âncora do modelo dentro dos limites do município (malha IBGE, cache)."
+      },
+      "municipio_declarado": {
+        "uf": "RS",
+        "nome": "Estrela",
+        "ibge": "4307807"
+      }
+    },
+    "avisos": [],
+    "modelo": null
+  },
+  "unidades_previstas": 300,
+  "unidades_tipo": [
+    {
+      "id": "3477059cf7a8",
+      "nome": "Apartamento T+1",
+      "unidades": 300,
+      "tipologia": "apartamento",
+      "modelo": null
+    }
+  ],
+  "edificacoes": [
+    {
+      "id": "da432e106f3c",
+      "nome": "Bloco A",
+      "modelo": null,
+      "composicao": {
+        "3477059cf7a8": 4
+      }
+    },
+    {
+      "id": "50b068612906",
+      "nome": "Bloco B a A12",
+      "modelo": null,
+      "composicao": {
+        "3477059cf7a8": 296
+      }
+    }
+  ],
+  "gravado_em": "2026-10-03T00:00:00+00:00"
+}

@@ -1,0 +1,16 @@
+# Configuração do Streamlit.
+[server]
+enableStaticServing = true
+# Tamanho máximo de upload, em MB. O padrão do Streamlit é 200 MB.
+# Elevado para acomodar modelos IFC de qualquer tamanho, sem limitação prática.
+maxUploadSize = 51200
+
+# Identidade visual do protótipo: paleta sóbria (neutros claros + destaque em
+# azul-petróleo). As mesmas cores são espelhadas em app/componentes/layout.py, que injeta
+# o CSS do cabeçalho, rodapé e menu lateral.
+[theme]
+base = "light"
+primaryColor = "#1F6F8B"                # azul-petróleo — botões, foco, realces
+backgroundColor = "#FBFBF9"             # off-white levemente quente
+secondaryBackgroundColor = "#EFF3F5"    # cinza-azulado claro — sidebar/widgets
+textColor = "#2F3A40"                   # grafite

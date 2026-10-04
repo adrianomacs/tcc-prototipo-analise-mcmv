@@ -1,0 +1,200 @@
+{
+  "municipio": "4205407",
+  "nome_municipio": "Florianópolis",
+  "uf": "SC",
+  "ano_censo": "2025",
+  "gerado_em": "2026-10-03T21:31:11-03:00",
+  "gerador": {
+    "script": "scripts/gerar_equipamentos.py",
+    "versao": "1.0"
+  },
+  "urls": {
+    "microdado": "https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar",
+    "catalogo": "https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar"
+  },
+  "precedencia_por_campo": {
+    "identidade": "microdado/Tabela_Escola",
+    "rede": "microdado/Tabela_Escola",
+    "situacao": "microdado/Tabela_Escola",
+    "ciclos": "microdado/Tabela_Turma",
+    "coordenada": "Catálogo de Escolas",
+    "conveniada": "Catálogo de Escolas",
+    "motivo": "a divulgação pública do microdado 2025 não traz coordenada nem oferta de etapa; a precedência por campo é imposição da fonte, não escolha de projeto"
+  },
+  "fontes": [
+    {
+      "papel": "escola",
+      "arquivo": "Tabela_Escola_2025_V2.csv",
+      "sha256": "f737d25dc5e80879e08f868d06d55f2bc1178cbb893dc14589a2123151f5b523",
+      "bytes": 141425160,
+      "linhas_lidas": 214192,
+      "linhas_no_municipio": 370
+    },
+    {
+      "papel": "turma",
+      "arquivo": "Tabela_Turma_2025_V2.csv",
+      "sha256": "be3832b6af9c1f3717262336c4d764b480cdc063f9ead17467155a7346cb9102",
+      "bytes": 99920475,
+      "linhas_lidas": 178772,
+      "linhas_no_municipio": 322
+    },
+    {
+      "papel": "catalogo",
+      "arquivo": "Análise - Tabela da lista das escolas - Detalhado.csv",
+      "sha256": "0022540a48a944972f6a2d9b9756153ae92bf242b25f2aa1a49a486c9f164c59",
+      "bytes": 85660101,
+      "linhas_lidas": 212386,
+      "linhas_no_municipio": 359
+    }
+  ],
+  "contagens": {
+    "no_municipio": 370,
+    "gravados_no_csv": 312,
+    "sem_coordenada": 58,
+    "considerados_apos_filtros": 169,
+    "por_motivo_de_descarte": {
+      "rede_privada": 130,
+      "situacao_inativa": 8,
+      "sem_coordenada": 58,
+      "sem_escolarizacao": 5
+    },
+    "aptos_por_ciclo": {
+      "infantil": 91,
+      "fundamental_i": 65,
+      "fundamental_ii": 54
+    },
+    "resumo": "370 equipamento(s) no conjunto; 169 considerado(s); 201 descartado(s) — 130 rede privada, 58 sem coordenada, 8 situação não ativa, 5 sem matrícula de escolarização."
+  },
+  "sensibilidade_conveniadas": {
+    "infantil": {
+      "considerados": 91,
+      "conveniadas_excluidas": 11,
+      "considerados_se_incluisse": 102,
+      "nomes": [
+        "CEI MORRO DA CAIXA",
+        "CENTRO EDUC NS MONTE SERRAT",
+        "CEI GIRASSOL",
+        "CRECHE SAO FRANCISCO DE ASSIS",
+        "EDUCANDARIO LAR DE JESUS SERTE",
+        "CRECHE NS DA BOA VIAGEM",
+        "ASSOCIACAO DE MORADORES LAGOA DO PERI",
+        "CRECHE CRESCER",
+        "CRECHE VO INACIA",
+        "ASSOCIACAO LAR RECANTO DO CARINHO",
+        "SEEDE - SEARA ESPIRITA ENTREPOSTO DA FE"
+      ],
+      "regra_aplicada": "somente rede pública (municipal, estadual, federal)"
+    },
+    "fundamental_i": {
+      "considerados": 65,
+      "conveniadas_excluidas": 0,
+      "considerados_se_incluisse": 65,
+      "nomes": [],
+      "regra_aplicada": "somente rede pública (municipal, estadual, federal)"
+    },
+    "fundamental_ii": {
+      "considerados": 54,
+      "conveniadas_excluidas": 0,
+      "considerados_se_incluisse": 54,
+      "nomes": [],
+      "regra_aplicada": "somente rede pública (municipal, estadual, federal)"
+    }
+  },
+  "divergencias_entre_fontes": {
+    "so_no_microdado": 11,
+    "so_no_catalogo": 3,
+    "situacao_divergente": 4,
+    "atendimento_divergente": 0,
+    "conveniada_divergente": 6,
+    "sem_linha_de_turma": 48,
+    "codigos": {
+      "so_no_microdado": [
+        "42164125",
+        "42164567",
+        "42164591",
+        "42164672",
+        "42164842",
+        "42164869",
+        "42164923",
+        "42165032",
+        "42165610",
+        "42165628",
+        "42289262"
+      ],
+      "so_no_catalogo": [
+        "42001625",
+        "42126495",
+        "42161681"
+      ],
+      "situacao_divergente": [
+        "42061946",
+        "42143489",
+        "42143853",
+        "42149630"
+      ],
+      "atendimento_divergente": [],
+      "conveniada_divergente": [
+        "42107202",
+        "42170400",
+        "42173000",
+        "42178207",
+        "42178606",
+        "42178800"
+      ],
+      "sem_linha_de_turma": [
+        "42000378",
+        "42001277",
+        "42001595",
+        "42001811",
+        "42061946",
+        "42064880",
+        "42106516",
+        "42113091",
+        "42119588",
+        "42130220",
+        "42143489",
+        "42143853",
+        "42148723",
+        "42149630",
+        "42150477",
+        "42162700",
+        "42168201",
+        "42169003",
+        "42169801",
+        "42170001",
+        "42170206",
+        "42170400",
+        "42171008",
+        "42171202",
+        "42171407",
+        "42171601",
+        "42171806",
+        "42172004",
+        "42172209",
+        "42173000",
+        "42173205",
+        "42173400",
+        "42178207",
+        "42178606",
+        "42178800",
+        "42179009",
+        "42179203",
+        "42179408",
+        "42179416",
+        "42191203",
+        "42203031",
+        "42211212",
+        "42270332",
+        "42280273",
+        "42289262",
+        "42292298",
+        "42297265",
+        "42306272"
+      ]
+    }
+  },
+  "avisos": [
+    "58 de 370 estabelecimento(s) sem coordenada no Catálogo. Eles entram no conjunto e são descartados com motivo 'sem_coordenada' — lacuna para o CSV complementar resolver, nunca motivo para reprovar o requisito.",
+    "48 estabelecimento(s) sem linha na Tabela_Turma: não ofertam turma alguma, e por isso ficam sem ciclo. Não é lacuna de leitura."
+  ]
+}

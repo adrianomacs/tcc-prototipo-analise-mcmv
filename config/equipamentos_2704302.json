@@ -1,0 +1,215 @@
+{
+  "municipio": "2704302",
+  "nome_municipio": "Maceió",
+  "uf": "AL",
+  "ano_censo": "2025",
+  "gerado_em": "2026-10-03T21:31:24-03:00",
+  "gerador": {
+    "script": "scripts/gerar_equipamentos.py",
+    "versao": "1.0"
+  },
+  "urls": {
+    "microdado": "https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar",
+    "catalogo": "https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar"
+  },
+  "precedencia_por_campo": {
+    "identidade": "microdado/Tabela_Escola",
+    "rede": "microdado/Tabela_Escola",
+    "situacao": "microdado/Tabela_Escola",
+    "ciclos": "microdado/Tabela_Turma",
+    "coordenada": "Catálogo de Escolas",
+    "conveniada": "Catálogo de Escolas",
+    "motivo": "a divulgação pública do microdado 2025 não traz coordenada nem oferta de etapa; a precedência por campo é imposição da fonte, não escolha de projeto"
+  },
+  "fontes": [
+    {
+      "papel": "escola",
+      "arquivo": "Tabela_Escola_2025_V2.csv",
+      "sha256": "f737d25dc5e80879e08f868d06d55f2bc1178cbb893dc14589a2123151f5b523",
+      "bytes": 141425160,
+      "linhas_lidas": 214192,
+      "linhas_no_municipio": 523
+    },
+    {
+      "papel": "turma",
+      "arquivo": "Tabela_Turma_2025_V2.csv",
+      "sha256": "be3832b6af9c1f3717262336c4d764b480cdc063f9ead17467155a7346cb9102",
+      "bytes": 99920475,
+      "linhas_lidas": 178772,
+      "linhas_no_municipio": 510
+    },
+    {
+      "papel": "catalogo",
+      "arquivo": "Análise - Tabela da lista das escolas - Detalhado.csv",
+      "sha256": "0022540a48a944972f6a2d9b9756153ae92bf242b25f2aa1a49a486c9f164c59",
+      "bytes": 85660101,
+      "linhas_lidas": 212386,
+      "linhas_no_municipio": 490
+    }
+  ],
+  "contagens": {
+    "no_municipio": 523,
+    "gravados_no_csv": 314,
+    "sem_coordenada": 209,
+    "considerados_apos_filtros": 230,
+    "por_motivo_de_descarte": {
+      "rede_privada": 81,
+      "sem_coordenada": 209,
+      "sem_escolarizacao": 3
+    },
+    "aptos_por_ciclo": {
+      "infantil": 69,
+      "fundamental_i": 112,
+      "fundamental_ii": 89
+    },
+    "resumo": "523 equipamento(s) no conjunto; 230 considerado(s); 293 descartado(s) — 209 sem coordenada, 81 rede privada, 3 sem matrícula de escolarização."
+  },
+  "sensibilidade_conveniadas": {
+    "infantil": {
+      "considerados": 69,
+      "conveniadas_excluidas": 0,
+      "considerados_se_incluisse": 69,
+      "nomes": [],
+      "regra_aplicada": "somente rede pública (municipal, estadual, federal)"
+    },
+    "fundamental_i": {
+      "considerados": 112,
+      "conveniadas_excluidas": 0,
+      "considerados_se_incluisse": 112,
+      "nomes": [],
+      "regra_aplicada": "somente rede pública (municipal, estadual, federal)"
+    },
+    "fundamental_ii": {
+      "considerados": 89,
+      "conveniadas_excluidas": 0,
+      "considerados_se_incluisse": 89,
+      "nomes": [],
+      "regra_aplicada": "somente rede pública (municipal, estadual, federal)"
+    }
+  },
+  "divergencias_entre_fontes": {
+    "so_no_microdado": 33,
+    "so_no_catalogo": 75,
+    "situacao_divergente": 1,
+    "atendimento_divergente": 0,
+    "conveniada_divergente": 3,
+    "sem_linha_de_turma": 13,
+    "codigos": {
+      "so_no_microdado": [
+        "27046630",
+        "27046958",
+        "27047113",
+        "27048985",
+        "27049086",
+        "27050300",
+        "27051463",
+        "27051650",
+        "27052117",
+        "27055418",
+        "27056180",
+        "27056376",
+        "27056511",
+        "27056520",
+        "27056600",
+        "27056619",
+        "27056694",
+        "27056856",
+        "27056872",
+        "27056880",
+        "27056899",
+        "27056910",
+        "27056937",
+        "27056945",
+        "27056961",
+        "27056970",
+        "27056988",
+        "27214540",
+        "27223302",
+        "27225984",
+        "27318028",
+        "27351017",
+        "27368017"
+      ],
+      "so_no_catalogo": [
+        "27035450",
+        "27038688",
+        "27046419",
+        "27046710",
+        "27046761",
+        "27046842",
+        "27046893",
+        "27046940",
+        "27047059",
+        "27047121",
+        "27047245",
+        "27047342",
+        "27047407",
+        "27047504",
+        "27048047",
+        "27048144",
+        "27048543",
+        "27049027",
+        "27049531",
+        "27049540",
+        "27049841",
+        "27049981",
+        "27050351",
+        "27050459",
+        "27050637",
+        "27050823",
+        "27050890",
+        "27050904",
+        "27051005",
+        "27051102",
+        "27052036",
+        "27052044",
+        "27052109",
+        "27052591",
+        "27052796",
+        "27052826",
+        "27052850",
+        "27053504",
+        "27053539",
+        "27053598",
+        "27053644",
+        "27054217",
+        "27054446",
+        "27054837",
+        "27054845",
+        "27055051",
+        "27055353",
+        "27055523",
+        "27055604",
+        "27055795"
+      ],
+      "situacao_divergente": [
+        "27226182"
+      ],
+      "atendimento_divergente": [],
+      "conveniada_divergente": [
+        "27055663",
+        "27055680",
+        "27055728"
+      ],
+      "sem_linha_de_turma": [
+        "27036057",
+        "27036600",
+        "27038246",
+        "27049876",
+        "27050432",
+        "27056961",
+        "27056970",
+        "27056988",
+        "27218163",
+        "27218961",
+        "27219666",
+        "27225984",
+        "27237400"
+      ]
+    }
+  },
+  "avisos": [
+    "209 de 523 estabelecimento(s) sem coordenada no Catálogo. Eles entram no conjunto e são descartados com motivo 'sem_coordenada' — lacuna para o CSV complementar resolver, nunca motivo para reprovar o requisito.",
+    "13 estabelecimento(s) sem linha na Tabela_Turma: não ofertam turma alguma, e por isso ficam sem ciclo. Não é lacuna de leitura."
+  ]
+}

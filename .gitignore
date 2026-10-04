@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Saída do protótipo, regerada a cada execução
+artefatos/*
+!artefatos/tiles/
+artefatos/tiles/*
+!artefatos/tiles/.gitkeep
+!artefatos/geojson/
+artefatos/geojson/*
+!artefatos/geojson/.gitkeep
+!artefatos/cache_roteamento/
+artefatos/cache_roteamento/*
+!artefatos/cache_roteamento/ors.json
+app/static/
+
+# Figuras em PNG geradas pelos scripts (a interface usa o SVG)
+docs/figuras/*.png
+
+# Modelos nativos do Revit: nunca publicados
+*.rvt
+
+# Insumos: só o estudo de caso e as fontes documentadas
+entradas/ifc/*
+!entradas/ifc/.gitkeep
+!entradas/ifc/estrela_i/
+entradas/ifc/estrela_i/*
+!entradas/ifc/estrela_i/*.ifc
+entradas/gis/*
+!entradas/gis/.gitkeep
+!entradas/gis/estrela_i/
+entradas/gis/estrela_i/*
+!entradas/gis/estrela_i/*.csv
+# Bases nacionais do INEP, distribuídas pelo próprio INEP (ver FONTES.md)
+entradas/inep/*
+!entradas/inep/.gitkeep
+!entradas/inep/FONTES.md
+!entradas/inep/dicionário_dados_educação_básica.xlsx
+# Norma ABNT: redistribuição vedada; versiona-se o derivado em config/
+entradas/abnt/*
+!entradas/abnt/FONTES.md
+
+# Segredo: a chave do serviço de distância
+.streamlit/secrets.toml
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db

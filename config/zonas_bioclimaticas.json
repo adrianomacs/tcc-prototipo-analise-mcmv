@@ -1,0 +1,140 @@
+{
+  "norma": "ABNT TR 15220-3-1:2024",
+  "gerado_em": "2026-09-25T15:12:55+00:00",
+  "gerador": {
+    "script": "scripts/gerar_zonas_bioclimaticas.py",
+    "versao": "1.1"
+  },
+  "municipios": {
+    "autoridade": "config/municipios_ibge.csv",
+    "total": 5571,
+    "com_zona": 5571,
+    "com_zona_da_norma": 5570,
+    "com_zona_herdada": 1,
+    "sem_zona": 0
+  },
+  "base_de_localidades_da_norma": {
+    "fonte": "IBGE, API de localidades",
+    "url": "https://servicodados.ibge.gov.br/api/docs/localidades",
+    "acesso_declarado_pela_norma": "2023-05-02"
+  },
+  "pdfs": [
+    {
+      "arquivo": "ABNT_TR_15220-3-1_2024_Centro_Oeste.pdf",
+      "sha256": "30e4e4e12985410b482ffae3abeb24729dad3de80bd64b480519590ca097edbf",
+      "linhas": 467
+    },
+    {
+      "arquivo": "ABNT_TR_15220-3-1_2024_Nordeste.pdf",
+      "sha256": "ec9359dd3e4d8380deeb8e9cbbd50394f50fb37dbf85698525a6110113d61b73",
+      "linhas": 1794
+    },
+    {
+      "arquivo": "ABNT_TR_15220-3-1_2024_Norte.pdf",
+      "sha256": "cab248356dd017c1f1e8b63ec910797ff5f2c11527d900a76a290fe8920c3f4a",
+      "linhas": 450
+    },
+    {
+      "arquivo": "ABNT_TR_15220-3-1_2024_Sudeste.pdf",
+      "sha256": "6121b5ad6c4d82a2f5c438d989619fee0fceb43ceeafd608244adfbcb36bf5e1",
+      "linhas": 1668
+    },
+    {
+      "arquivo": "ABNT_TR_15220-3-1_2024_Sul.pdf",
+      "sha256": "d04999ad905f8bd94ec0508f84089d8f7f74428ca8379b01fe9e90b131350843",
+      "linhas": 1191
+    }
+  ],
+  "municipios_sem_zona": [],
+  "municipios_com_zona_herdada": [
+    {
+      "codigo_ibge": "5101837",
+      "uf": "MT",
+      "nome": "Boa Esperança do Norte",
+      "zona_bioclimatica": "5B",
+      "origens": [
+        "5107925",
+        "5106240"
+      ]
+    }
+  ],
+  "grafias_divergentes": [
+    {
+      "codigo_ibge": "1400605",
+      "uf": "RR",
+      "nome_ibge": "São Luiz do Anauá",
+      "nome_abnt": "São Luiz"
+    },
+    {
+      "codigo_ibge": "1708254",
+      "uf": "TO",
+      "nome_ibge": "Tabocão",
+      "nome_abnt": "Fortaleza do Tabocão"
+    },
+    {
+      "codigo_ibge": "2400208",
+      "uf": "RN",
+      "nome_ibge": "Assú",
+      "nome_abnt": "Açu"
+    },
+    {
+      "codigo_ibge": "2401206",
+      "uf": "RN",
+      "nome_ibge": "Arez",
+      "nome_abnt": "Arês"
+    },
+    {
+      "codigo_ibge": "2800100",
+      "uf": "SE",
+      "nome_ibge": "Amparo do São Francisco",
+      "nome_abnt": "Amparo de São Francisco"
+    },
+    {
+      "codigo_ibge": "2922250",
+      "uf": "BA",
+      "nome_ibge": "Muquém do São Francisco",
+      "nome_abnt": "Muquém de São Francisco"
+    },
+    {
+      "codigo_ibge": "2928505",
+      "uf": "BA",
+      "nome_ibge": "Santa Terezinha",
+      "nome_abnt": "Santa Teresinha"
+    },
+    {
+      "codigo_ibge": "3105509",
+      "uf": "MG",
+      "nome_ibge": "Barão do Monte Alto",
+      "nome_abnt": "Barão de Monte Alto"
+    },
+    {
+      "codigo_ibge": "3122900",
+      "uf": "MG",
+      "nome_ibge": "Dona Euzébia",
+      "nome_abnt": "Dona Eusébia"
+    },
+    {
+      "codigo_ibge": "3165206",
+      "uf": "MG",
+      "nome_ibge": "São Tomé das Letras",
+      "nome_abnt": "São Thomé das Letras"
+    },
+    {
+      "codigo_ibge": "3516101",
+      "uf": "SP",
+      "nome_ibge": "Florínea",
+      "nome_abnt": "Florínia"
+    },
+    {
+      "codigo_ibge": "5107800",
+      "uf": "MT",
+      "nome_ibge": "Santo Antônio de Leverger",
+      "nome_abnt": "Santo Antônio do Leverger"
+    }
+  ],
+  "notas": [
+    "O texto da norma declara cobrir '5 507 cidades'; a tabela traz uma linha por município da base IBGE de 2023-05-02. O número no texto não corresponde ao conteúdo da tabela.",
+    "O vocabulário de zona desta edição tem 12 classes (1M, 1R, 2M, 2R, 3A, 3B, 4A, 4B, 5A, 5B, 6A, 6B) e NÃO é o zoneamento numérico de 8 zonas da ABNT NBR 15220-3:2005. A numeração não se preserva entre as duas edições (ex.: São Paulo, Z3 na de 2005, é 2M nesta). Ver o achado sobre o conflito de vocabulário na Portaria MCID 725 em docs/tcc/achados_desenvolvimento.md.",
+    "Município instalado depois da base de localidades da norma (2023-05-02) não tem linha na ABNT. Quando os municípios de origem concordam, a zona é herdada e a linha sai marcada com fonte HERANCA_MUNICIPIO_DE_ORIGEM, com as origens nomeadas na observação; origem divergente não é herdada (ADR-030)."
+  ]
+}

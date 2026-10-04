@@ -1,0 +1,29 @@
+{
+  "gerado_em": "2026-09-22T20:38:16+00:00",
+  "gerador": {
+    "script": "scripts/gerar_municipios.py",
+    "versao": "2.0"
+  },
+  "lista_de_municipios": {
+    "fonte": "IBGE, API de localidades",
+    "url": "https://servicodados.ibge.gov.br/api/v1/localidades/municipios?view=nivelado",
+    "total": 5571
+  },
+  "populacao": {
+    "fonte": "IBGE, Censo Demográfico 2022 — SIDRA tabela 4714",
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/4714/periodos/2022/variaveis/93%7C614?localidades=N6%5Ball%5D",
+    "tabela": "4714",
+    "variaveis": {
+      "93": "População residente (pessoas)",
+      "614": "Densidade demográfica (hab/km²)"
+    },
+    "data_de_referencia": "2022-07-31",
+    "nao_e": "estimativa anual (tabela 6579; indicador 29171 do Cidades@)",
+    "municipios_na_fonte": 5570,
+    "com_populacao": 5570,
+    "sem_populacao": [
+      "5101837"
+    ],
+    "na_fonte_e_fora_da_lista": []
+  }
+}

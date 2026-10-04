@@ -1,0 +1,159 @@
+# Lista de referências do trabalho, fonte única para a página "Referências"
+# do aplicativo (app/paginas/pesquisa/referencias.py). Formato USP/ESALQ,
+# que difere da ABNT: autores como "Sobrenome, I.I."
+# separados por ";" e todos listados; ano logo após os autores; periódico
+# como "Título. Periódico vol(num): páginas."; autor institucional por
+# extenso com a sigla entre colchetes; sem negrito; ordem alfabética (a
+# ordem deste arquivo não importa, o serviço ordena).
+#
+# Campos: chave (identificador estável), texto (a referência pronta),
+# validar (true quando algum dado ainda precisa ser conferido na fonte, ou
+# quando a obra ainda não é citada), nota (o que conferir) e citada
+# (false para a obra registrada aqui que não é citada; a página
+# a deixa de fora; omitido vale true).
+
+- chave: abnt_19650_1
+  texto: "Associação Brasileira de Normas Técnicas [ABNT]. 2022a. ABNT NBR ISO 19650-1: Organização da informação acerca de trabalhos da construção, gestão da informação usando a modelagem da informação da construção. Parte 1, conceitos e princípios. ABNT, Rio de Janeiro, RJ, Brasil."
+  validar: false
+
+- chave: abnt_19650_2
+  texto: "Associação Brasileira de Normas Técnicas [ABNT]. 2022b. ABNT NBR ISO 19650-2: Organização da informação acerca de trabalhos da construção, gestão da informação usando a modelagem da informação da construção. Parte 2, fase de entrega de ativos. ABNT, Rio de Janeiro, RJ, Brasil."
+  validar: false
+
+- chave: abnt_15220_3
+  texto: "Associação Brasileira de Normas Técnicas [ABNT]. 2024a. ABNT NBR 15220-3: Desempenho térmico de edificações. Parte 3, zoneamento bioclimático brasileiro. ABNT, Rio de Janeiro, RJ, Brasil."
+  validar: true
+  nota: "Conferir ano da edição vigente e título exato. Citada na página de dados para os testes."
+
+- chave: abnt_tr_15220_3_1
+  texto: "Associação Brasileira de Normas Técnicas [ABNT]. 2024b. ABNT TR 15220-3-1: Desempenho térmico de edificações. Parte 3-1, zoneamento bioclimático brasileiro, lista de municípios. ABNT, Rio de Janeiro, RJ, Brasil."
+  validar: true
+  nota: "Conferir ano e título exato do relatório técnico. Citado na página de dados para os testes."
+
+- chave: azari_2025
+  texto: "Azari, P.; Li, S.; Shaker, A.; Sattar, S. 2025. Georeferencing building information models for BIM/GIS integration: a review of methods and tools. ISPRS International Journal of Geo-Information 14(5): 180."
+  validar: false
+
+- chave: brasil_lei_14620
+  texto: "Brasil. 2023. Lei nº 14.620, de 13 de julho de 2023. Dispõe sobre o Programa Minha Casa, Minha Vida, altera diversas leis e dá outras providências. Diário Oficial da União, Brasília, 14 jul. 2023. Seção 1, p. 1."
+  validar: true
+  nota: "Conferir ementa completa, data de publicação e página no DOU."
+
+- chave: mcid_725
+  texto: "Brasil. Ministério das Cidades [MCID]. 2023. Portaria MCID nº 725, de 15 de junho de 2023. Dispõe sobre as especificações urbanísticas, de projeto e de obra e sobre os valores de provisão de unidade habitacional para empreendimentos habitacionais no âmbito das linhas de atendimento de provisão subsidiada de unidades habitacionais novas em áreas urbanas com recursos do Fundo de Arrendamento Residencial e do Fundo de Desenvolvimento Social, integrantes do Programa Minha Casa, Minha Vida. Diário Oficial da União, Brasília, 16 jun. 2023. Seção 1, Extra A, p. 4."
+  validar: false
+  nota: "Ementa e publicação (Edição 113-A, Seção 1, Extra A, p. 4) conferidas no cabeçalho do PDF compilado, cuja última alteração é a Portaria MCID nº 1.079, de 20 de agosto de 2026. A versão compilada usada é dita no texto, não na referência."
+
+- chave: mcid_704
+  texto: "Brasil. Ministério das Cidades [MCID]. 2024. Portaria MCID nº 704, de 17 de julho de 2024. Formaliza a abertura de procedimento para a contratação de empreendimentos habitacionais em Municípios do Estado do Rio Grande do Sul em situação de emergência ou estado de calamidade pública reconhecidos pelo Poder Executivo federal em 2024, no âmbito da linha de atendimento de provisão subsidiada de unidades habitacionais novas em áreas urbanas com recursos do Fundo de Arrendamento Residencial, integrante do Programa Minha Casa, Minha Vida, de que trata a Lei nº 14.620, de 13 de julho de 2023. Diário Oficial da União, Brasília, 18 jul. 2024. Seção 1, p. 15."
+  validar: false
+  nota: "Data, ementa e publicação (DOU de 18/07/2024, Edição 137, Seção 1, p. 15) conferidas no IRIB e no NormasBrasil, que concordam."
+
+- chave: bsa_georef_2020
+  texto: "buildingSMART Australasia. 2020. User guide for geo-referencing in IFC: version 2.0. buildingSMART International. Disponível em: <https://www.buildingsmart.org/wp-content/uploads/2020/02/User-Guide-for-Geo-referencing-in-IFC-v2.0.pdf>. Acesso em: 16 jun. 2026."
+  validar: false
+
+- chave: bsi_ids_2024
+  texto: "buildingSMART International. 2024. Information delivery specification (IDS): version 1.0. Disponível em: <https://www.buildingsmart.org/standards/bsi-standards/information-delivery-specification-ids/>. Acesso em: 16 jun. 2026."
+  validar: false
+
+- chave: chen_2018
+  texto: "Chen, Y.; Shooraj, E.; Rajabifard, A.; Sabri, S. 2018. From IFC to 3D tiles: an integrated open-source solution for visualising BIMs on Cesium. ISPRS International Journal of Geo-Information 7(10): 393."
+  validar: false
+
+- chave: clemen_2019
+  texto: "Clemen, C.; Görne, H. 2019. Level of georeferencing (LoGeoRef) using IFC for BIM. Journal of Geodesy, Cartography and Cadastre 10: 15-20."
+  validar: false
+  nota: "Páginas 15-20 conferidas no PDF do periódico (jgcc.geoprevi.ro, nº 10/2019) e título com só a primeira palavra em maiúscula, como o manual pede para títulos de trabalho."
+
+- chave: eastman_2009
+  texto: "Eastman, C.; Lee, J.M.; Jeong, Y.S.; Lee, J.K. 2009. Automatic rule-based checking of building designs. Automation in Construction 18(8): 1011-1033."
+  validar: false
+
+- chave: evans_2003
+  texto: "Evans, E. 2003. Domain-Driven Design: Tackling Complexity in the Heart of Software. Addison-Wesley, Boston, MA, EUA."
+  validar: true
+  nota: "Conferir editora, local e se a citação deve ser à primeira edição (2003/2004)."
+
+- chave: fernandes_2018
+  texto: "Fernandes, G.H.; Formoso, C.T.; Tzortzopoulos-Fazenda, P. 2018. Método para verificação automatizada de requisitos em empreendimentos habitacionais de interesse social. Ambiente Construído 18(4): 259-278."
+  validar: true
+  nota: "Conferir o prenome (a resenha diz Guilherme von der Heyde Fernandes) e a abreviação com partícula no formato ESALQ."
+
+- chave: fischer_2024
+  texto: "Fischer, S.; Urban, H.; Schranz, C.; Loibl, P.; van Berlo, L. 2024. Extending information delivery specifications for digital building permit requirements. Developments in the Built Environment 20: 100560."
+  validar: false
+
+- chave: iso_7817_1
+  texto: "International Organization for Standardization [ISO]. 2024. ISO 7817-1: Building information modelling, level of information need. Part 1, concepts and principles. ISO, Genebra, Suíça."
+  validar: false
+
+- chave: ismail_2017
+  texto: "Ismail, A.S.; Ali, K.N.; Iahad, N.A. 2017. A review on BIM-based automated code compliance checking system. In: International Conference on Research and Innovation in Information Systems, 2017, Langkawi, Malásia. Proceedings... p. 1-6."
+  validar: false
+
+- chave: jaud_2022
+  texto: "Jaud, Š.; Clemen, C.; Muhič, S.; Borrmann, A. 2022. Georeferencing in IFC: meeting the requirements of infrastructure and building industries. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences X-4/W2: 145-152."
+  validar: true
+  nota: "O formato ESALQ lista todos os autores. Conferir a lista completa e a ordem no artigo. Fora da lista de referências enquanto não for citado."
+  citada: false
+
+- chave: martin_2017
+  texto: "Martin, R.C. 2017. Clean Architecture: A Craftsman's Guide to Software Structure and Design. Prentice Hall, Boston, MA, EUA."
+  validar: true
+  nota: "Conferir editora e local."
+
+- chave: martin_2012
+  texto: "Martin, R.C. 2012. The clean architecture. The Clean Code Blog, 13 ago. 2012. Disponível em: <https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html>. Acesso em: 26 set. 2026."
+  validar: true
+  nota: "Texto em que o autor apresenta o diagrama circular da Arquitetura Limpa. Conferir a data do post. Título com só a primeira palavra em maiúscula."
+
+- chave: noardo_2020
+  texto: "Noardo, F.; Harrie, L.; Arroyo Ohori, K.; Biljecki, F.; Ellul, C.; Krijnen, T.; Eriksson, H.; Guler, D.; Hintz, D.; Jadidi, M.A.; Pla, M.; Sanchez, S.; Soini, V.-P.; Stouffs, R.; Tekavec, J.; Stoter, J. 2020. Tools for BIM-GIS integration (IFC georeferencing and conversions): results from the GeoBIM Benchmark 2019. ISPRS International Journal of Geo-Information 9(9): 502."
+  validar: false
+  nota: "Lista de 16 autores e ordem conferidas no artigo (MDPI, ISPRS IJGI 9(9): 502)."
+
+- chave: piras_2024
+  texto: "Piras, G.; Muzi, F.; Zylka, C. 2024. Integration of BIM and GIS for the digitization of the built environment. Applied Sciences 14(23): 11171."
+  validar: false
+
+- chave: preidel_2018
+  texto: "Preidel, C.; Borrmann, A. 2018. BIM-based code compliance checking. p. 367-381. In: Borrmann, A.; König, M.; Koch, C.; Beetz, J. Building Information Modeling: Technology Foundations and Industry Practice. Springer, Cham, Suíça."
+  validar: false
+
+- chave: sani_2018
+  texto: "Sani, M.J.; Abdul Rahman, A. 2018. GIS and BIM integration at data level: a review. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences XLII-4/W9: 299-306."
+  validar: false
+
+- chave: solihin_2015
+  texto: "Solihin, W.; Eastman, C. 2015. Classification of rules for automated BIM rule checking development. Automation in Construction 53: 69-82."
+  validar: false
+
+- chave: zhu_2018
+  texto: "Zhu, J.; Wright, G.; Wang, J.; Wang, X. 2018. A critical review of the integration of geographic information system and building information modelling at the data level. ISPRS International Journal of Geo-Information 7(2): 66."
+  validar: false
+
+- chave: ibge_censo_2022
+  texto: "Instituto Brasileiro de Geografia e Estatística [IBGE]. 2023. Censo Demográfico 2022: tabela 4714, população residente, área territorial e densidade demográfica. Sistema IBGE de Recuperação Automática (SIDRA). Disponível em: <https://sidra.ibge.gov.br/tabela/4714>. Acesso em: 27 set. 2026."
+  validar: true
+  nota: "Fonte da população municipal usada no porte do empreendimento (config/municipios_ibge.json, tabela 4714, data de referência 31/07/2022). Conferir o ano de publicação da tabela e a forma de citar dado do SIDRA no formato ESALQ."
+
+- chave: ibge_malhas
+  texto: "Instituto Brasileiro de Geografia e Estatística [IBGE]. n.d. API de malhas geográficas, versão 3: malhas municipais. Disponível em: <https://servicodados.ibge.gov.br/api/docs/malhas?versao=3>. Acesso em: 27 set. 2026."
+  validar: true
+  nota: "Malha municipal consultada sob demanda por core/infra/gis/ibge_malhas.py. Conferir o ano/edição da malha servida pela API para substituir o n.d."
+
+- chave: inep_censo_escolar_2025
+  texto: "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira [INEP]. 2026. Microdados do Censo Escolar da Educação Básica 2025. INEP, Brasília, DF, Brasil. Disponível em: <https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar>. Acesso em: 27 set. 2026."
+  validar: true
+  nota: "Base dos equipamentos de educação (config/equipamentos_4307807.json; Tabela_Escola e Tabela_Turma 2025). As coordenadas vêm do Catálogo de Escolas do INEP, porque o microdado 2025 não as traz; decidir se o Catálogo ganha entrada própria. Conferir o ano de divulgação dos microdados."
+
+- chave: heigit_ors
+  texto: "Heidelberg Institute for Geoinformation Technology [HeiGIT]. n.d. openrouteservice. Disponível em: <https://openrouteservice.org>. Acesso em: 27 set. 2026."
+  validar: true
+  nota: "Serviço de roteamento usado para as distâncias caminháveis (perfil a pé). Conferir autoria institucional e se há forma de citação recomendada pelo HeiGIT."
+
+- chave: osm
+  texto: "OpenStreetMap Contributors. n.d. OpenStreetMap. Disponível em: <https://www.openstreetmap.org>. Acesso em: 27 set. 2026."
+  validar: true
+  nota: "Rede viária sobre a qual o openrouteservice calcula as distâncias; dados sob licença ODbL. Conferir a forma de citação exigida pela licença."

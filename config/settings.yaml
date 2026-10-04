@@ -1,0 +1,24 @@
+# Parâmetros globais do protótipo.
+# Centraliza caminhos e constantes para que nenhuma regra precise "adivinhar"
+# onde estão os dados ou qual o sistema de coordenadas de referência.
+
+paths:
+  entradas_ifc: "entradas/ifc"
+  entradas_gis: "entradas/gis"
+  base_requisitos_xlsx: "config/Base_Requisitos_Portaria_MCID_725.xlsx"  # base-mãe (editada no Excel)
+  regras_ativas: "config/regras_ativas.yaml"                              # IDs ligados no recorte atual
+  artefatos: "artefatos"
+  relatorio: "artefatos/relatorio.json"
+
+# Georreferenciamento
+crs:
+  # Sistema projetado de referência esperado nos modelos (SIRGAS 2000 / UTM).
+  # O fuso é ajustado conforme a localidade do empreendimento.
+  projetado_esperado: "EPSG:31983"   # SIRGAS 2000 / UTM zona 23S (exemplo)
+  geografico: "EPSG:4674"            # SIRGAS 2000 (geográficas)
+
+# Comportamento de execução
+execucao:
+  # Em modo de medição (PoC) a execução NÃO é abortada quando um pré-requisito
+  # falha; as regras dependentes retornam NAO_AVALIAVEL.
+  abortar_em_prerequisito_falho: false

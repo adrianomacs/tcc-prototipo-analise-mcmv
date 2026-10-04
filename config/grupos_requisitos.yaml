@@ -1,0 +1,201 @@
+# Grupos de requisitos — coleção DECLARATIVA sobre o motor de regras.
+#
+# Um grupo agrega regras individuais para apresentação e seleção em bloco na
+# interface (roadmap §3). Não substitui o motor: a execução continua regra a
+# regra (executor com ordenação topológica + guards); o grupo é uma camada de
+# organização. Carregado por core/aplicacao/grupos.py.
+#
+# Campos por grupo:
+#   id, rotulo, camada (GIS | GIS_BIM | BIM | BIM_GIS), porta (regra de
+#   entrada do conjunto), descricao, regras.
+# Campos por regra do grupo (espelho enxuto da base de requisitos para a UI; a fonte
+# normativa completa segue sendo config/Base_Requisitos_Portaria_MCID_725.xlsx):
+#   id, rotulo, parametro, aplicabilidade (rótulo p/ UI: unifamiliar |
+#   multifamiliar | ambas). A situação (implementada ou não) NÃO fica aqui:
+#   deriva do registro de regras em tempo de execução.
+
+grupos:
+  - id: qualificacao_urbanistica
+    rotulo: Qualificação urbanística — porte do empreendimento
+    camada: GIS
+    porta: ""
+    descricao: >
+      Avalia o porte do empreendimento contra o porte populacional do município
+      (Anexo II, item 4.I.a da Portaria MCID nº 725/2023): o número de unidades
+      habitacionais por empreendimento, e o do grupo de empreendimentos
+      contíguos, não pode passar do limite da faixa de população. O porte é
+      derivado do Censo Demográfico 2022 (IBGE, SIDRA tabela 4714) a partir do
+      município declarado, nunca informado pelo proponente; a contagem é o
+      total de UH previstas declarado na proposta, e não o que o modelo IFC
+      representa. O limite do grupo de contíguos (empreendimentos de
+      interesse social a até 1 km, em execução ou entregues nos últimos 5
+      anos) NÃO é avaliado automaticamente — não há cadastro público desses
+      empreendimentos com perímetro —, então aparece remetido ao parecer do
+      analista. Em consequência, o requisito pode ser REPROVADO por esta
+      ferramenta (quando o limite individual é excedido), nunca aprovado.
+    regras:
+      - id: EMP-025
+        rotulo: Número máximo de UH por empreendimento e por grupo de contíguos
+        parametro: "Exige os dois limites da faixa de porte (agregação: todos)"
+        aplicabilidade: todas
+      - id: EMP-025.1
+        rotulo: Limite de UH por empreendimento
+        parametro: "Até 20 mil hab.: 50 UH · até 50 mil: 100 · até 100 mil: 150 · até 500 mil: 250 · acima: 300"
+        aplicabilidade: todas
+      - id: EMP-025.2
+        rotulo: Limite de UH do grupo de empreendimentos contíguos
+        parametro: "Até 20 mil hab.: 200 UH · até 50 mil: 300 · até 100 mil: 400 · até 500 mil: 500 · acima: 750"
+        aplicabilidade: todas
+
+  - id: georreferenciamento
+    rotulo: Georreferenciamento do modelo
+    camada: GIS_BIM
+    porta: EMP-001
+    descricao: >
+      Avalia o georreferenciamento do modelo e valida se ele está corretamente
+      posicionado em seu contexto geográfico: verifica a estrutura de
+      referenciamento (IfcProjectedCRS + IfcMapConversion em SIRGAS 2000 / UTM
+      — nível 50 da escala LoGeoRef) e confronta a âncora geográfica derivada
+      do modelo com a localização declarada (UF/município), usando a malha
+      municipal oficial do IBGE.
+    regras:
+      - id: EMP-001
+        rotulo: Modelo georreferenciado e posicionado na localização declarada
+        parametro: "LoGeoRef 50 (SIRGAS 2000 / UTM) + âncora dentro do município declarado"
+        aplicabilidade: todas
+
+  - id: programa_necessidades
+    rotulo: Programa de necessidades
+    camada: BIM
+    porta: EDI-004
+    descricao: >
+      Avalia se o programa de necessidades mínimo da unidade habitacional foi
+      cumprido: presença dos ambientes obrigatórios, áreas úteis mínimas e
+      dimensões mínimas dos ambientes, conforme o Anexo III da Portaria MCID
+      nº 725/2023.
+    regras:
+      - id: EDI-004
+        rotulo: Presença do programa mínimo de ambientes na UH
+        parametro: "Sala, dorm. casal, dorm. 2 pessoas, cozinha, área de serviço e banheiro"
+        aplicabilidade: ambas
+      - id: EDI-004.1
+        rotulo: Varanda integrante do programa mínimo
+        parametro: "Presença de varanda na UH multifamiliar"
+        aplicabilidade: multifamiliar
+      - id: EDI-001
+        rotulo: Área útil mínima da UH tipo casa
+        parametro: "Área útil ≥ 40,00 m²"
+        aplicabilidade: unifamiliar
+      - id: EDI-002
+        rotulo: Área útil mínima de apartamento / casa sobreposta
+        parametro: "Área útil ≥ 41,50 m² com varanda e área principal ≥ 40,00 m²"
+        aplicabilidade: multifamiliar
+      - id: EDI-007
+        rotulo: Largura mínima da cozinha
+        parametro: "Largura ≥ 1,80 m"
+        aplicabilidade: ambas
+      - id: EDI-008
+        rotulo: Largura mínima da sala de estar/refeições
+        parametro: "Largura ≥ 2,40 m"
+        aplicabilidade: ambas
+      - id: EDI-009
+        rotulo: Largura mínima do banheiro
+        parametro: "Largura ≥ 1,50 m"
+        aplicabilidade: ambas
+      - id: EDI-011
+        rotulo: Dimensões mínimas da varanda (apartamentos)
+        parametro: "Largura interna ≥ 0,80 m e área útil ≥ 1,50 m²"
+        aplicabilidade: multifamiliar
+
+  - id: enquadramento
+    rotulo: Enquadramento do terreno
+    camada: GIS
+    porta: ""
+    descricao: >
+      Avalia se o terreno do empreendimento está inserido num entorno com os
+      equipamentos exigidos pelo Anexo I da Portaria MCID nº 725/2023. O recorte
+      implementado neste trabalho cobre os EQUIPAMENTOS DE EDUCAÇÃO — creche e
+      ensino fundamental —, medidos por distância caminhável em rede viária a
+      partir do centro do terreno; somente equipamentos PÚBLICOS e em situação
+      ATIVA são considerados. A entrada desta checagem não é um requisito, e sim
+      a definição do terreno (poligonal ou centro), de onde saem todas as
+      medidas. Os demais requisitos do eixo Enquadramento estão descritos em
+      docs/modulos/enquadramento/concepcao_completa.md e ficam para a evolução do protótipo.
+      Os dois requisitos de ensino fundamental são satisfeitos, pela Portaria,
+      por QUALQUER de duas alternativas: distância caminhável ou transporte
+      público em menos de 20 min. A alternativa por transporte NÃO é avaliada
+      automaticamente — o itinerário do transporte escolar não é dado público e
+      sua comprovação depende de declaração ou documentação da Prefeitura —,
+      então ela aparece na lista como remetida ao parecer do analista, e não
+      omitida. Em consequência, os dois requisitos-pai podem ser APROVADOS pela
+      via da distância, mas nunca reprovados por esta ferramenta.
+    regras:
+      - id: ENQ-009
+        rotulo: Acesso a escola de educação infantil (0 a 5 anos)
+        parametro: "Distância caminhável <= 1 km do centro do terreno"
+        aplicabilidade: todas
+      - id: ENQ-010
+        rotulo: Acesso a escola de ensino fundamental — Ciclo I (6 a 10 anos)
+        parametro: "Satisfeito por qualquer das duas alternativas (agregação por limites)"
+        aplicabilidade: todas
+      - id: ENQ-010.1
+        rotulo: Alternativa A — distância caminhável ao ensino fundamental Ciclo I
+        parametro: "Distância caminhável <= 1,5 km do centro do terreno"
+        aplicabilidade: todas
+      - id: ENQ-010.2
+        rotulo: Alternativa B — transporte público escolar ao ensino fundamental Ciclo I
+        parametro: "Transporte público ESCOLAR em tempo < 20 min"
+        aplicabilidade: todas
+      - id: ENQ-011
+        rotulo: Acesso a escola de ensino fundamental — Ciclo II (11 a 15 anos)
+        parametro: "Satisfeito por qualquer das duas alternativas (agregação por limites)"
+        aplicabilidade: todas
+      - id: ENQ-011.1
+        rotulo: Alternativa A — distância caminhável ao ensino fundamental Ciclo II
+        parametro: "Distância caminhável <= 1,5 km do centro do terreno"
+        aplicabilidade: todas
+      - id: ENQ-011.2
+        rotulo: Alternativa B — transporte escolar ou coletivo ao ensino fundamental Ciclo II
+        parametro: "Transporte escolar OU coletivo em tempo < 20 min, computada a caminhada até o embarque"
+        aplicabilidade: todas
+
+  - id: absortancia_zona_bioclimatica
+    rotulo: Absortância solar por zona bioclimática (BIM + GIS)
+    camada: GIS_BIM
+    porta: ""
+    descricao: >
+      Avalia a absortância solar de dois elementos do envelope — parede
+      externa e cobertura — contra o limite que a zona bioclimática do
+      território impõe (Anexo III, itens 4.II.a.x e 4.III.i da Portaria MCID
+      nº 725/2023). A zona é derivada do município (ABNT NBR 15220-3, edição
+      vigente) e nunca é declarada pelo proponente. Cada item da
+      Portaria é um PAI com dois RAMOS mutuamente exclusivos, selecionados
+      pela zona: o pai conclui quando um só ramo pode aplicar e, quando os
+      dois ramos discordam entre si, a indecisão fica declarada em vez de
+      reprovar. O IfcCovering de cada elemento é distinguido
+      pelo elemento hospedeiro — parede x cobertura —, nunca por adivinhação.
+    regras:
+      - id: EDI-019
+        rotulo: Absortância da parede externa compatível com a zona bioclimática
+        parametro: "ZB 1-2 (R/M): <= 0,6 · ZB 3-6 (A/B): <= 0,4 (seleção exclusiva pelo ramo aplicável)"
+        aplicabilidade: ambas
+      - id: EDI-019.1
+        rotulo: Ramo — parede em ZB 1 e 2 (R e M)
+        parametro: "Absortância <= 0,6"
+        aplicabilidade: ambas
+      - id: EDI-019.2
+        rotulo: Ramo — parede em ZB 3, 4, 5 e 6 (A e B)
+        parametro: "Absortância <= 0,4"
+        aplicabilidade: ambas
+      - id: EDI-024
+        rotulo: Absortância da cobertura compatível com a zona bioclimática
+        parametro: "ZB 1-3: <= 0,6 · ZB 4-8: <= 0,4 (seleção exclusiva pelo ramo aplicável)"
+        aplicabilidade: ambas
+      - id: EDI-024.1
+        rotulo: Ramo — cobertura em ZB 1, 2 e 3
+        parametro: "Absortância <= 0,6"
+        aplicabilidade: ambas
+      - id: EDI-024.2
+        rotulo: Ramo — cobertura em ZB 4, 5, 6, 7 e 8
+        parametro: "Absortância <= 0,4"
+        aplicabilidade: ambas

@@ -1,0 +1,101 @@
+{
+  "durations": [
+    [
+      1247.39,
+      1215.01,
+      7806.82
+    ]
+  ],
+  "distances": [
+    [
+      1732.49,
+      1687.52,
+      10842.88
+    ]
+  ],
+  "destinations": [
+    {
+      "location": [
+        -51.956574,
+        -29.496928
+      ],
+      "name": "Rua Tomas Pereira Neto",
+      "snapped_distance": 10.76
+    },
+    {
+      "location": [
+        -51.976719,
+        -29.510342
+      ],
+      "name": "Estrada Municipal Antônio Barth",
+      "snapped_distance": 168.63
+    },
+    {
+      "location": [
+        -51.990094,
+        -29.480205
+      ],
+      "name": "Rua Arcelo Griebeler",
+      "snapped_distance": 23.17
+    }
+  ],
+  "sources": [
+    {
+      "location": [
+        -51.965281,
+        -29.501784
+      ],
+      "name": "Rua Coronel Flores",
+      "snapped_distance": 8.55
+    }
+  ],
+  "metadata": {
+    "attribution": "openrouteservice.org | OpenStreetMap contributors",
+    "service": "matrix",
+    "timestamp": 1789237433043,
+    "query": {
+      "locations": [
+        [
+          -51.96529,
+          -29.50186
+        ],
+        [
+          -51.95661,
+          -29.49702
+        ],
+        [
+          -51.97812,
+          -29.50944
+        ],
+        [
+          -51.99001,
+          -29.48001
+        ]
+      ],
+      "profile": "foot-walking",
+      "profileName": "foot-walking",
+      "responseType": "json",
+      "sources": [
+        "0"
+      ],
+      "destinations": [
+        "1",
+        "2",
+        "3"
+      ],
+      "metrics": [
+        "distance",
+        "duration"
+      ],
+      "resolve_locations": true,
+      "units": "m"
+    },
+    "engine": {
+      "version": "9.10.0",
+      "build_date": "2026-08-13T11:53:14Z",
+      "graph_date": "2026-08-28T12:16:53Z",
+      "osm_date": "2026-08-17T00:00:02Z"
+    }
+  },
+  "_fixture": "GRAVAÇÃO REAL da matriz do OpenRouteService, produzida por scripts/gravar_fixture_ors.py. Substitui a fixture provisória escrita a partir da documentação."
+}

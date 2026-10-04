@@ -1,0 +1,8 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Insumos do estudo de caso e cache da rodada: bytes preservados, para que o
+# SHA-256 publicado confira em qualquer sistema operacional
+*.ifc -text
+entradas/gis/estrela_i/*.csv -text
+artefatos/cache_roteamento/ors.json -text

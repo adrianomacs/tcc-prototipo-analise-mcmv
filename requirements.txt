@@ -1,0 +1,21 @@
+# Dependências do núcleo de verificação (Python).
+# Instale preferencialmente via: pip install -e .
+# Este arquivo é um espelho para quem preferir o fluxo clássico.
+
+ifcopenshell>=0.8.0
+ifctester>=0.8.0
+geopandas>=0.14
+shapely>=2.0
+pyproj>=3.6
+pandas>=2.0
+openpyxl>=3.1     # leitura da planilha-mãe de requisitos (app/servicos/requisitos.py)
+pdfplumber>=0.11  # extração da tabela de zonas bioclimáticas dos PDFs da ABNT
+                  # (scripts/gerar_zonas_bioclimaticas.py)
+pyyaml>=6.0
+streamlit>=1.36   # interface de uso (app/main.py)
+folium>=0.16      # mapa base (OSM) da entrada do terreno — Enquadramento
+streamlit-folium>=0.20  # devolve ao Python o desenho/clique feito no mapa
+
+# desenvolvimento / testes
+pytest>=8.0
+matplotlib>=3.8  # só scripts/gerar_figura1.py (figuras em docs/figuras/)

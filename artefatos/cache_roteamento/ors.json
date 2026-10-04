@@ -1,0 +1,9018 @@
+{
+ "versao": 2,
+ "casas_decimais": 5,
+ "entradas": {
+  "ors|foot-walking|-29.48027,-51.94497|-29.48361,-51.94296": {
+   "metros": 1127.33,
+   "segundos": 811.67,
+   "snap_m": 143.14,
+   "obtido_em": "2026-09-12T15:53:38-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.48027,-51.94497|-29.48821,-51.95238": {
+   "metros": 1260.55,
+   "segundos": 907.59,
+   "snap_m": 143.14,
+   "obtido_em": "2026-09-12T15:53:38-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.48027,-51.94497|-29.49592,-51.94709": {
+   "metros": 2189.9,
+   "segundos": 1576.71,
+   "snap_m": 143.14,
+   "obtido_em": "2026-09-12T15:53:38-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.48027,-51.94497|-29.49164,-51.96268": {
+   "metros": 2862.08,
+   "segundos": 2060.68,
+   "snap_m": 143.14,
+   "obtido_em": "2026-09-12T15:53:38-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.48027,-51.94497|-29.48238,-51.96794": {
+   "metros": 3022.78,
+   "segundos": 2176.38,
+   "snap_m": 143.14,
+   "obtido_em": "2026-09-12T15:53:38-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.48027,-51.94497|-29.50384,-51.94736": {
+   "metros": 3867.39,
+   "segundos": 2784.5,
+   "snap_m": 143.14,
+   "obtido_em": "2026-09-12T15:53:38-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.48027,-51.94497|-29.48446,-51.97516": {
+   "metros": 4059.21,
+   "segundos": 2922.61,
+   "snap_m": 143.14,
+   "obtido_em": "2026-09-12T15:53:38-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.48027,-51.94497|-29.48298,-51.95250": {
+   "metros": 1041.31,
+   "segundos": 749.74,
+   "snap_m": 143.14,
+   "obtido_em": "2026-09-12T15:53:40-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.48027,-51.94497|-29.48006,-51.95758": {
+   "metros": 1997.0,
+   "segundos": 1437.83,
+   "snap_m": 143.14,
+   "obtido_em": "2026-09-12T15:53:40-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.48027,-51.94497|-29.48305,-51.95859": {
+   "metros": 1983.81,
+   "segundos": 1428.33,
+   "snap_m": 143.14,
+   "obtido_em": "2026-09-12T15:53:40-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.48027,-51.94497|-29.49587,-51.94503": {
+   "metros": 2151.69,
+   "segundos": 1549.2,
+   "snap_m": 143.14,
+   "obtido_em": "2026-09-12T15:53:40-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.52571,-51.97258|-29.52018,-51.95923": {
+   "metros": 4229.42,
+   "segundos": 3045.17,
+   "snap_m": 147.69,
+   "obtido_em": "2026-09-13T11:13:30-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.52571,-51.97258|-29.50931,-51.96718": {
+   "metros": 3241.67,
+   "segundos": 2334.0,
+   "snap_m": 147.69,
+   "obtido_em": "2026-09-13T11:13:30-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.52571,-51.97258|-29.51508,-51.97653": {
+   "metros": 1571.29,
+   "segundos": 1131.32,
+   "snap_m": 147.69,
+   "obtido_em": "2026-09-13T11:13:31-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.52571,-51.97258|-29.51872,-51.95949": {
+   "metros": 4578.44,
+   "segundos": 3296.46,
+   "snap_m": 147.69,
+   "obtido_em": "2026-09-13T11:13:31-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.52571,-51.97258|-29.51256,-51.96837": {
+   "metros": 3082.45,
+   "segundos": 2219.36,
+   "snap_m": 147.69,
+   "obtido_em": "2026-09-13T11:13:31-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.49149,-51.94739|-29.49592,-51.94709": {
+   "metros": 730.06,
+   "segundos": 525.64,
+   "snap_m": 55.47,
+   "obtido_em": "2026-09-13T11:34:46-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.49149,-51.94739|-29.48821,-51.95238": {
+   "metros": 653.65,
+   "segundos": 470.63,
+   "snap_m": 55.47,
+   "obtido_em": "2026-09-13T11:34:46-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.49149,-51.94739|-29.48361,-51.94296": {
+   "metros": 1557.23,
+   "segundos": 1121.2,
+   "snap_m": 55.47,
+   "obtido_em": "2026-09-13T11:34:46-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.49149,-51.94739|-29.50384,-51.94736": {
+   "metros": 3132.67,
+   "segundos": 2255.51,
+   "snap_m": 55.47,
+   "obtido_em": "2026-09-13T11:34:46-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.49149,-51.94739|-29.49164,-51.96268": {
+   "metros": 2127.37,
+   "segundos": 1531.69,
+   "snap_m": 55.47,
+   "obtido_em": "2026-09-13T11:34:46-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.49149,-51.94739|-29.48238,-51.96794": {
+   "metros": 3076.69,
+   "segundos": 2215.19,
+   "snap_m": 55.47,
+   "obtido_em": "2026-09-13T11:34:46-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.49149,-51.94739|-29.50931,-51.96718": {
+   "metros": 4656.35,
+   "segundos": 3352.55,
+   "snap_m": 55.47,
+   "obtido_em": "2026-09-13T11:34:46-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.49149,-51.94739|-29.48446,-51.97516": {
+   "metros": 3737.56,
+   "segundos": 2691.02,
+   "snap_m": 55.47,
+   "obtido_em": "2026-09-13T11:34:46-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.49149,-51.94739|-29.49587,-51.94503": {
+   "metros": 844.53,
+   "segundos": 608.06,
+   "snap_m": 55.47,
+   "obtido_em": "2026-09-13T11:34:47-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.49149,-51.94739|-29.48298,-51.95250": {
+   "metros": 1361.71,
+   "segundos": 980.42,
+   "snap_m": 55.47,
+   "obtido_em": "2026-09-13T11:34:47-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.49149,-51.94739|-29.50132,-51.95034": {
+   "metros": 2693.22,
+   "segundos": 1939.1,
+   "snap_m": 55.47,
+   "obtido_em": "2026-09-13T11:34:47-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.49149,-51.94739|-29.48305,-51.95859": {
+   "metros": 2328.07,
+   "segundos": 1676.19,
+   "snap_m": 55.47,
+   "obtido_em": "2026-09-13T11:34:47-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.49149,-51.94739|-29.49360,-51.96294": {
+   "metros": 2339.29,
+   "segundos": 1684.27,
+   "snap_m": 55.47,
+   "obtido_em": "2026-09-13T11:34:47-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.49149,-51.94739|-29.48006,-51.95758": {
+   "metros": 2675.4,
+   "segundos": 1926.27,
+   "snap_m": 55.47,
+   "obtido_em": "2026-09-13T11:34:47-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.49149,-51.94739|-29.48805,-51.96498": {
+   "metros": 2359.8,
+   "segundos": 1699.04,
+   "snap_m": 55.47,
+   "obtido_em": "2026-09-13T11:34:47-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17535,-45.78597|-23.16826,-45.78974": {
+   "metros": 1568.99,
+   "segundos": 1129.66,
+   "snap_m": 103.89,
+   "obtido_em": "2026-09-13T12:29:06-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17535,-45.78597|-23.17007,-45.77868": {
+   "metros": 1252.1,
+   "segundos": 901.5,
+   "snap_m": 103.89,
+   "obtido_em": "2026-09-13T12:29:06-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17535,-45.78597|-23.17316,-45.79618": {
+   "metros": 1412.53,
+   "segundos": 1017.02,
+   "snap_m": 103.89,
+   "obtido_em": "2026-09-13T12:29:06-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17535,-45.78597|-23.18758,-45.79479": {
+   "metros": 2506.46,
+   "segundos": 1804.64,
+   "snap_m": 103.89,
+   "obtido_em": "2026-09-13T12:29:06-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17535,-45.78597|-23.17134,-45.80223": {
+   "metros": 2237.82,
+   "segundos": 1611.21,
+   "snap_m": 103.89,
+   "obtido_em": "2026-09-13T12:29:06-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17535,-45.78597|-23.19459,-45.79253": {
+   "metros": 3492.65,
+   "segundos": 2514.69,
+   "snap_m": 103.89,
+   "obtido_em": "2026-09-13T12:29:06-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17535,-45.78597|-23.19481,-45.79198": {
+   "metros": 3657.94,
+   "segundos": 2633.69,
+   "snap_m": 103.89,
+   "obtido_em": "2026-09-13T12:29:06-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17535,-45.78597|-23.19814,-45.78252": {
+   "metros": 4836.6,
+   "segundos": 3482.32,
+   "snap_m": 103.89,
+   "obtido_em": "2026-09-13T12:29:06-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17535,-45.78597|-23.17946,-45.81253": {
+   "metros": 5366.67,
+   "segundos": 3863.96,
+   "snap_m": 103.89,
+   "obtido_em": "2026-09-13T12:29:06-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17535,-45.78597|-23.20082,-45.78466": {
+   "metros": 4646.86,
+   "segundos": 3345.71,
+   "snap_m": 103.89,
+   "obtido_em": "2026-09-13T12:29:06-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17535,-45.78597|-23.18490,-45.79324": {
+   "metros": 2230.0,
+   "segundos": 1605.59,
+   "snap_m": 103.89,
+   "obtido_em": "2026-09-13T12:29:07-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17535,-45.78597|-23.16643,-45.81135": {
+   "metros": 4476.54,
+   "segundos": 3223.08,
+   "snap_m": 103.89,
+   "obtido_em": "2026-09-13T12:29:07-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17535,-45.78597|-23.17346,-45.79635": {
+   "metros": 1376.4,
+   "segundos": 991.0,
+   "snap_m": 103.89,
+   "obtido_em": "2026-09-13T12:29:08-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17535,-45.78597|-23.18320,-45.79764": {
+   "metros": 2878.96,
+   "segundos": 2072.84,
+   "snap_m": 103.89,
+   "obtido_em": "2026-09-13T12:29:08-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17468,-45.79780|-23.17316,-45.79618": {
+   "metros": 342.4,
+   "segundos": 246.52,
+   "snap_m": 74.05,
+   "obtido_em": "2026-09-13T12:31:30-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17468,-45.79780|-23.17134,-45.80223": {
+   "metros": 991.38,
+   "segundos": 713.79,
+   "snap_m": 74.05,
+   "obtido_em": "2026-09-13T12:31:30-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17468,-45.79780|-23.16826,-45.78974": {
+   "metros": 1430.92,
+   "segundos": 1030.25,
+   "snap_m": 74.05,
+   "obtido_em": "2026-09-13T12:31:30-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17468,-45.79780|-23.18758,-45.79479": {
+   "metros": 3872.65,
+   "segundos": 2788.29,
+   "snap_m": 74.05,
+   "obtido_em": "2026-09-13T12:31:30-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17468,-45.79780|-23.17946,-45.81253": {
+   "metros": 4120.23,
+   "segundos": 2966.53,
+   "snap_m": 74.05,
+   "obtido_em": "2026-09-13T12:31:30-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17468,-45.79780|-23.17007,-45.77868": {
+   "metros": 2914.06,
+   "segundos": 2098.1,
+   "snap_m": 74.05,
+   "obtido_em": "2026-09-13T12:31:30-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17468,-45.79780|-23.17326,-45.81844": {
+   "metros": 3894.57,
+   "segundos": 2804.06,
+   "snap_m": 74.05,
+   "obtido_em": "2026-09-13T12:31:30-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17468,-45.79780|-23.19459,-45.79253": {
+   "metros": 4858.84,
+   "segundos": 3498.33,
+   "snap_m": 74.05,
+   "obtido_em": "2026-09-13T12:31:30-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17468,-45.79780|-23.19481,-45.79198": {
+   "metros": 5024.12,
+   "segundos": 3617.34,
+   "snap_m": 74.05,
+   "obtido_em": "2026-09-13T12:31:30-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17468,-45.79780|-23.17664,-45.82061": {
+   "metros": 4679.32,
+   "segundos": 3369.08,
+   "snap_m": 74.05,
+   "obtido_em": "2026-09-13T12:31:30-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17468,-45.79780|-23.18490,-45.79324": {
+   "metros": 3596.18,
+   "segundos": 2589.23,
+   "snap_m": 74.05,
+   "obtido_em": "2026-09-13T12:31:31-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17468,-45.79780|-23.16643,-45.81135": {
+   "metros": 3230.1,
+   "segundos": 2325.65,
+   "snap_m": 74.05,
+   "obtido_em": "2026-09-13T12:31:31-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17468,-45.79780|-23.17346,-45.79635": {
+   "metros": 306.27,
+   "segundos": 220.51,
+   "snap_m": 74.05,
+   "obtido_em": "2026-09-13T12:31:31-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17468,-45.79780|-23.18320,-45.79764": {
+   "metros": 4245.15,
+   "segundos": 3056.48,
+   "snap_m": 74.05,
+   "obtido_em": "2026-09-13T12:31:31-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17468,-45.79780|-23.17397,-45.80732": {
+   "metros": 3640.14,
+   "segundos": 2620.88,
+   "snap_m": 74.05,
+   "obtido_em": "2026-09-13T12:31:31-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17468,-45.79780|-23.16879,-45.80554": {
+   "metros": 1593.27,
+   "segundos": 1147.14,
+   "snap_m": 74.05,
+   "obtido_em": "2026-09-13T12:31:31-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.17468,-45.79780|-23.18035,-45.81348": {
+   "metros": 4223.13,
+   "segundos": 3040.62,
+   "snap_m": 74.05,
+   "obtido_em": "2026-09-13T12:31:31-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.22279,-45.89313|-23.22024,-45.89594": {
+   "metros": 936.62,
+   "segundos": 674.35,
+   "snap_m": 12.64,
+   "obtido_em": "2026-09-13T13:32:28-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.22279,-45.89313|-23.22963,-45.88795": {
+   "metros": 1218.84,
+   "segundos": 877.56,
+   "snap_m": 12.64,
+   "obtido_em": "2026-09-13T13:32:28-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.22279,-45.89313|-23.21859,-45.88003": {
+   "metros": 2641.93,
+   "segundos": 1902.17,
+   "snap_m": 12.64,
+   "obtido_em": "2026-09-13T13:32:28-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.22279,-45.89313|-23.21008,-45.88555": {
+   "metros": 2630.39,
+   "segundos": 1893.86,
+   "snap_m": 12.64,
+   "obtido_em": "2026-09-13T13:32:28-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.22279,-45.89313|-23.23493,-45.90226": {
+   "metros": 2609.26,
+   "segundos": 1878.65,
+   "snap_m": 12.64,
+   "obtido_em": "2026-09-13T13:32:28-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.22279,-45.89313|-23.23936,-45.88649": {
+   "metros": 2575.23,
+   "segundos": 1854.15,
+   "snap_m": 12.64,
+   "obtido_em": "2026-09-13T13:32:28-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.22279,-45.89313|-23.24271,-45.89619": {
+   "metros": 2973.57,
+   "segundos": 2140.96,
+   "snap_m": 12.64,
+   "obtido_em": "2026-09-13T13:32:28-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.22279,-45.89313|-23.23994,-45.90699": {
+   "metros": 3577.51,
+   "segundos": 2575.78,
+   "snap_m": 12.64,
+   "obtido_em": "2026-09-13T13:32:28-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.22279,-45.89313|-23.19980,-45.88940": {
+   "metros": 3864.13,
+   "segundos": 2782.14,
+   "snap_m": 12.64,
+   "obtido_em": "2026-09-13T13:32:28-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.22279,-45.89313|-23.20042,-45.88290": {
+   "metros": 4194.13,
+   "segundos": 3019.73,
+   "snap_m": 12.64,
+   "obtido_em": "2026-09-13T13:32:28-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.22279,-45.89313|-23.22912,-45.91870": {
+   "metros": 4874.83,
+   "segundos": 3509.83,
+   "snap_m": 12.64,
+   "obtido_em": "2026-09-13T13:32:28-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.22279,-45.89313|-23.24331,-45.91085": {
+   "metros": 4156.38,
+   "segundos": 2992.56,
+   "snap_m": 12.64,
+   "obtido_em": "2026-09-13T13:32:28-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.22279,-45.89313|-23.22325,-45.88278": {
+   "metros": 1440.83,
+   "segundos": 1037.38,
+   "snap_m": 12.64,
+   "obtido_em": "2026-09-13T13:32:29-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.22279,-45.89313|-23.23441,-45.90033": {
+   "metros": 2394.49,
+   "segundos": 1724.02,
+   "snap_m": 12.64,
+   "obtido_em": "2026-09-13T13:32:29-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.22279,-45.89313|-23.23422,-45.90864": {
+   "metros": 2991.32,
+   "segundos": 2153.73,
+   "snap_m": 12.64,
+   "obtido_em": "2026-09-13T13:32:29-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.22279,-45.89313|-23.20042,-45.88906": {
+   "metros": 3790.69,
+   "segundos": 2729.26,
+   "snap_m": 12.64,
+   "obtido_em": "2026-09-13T13:32:29-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.22279,-45.89313|-23.22205,-45.89433": {
+   "metros": 182.95,
+   "segundos": 131.72,
+   "snap_m": 12.64,
+   "obtido_em": "2026-09-13T13:32:30-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.22279,-45.89313|-23.22231,-45.88356": {
+   "metros": 1262.15,
+   "segundos": 908.74,
+   "snap_m": 12.64,
+   "obtido_em": "2026-09-13T13:32:30-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.22279,-45.89313|-23.23089,-45.88755": {
+   "metros": 1355.81,
+   "segundos": 976.17,
+   "snap_m": 12.64,
+   "obtido_em": "2026-09-13T13:32:30-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.22279,-45.89313|-23.21417,-45.88336": {
+   "metros": 2080.2,
+   "segundos": 1497.72,
+   "snap_m": 12.64,
+   "obtido_em": "2026-09-13T13:32:30-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-23.22279,-45.89313|-23.22697,-45.87551": {
+   "metros": 2805.58,
+   "segundos": 2019.99,
+   "snap_m": 12.64,
+   "obtido_em": "2026-09-13T13:32:30-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.48320,-51.96973|-29.48238,-51.96794": {
+   "metros": 192.98,
+   "segundos": 138.94,
+   "snap_m": 122.37,
+   "obtido_em": "2026-09-13T14:14:48-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.48320,-51.96973|-29.48446,-51.97516": {
+   "metros": 843.46,
+   "segundos": 607.29,
+   "snap_m": 122.37,
+   "obtido_em": "2026-09-13T14:14:48-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.48320,-51.96973|-29.49164,-51.96268": {
+   "metros": 1659.7,
+   "segundos": 1194.97,
+   "snap_m": 122.37,
+   "obtido_em": "2026-09-13T14:14:48-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.48320,-51.96973|-29.48821,-51.95238": {
+   "metros": 2744.06,
+   "segundos": 1975.7,
+   "snap_m": 122.37,
+   "obtido_em": "2026-09-13T14:14:48-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.48320,-51.96973|-29.48361,-51.94296": {
+   "metros": 4050.78,
+   "segundos": 2916.54,
+   "snap_m": 122.37,
+   "obtido_em": "2026-09-13T14:14:48-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.48320,-51.96973|-29.49592,-51.94709": {
+   "metros": 3945.52,
+   "segundos": 2840.75,
+   "snap_m": 122.37,
+   "obtido_em": "2026-09-13T14:14:48-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.48320,-51.96973|-29.50931,-51.96718": {
+   "metros": 4330.55,
+   "segundos": 3117.97,
+   "snap_m": 122.37,
+   "obtido_em": "2026-09-13T14:14:48-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.48320,-51.96973|-29.48805,-51.96498": {
+   "metros": 1460.35,
+   "segundos": 1051.45,
+   "snap_m": 122.37,
+   "obtido_em": "2026-09-13T14:14:49-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.48320,-51.96973|-29.48305,-51.95859": {
+   "metros": 1271.48,
+   "segundos": 915.46,
+   "snap_m": 122.37,
+   "obtido_em": "2026-09-13T14:14:49-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.48320,-51.96973|-29.48006,-51.95758": {
+   "metros": 1553.38,
+   "segundos": 1118.43,
+   "snap_m": 122.37,
+   "obtido_em": "2026-09-13T14:14:49-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.48320,-51.96973|-29.49360,-51.96294": {
+   "metros": 2004.31,
+   "segundos": 1443.09,
+   "snap_m": 122.37,
+   "obtido_em": "2026-09-13T14:14:49-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|-29.48320,-51.96973|-29.48298,-51.95250": {
+   "metros": 2842.27,
+   "segundos": 2046.41,
+   "snap_m": 122.37,
+   "obtido_em": "2026-09-13T14:14:49-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48320,-51.96973|-29.48821,-51.95238": {
+   "metros": 2744.05,
+   "segundos": 1975.69,
+   "snap_m": 122.37,
+   "obtido_em": "2026-09-13T19:14:36-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48320,-51.96973|-29.48361,-51.94296": {
+   "metros": 4050.77,
+   "segundos": 2916.53,
+   "snap_m": 122.37,
+   "obtido_em": "2026-09-13T19:14:36-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48320,-51.96973|-29.49592,-51.94709": {
+   "metros": 3945.51,
+   "segundos": 2840.74,
+   "snap_m": 122.37,
+   "obtido_em": "2026-09-13T19:14:36-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48320,-51.96973|-29.50931,-51.96718": {
+   "metros": 4330.55,
+   "segundos": 3117.97,
+   "snap_m": 122.37,
+   "obtido_em": "2026-09-13T19:14:36-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.48320,-51.96973|-29.48238,-51.96794": {
+   "metros": 193.0,
+   "segundos": 138.9,
+   "snap_m": 121.68095600902576,
+   "obtido_em": "2026-09-13T19:14:37-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.483896,
+     -51.968749
+    ],
+    [
+     -29.483108,
+     -51.968009
+    ],
+    [
+     -29.482672,
+     -51.967639
+    ],
+    [
+     -29.48261,
+     -51.967708
+    ],
+    [
+     -29.482562,
+     -51.967717
+    ],
+    [
+     -29.482524,
+     -51.967699
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.48320,-51.96973|-29.48446,-51.97516": {
+   "metros": 843.5,
+   "segundos": 607.3,
+   "snap_m": 121.68095600902576,
+   "obtido_em": "2026-09-13T19:14:37-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.483896,
+     -51.968749
+    ],
+    [
+     -29.48459,
+     -51.969401
+    ],
+    [
+     -29.484426,
+     -51.970175
+    ],
+    [
+     -29.484323,
+     -51.970535
+    ],
+    [
+     -29.482971,
+     -51.975025
+    ],
+    [
+     -29.483667,
+     -51.975292
+    ],
+    [
+     -29.484459,
+     -51.975324
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.48320,-51.96973|-29.49164,-51.96268": {
+   "metros": 1659.7,
+   "segundos": 1195.0,
+   "snap_m": 121.68095600902576,
+   "obtido_em": "2026-09-13T19:14:38-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.483896,
+     -51.968749
+    ],
+    [
+     -29.48459,
+     -51.969401
+    ],
+    [
+     -29.485389,
+     -51.970077
+    ],
+    [
+     -29.486332,
+     -51.970688
+    ],
+    [
+     -29.487901,
+     -51.971386
+    ],
+    [
+     -29.488309,
+     -51.971536
+    ],
+    [
+     -29.489179,
+     -51.968388
+    ],
+    [
+     -29.489331,
+     -51.967855
+    ],
+    [
+     -29.489777,
+     -51.966205
+    ],
+    [
+     -29.490171,
+     -51.964916
+    ],
+    [
+     -29.490056,
+     -51.964934
+    ],
+    [
+     -29.49008,
+     -51.964488
+    ],
+    [
+     -29.490102,
+     -51.964113
+    ],
+    [
+     -29.490235,
+     -51.962981
+    ],
+    [
+     -29.490968,
+     -51.963241
+    ],
+    [
+     -29.491056,
+     -51.962939
+    ],
+    [
+     -29.491551,
+     -51.963126
+    ],
+    [
+     -29.491672,
+     -51.962692
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48320,-51.96973|-29.48305,-51.95859": {
+   "metros": 1271.48,
+   "segundos": 915.46,
+   "snap_m": 122.37,
+   "obtido_em": "2026-09-13T19:14:39-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48320,-51.96973|-29.48006,-51.95758": {
+   "metros": 1553.38,
+   "segundos": 1118.43,
+   "snap_m": 122.37,
+   "obtido_em": "2026-09-13T19:14:39-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48320,-51.96973|-29.49360,-51.96294": {
+   "metros": 2004.31,
+   "segundos": 1443.09,
+   "snap_m": 122.37,
+   "obtido_em": "2026-09-13T19:14:39-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48320,-51.96973|-29.48298,-51.95250": {
+   "metros": 2842.27,
+   "segundos": 2046.41,
+   "snap_m": 122.37,
+   "obtido_em": "2026-09-13T19:14:39-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49083,-51.93585|-29.48821,-51.95238": {
+   "metros": 2398.55,
+   "segundos": 1726.94,
+   "snap_m": 58.22,
+   "obtido_em": "2026-09-13T19:26:19-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49083,-51.93585|-29.50384,-51.94736": {
+   "metros": 4877.57,
+   "segundos": 3511.82,
+   "snap_m": 58.22,
+   "obtido_em": "2026-09-13T19:26:19-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49083,-51.93585|-29.49164,-51.96268": {
+   "metros": 3872.26,
+   "segundos": 2788.0,
+   "snap_m": 58.22,
+   "obtido_em": "2026-09-13T19:26:19-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49083,-51.93585|-29.48361,-51.94296": {
+   "metros": 1678.2,
+   "segundos": 1208.3,
+   "snap_m": 57.860603932633914,
+   "obtido_em": "2026-09-13T19:26:20-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.490987,
+     -51.935277
+    ],
+    [
+     -29.491507,
+     -51.93547
+    ],
+    [
+     -29.491176,
+     -51.936649
+    ],
+    [
+     -29.491144,
+     -51.936766
+    ],
+    [
+     -29.491281,
+     -51.937027
+    ],
+    [
+     -29.491133,
+     -51.93745
+    ],
+    [
+     -29.491081,
+     -51.937744
+    ],
+    [
+     -29.490848,
+     -51.938563
+    ],
+    [
+     -29.490743,
+     -51.938702
+    ],
+    [
+     -29.490744,
+     -51.938764
+    ],
+    [
+     -29.49036,
+     -51.940054
+    ],
+    [
+     -29.490153,
+     -51.940881
+    ],
+    [
+     -29.490259,
+     -51.94113
+    ],
+    [
+     -29.490249,
+     -51.941267
+    ],
+    [
+     -29.490181,
+     -51.941507
+    ],
+    [
+     -29.489845,
+     -51.941595
+    ],
+    [
+     -29.489793,
+     -51.941802
+    ],
+    [
+     -29.489759,
+     -51.941924
+    ],
+    [
+     -29.489729,
+     -51.942029
+    ],
+    [
+     -29.489605,
+     -51.942493
+    ],
+    [
+     -29.489337,
+     -51.943495
+    ],
+    [
+     -29.489312,
+     -51.943574
+    ],
+    [
+     -29.489418,
+     -51.943614
+    ],
+    [
+     -29.489285,
+     -51.944133
+    ],
+    [
+     -29.48917,
+     -51.9441
+    ],
+    [
+     -29.488947,
+     -51.94404
+    ],
+    [
+     -29.488784,
+     -51.944602
+    ],
+    [
+     -29.488223,
+     -51.944398
+    ],
+    [
+     -29.487552,
+     -51.944175
+    ],
+    [
+     -29.486754,
+     -51.943887
+    ],
+    [
+     -29.486054,
+     -51.943622
+    ],
+    [
+     -29.485375,
+     -51.943385
+    ],
+    [
+     -29.483667,
+     -51.942756
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49083,-51.93585|-29.49592,-51.94709": {
+   "metros": 1797.2,
+   "segundos": 1294.0,
+   "snap_m": 57.860603932633914,
+   "obtido_em": "2026-09-13T19:26:21-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.490987,
+     -51.935277
+    ],
+    [
+     -29.491507,
+     -51.93547
+    ],
+    [
+     -29.491176,
+     -51.936649
+    ],
+    [
+     -29.491144,
+     -51.936766
+    ],
+    [
+     -29.491281,
+     -51.937027
+    ],
+    [
+     -29.491133,
+     -51.93745
+    ],
+    [
+     -29.491081,
+     -51.937744
+    ],
+    [
+     -29.490848,
+     -51.938563
+    ],
+    [
+     -29.490743,
+     -51.938702
+    ],
+    [
+     -29.490744,
+     -51.938764
+    ],
+    [
+     -29.49036,
+     -51.940054
+    ],
+    [
+     -29.490153,
+     -51.940881
+    ],
+    [
+     -29.490259,
+     -51.94113
+    ],
+    [
+     -29.490249,
+     -51.941267
+    ],
+    [
+     -29.490181,
+     -51.941507
+    ],
+    [
+     -29.489845,
+     -51.941595
+    ],
+    [
+     -29.489793,
+     -51.941802
+    ],
+    [
+     -29.489759,
+     -51.941924
+    ],
+    [
+     -29.489729,
+     -51.942029
+    ],
+    [
+     -29.489605,
+     -51.942493
+    ],
+    [
+     -29.489337,
+     -51.943495
+    ],
+    [
+     -29.489749,
+     -51.943626
+    ],
+    [
+     -29.490193,
+     -51.943776
+    ],
+    [
+     -29.490569,
+     -51.943913
+    ],
+    [
+     -29.491122,
+     -51.944108
+    ],
+    [
+     -29.491682,
+     -51.944291
+    ],
+    [
+     -29.492022,
+     -51.944422
+    ],
+    [
+     -29.492332,
+     -51.944555
+    ],
+    [
+     -29.492889,
+     -51.944758
+    ],
+    [
+     -29.493412,
+     -51.944942
+    ],
+    [
+     -29.49396,
+     -51.945094
+    ],
+    [
+     -29.49485,
+     -51.945409
+    ],
+    [
+     -29.494833,
+     -51.94548
+    ],
+    [
+     -29.495895,
+     -51.945864
+    ],
+    [
+     -29.495706,
+     -51.946615
+    ],
+    [
+     -29.496023,
+     -51.946729
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49083,-51.93585|-29.49587,-51.94503": {
+   "metros": 1745.81,
+   "segundos": 1256.97,
+   "snap_m": 58.22,
+   "obtido_em": "2026-09-13T19:26:21-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49083,-51.93585|-29.48361,-51.94296": {
+   "metros": 1678.21,
+   "segundos": 1208.3,
+   "snap_m": 58.22,
+   "obtido_em": "2026-09-13T19:26:21-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49083,-51.93585|-29.50132,-51.95034": {
+   "metros": 4438.11,
+   "segundos": 3195.41,
+   "snap_m": 58.22,
+   "obtido_em": "2026-09-13T19:26:21-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49083,-51.93585|-29.48298,-51.95250": {
+   "metros": 2348.92,
+   "segundos": 1691.21,
+   "snap_m": 58.22,
+   "obtido_em": "2026-09-13T19:26:21-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.47747,-51.95200|-29.48238,-51.96794": {
+   "metros": 2458.42,
+   "segundos": 1770.04,
+   "snap_m": 43.52,
+   "obtido_em": "2026-09-13T19:27:07-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.47747,-51.95200|-29.49164,-51.96268": {
+   "metros": 2633.31,
+   "segundos": 1895.96,
+   "snap_m": 43.52,
+   "obtido_em": "2026-09-13T19:27:07-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.47747,-51.95200|-29.49592,-51.94709": {
+   "metros": 3107.44,
+   "segundos": 2237.33,
+   "snap_m": 43.52,
+   "obtido_em": "2026-09-13T19:27:07-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.47747,-51.95200|-29.48446,-51.97516": {
+   "metros": 3494.85,
+   "segundos": 2516.27,
+   "snap_m": 43.52,
+   "obtido_em": "2026-09-13T19:27:07-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.47747,-51.95200|-29.50384,-51.94736": {
+   "metros": 4171.31,
+   "segundos": 3003.31,
+   "snap_m": 43.52,
+   "obtido_em": "2026-09-13T19:27:07-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.47747,-51.95200|-29.48361,-51.94296": {
+   "metros": 2044.9,
+   "segundos": 1472.3,
+   "snap_m": 43.3252549220419,
+   "obtido_em": "2026-09-13T19:27:08-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.477105,
+     -51.951851
+    ],
+    [
+     -29.476987,
+     -51.952241
+    ],
+    [
+     -29.477901,
+     -51.952846
+    ],
+    [
+     -29.47798,
+     -51.952826
+    ],
+    [
+     -29.479063,
+     -51.952711
+    ],
+    [
+     -29.479274,
+     -51.952698
+    ],
+    [
+     -29.479382,
+     -51.952693
+    ],
+    [
+     -29.479505,
+     -51.952679
+    ],
+    [
+     -29.479574,
+     -51.952667
+    ],
+    [
+     -29.479771,
+     -51.952638
+    ],
+    [
+     -29.480367,
+     -51.952555
+    ],
+    [
+     -29.480947,
+     -51.950321
+    ],
+    [
+     -29.481238,
+     -51.949274
+    ],
+    [
+     -29.48195,
+     -51.949532
+    ],
+    [
+     -29.482735,
+     -51.94983
+    ],
+    [
+     -29.483178,
+     -51.948334
+    ],
+    [
+     -29.483652,
+     -51.946841
+    ],
+    [
+     -29.483899,
+     -51.946143
+    ],
+    [
+     -29.484553,
+     -51.946354
+    ],
+    [
+     -29.485028,
+     -51.944637
+    ],
+    [
+     -29.484299,
+     -51.94438
+    ],
+    [
+     -29.484463,
+     -51.943774
+    ],
+    [
+     -29.482839,
+     -51.943156
+    ],
+    [
+     -29.483035,
+     -51.942524
+    ],
+    [
+     -29.483667,
+     -51.942756
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.47747,-51.95200|-29.48821,-51.95238": {
+   "metros": 1564.5,
+   "segundos": 1126.4,
+   "snap_m": 43.3252549220419,
+   "obtido_em": "2026-09-13T19:27:09-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.477105,
+     -51.951851
+    ],
+    [
+     -29.476987,
+     -51.952241
+    ],
+    [
+     -29.477901,
+     -51.952846
+    ],
+    [
+     -29.47798,
+     -51.952826
+    ],
+    [
+     -29.479063,
+     -51.952711
+    ],
+    [
+     -29.479274,
+     -51.952698
+    ],
+    [
+     -29.479382,
+     -51.952693
+    ],
+    [
+     -29.479505,
+     -51.952679
+    ],
+    [
+     -29.479574,
+     -51.952667
+    ],
+    [
+     -29.479771,
+     -51.952638
+    ],
+    [
+     -29.480367,
+     -51.952555
+    ],
+    [
+     -29.480708,
+     -51.952494
+    ],
+    [
+     -29.481046,
+     -51.952361
+    ],
+    [
+     -29.482899,
+     -51.953455
+    ],
+    [
+     -29.4831,
+     -51.953005
+    ],
+    [
+     -29.483102,
+     -51.952876
+    ],
+    [
+     -29.483512,
+     -51.953073
+    ],
+    [
+     -29.483958,
+     -51.951389
+    ],
+    [
+     -29.483971,
+     -51.951385
+    ],
+    [
+     -29.484389,
+     -51.951226
+    ],
+    [
+     -29.484972,
+     -51.951046
+    ],
+    [
+     -29.485282,
+     -51.950948
+    ],
+    [
+     -29.485496,
+     -51.95087
+    ],
+    [
+     -29.485829,
+     -51.950856
+    ],
+    [
+     -29.486095,
+     -51.950916
+    ],
+    [
+     -29.486547,
+     -51.951097
+    ],
+    [
+     -29.486654,
+     -51.95116
+    ],
+    [
+     -29.486775,
+     -51.951205
+    ],
+    [
+     -29.486909,
+     -51.951191
+    ],
+    [
+     -29.4871,
+     -51.951202
+    ],
+    [
+     -29.487181,
+     -51.951191
+    ],
+    [
+     -29.487252,
+     -51.9512
+    ],
+    [
+     -29.487314,
+     -51.951184
+    ],
+    [
+     -29.487549,
+     -51.951259
+    ],
+    [
+     -29.487952,
+     -51.951663
+    ],
+    [
+     -29.488408,
+     -51.95212
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.47747,-51.95200|-29.48361,-51.94296": {
+   "metros": 2044.87,
+   "segundos": 1472.3,
+   "snap_m": 43.52,
+   "obtido_em": "2026-09-13T19:27:09-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.47747,-51.95200|-29.48805,-51.96498": {
+   "metros": 2533.22,
+   "segundos": 1823.9,
+   "snap_m": 43.52,
+   "obtido_em": "2026-09-13T19:27:09-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49420,-51.95402|-29.48361,-51.94296": {
+   "metros": 2458.37,
+   "segundos": 1770.01,
+   "snap_m": 54.53,
+   "obtido_em": "2026-09-13T19:40:24-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49420,-51.95402|-29.48238,-51.96794": {
+   "metros": 2728.05,
+   "segundos": 1964.18,
+   "snap_m": 54.53,
+   "obtido_em": "2026-09-13T19:40:24-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49420,-51.95402|-29.50931,-51.96718": {
+   "metros": 3491.96,
+   "segundos": 2514.19,
+   "snap_m": 54.53,
+   "obtido_em": "2026-09-13T19:40:24-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49420,-51.95402|-29.48446,-51.97516": {
+   "metros": 2868.43,
+   "segundos": 2065.25,
+   "snap_m": 54.53,
+   "obtido_em": "2026-09-13T19:40:24-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49420,-51.95402|-29.52018,-51.95923": {
+   "metros": 4380.65,
+   "segundos": 3154.05,
+   "snap_m": 54.53,
+   "obtido_em": "2026-09-13T19:40:24-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49420,-51.95402|-29.48821,-51.95238": {
+   "metros": 877.9,
+   "segundos": 632.0,
+   "snap_m": 54.212308318740035,
+   "obtido_em": "2026-09-13T19:40:25-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.493734,
+     -51.953835
+    ],
+    [
+     -29.493378,
+     -51.955036
+    ],
+    [
+     -29.492842,
+     -51.954632
+    ],
+    [
+     -29.492219,
+     -51.9542
+    ],
+    [
+     -29.491835,
+     -51.95396
+    ],
+    [
+     -29.491401,
+     -51.953738
+    ],
+    [
+     -29.490823,
+     -51.953537
+    ],
+    [
+     -29.490698,
+     -51.953492
+    ],
+    [
+     -29.489937,
+     -51.953244
+    ],
+    [
+     -29.489494,
+     -51.953078
+    ],
+    [
+     -29.489331,
+     -51.953145
+    ],
+    [
+     -29.489282,
+     -51.953177
+    ],
+    [
+     -29.489109,
+     -51.953285
+    ],
+    [
+     -29.489096,
+     -51.953261
+    ],
+    [
+     -29.489308,
+     -51.953125
+    ],
+    [
+     -29.488882,
+     -51.952693
+    ],
+    [
+     -29.48865,
+     -51.952837
+    ],
+    [
+     -29.488638,
+     -51.952809
+    ],
+    [
+     -29.488795,
+     -51.952711
+    ],
+    [
+     -29.488862,
+     -51.952669
+    ],
+    [
+     -29.488894,
+     -51.952614
+    ],
+    [
+     -29.488475,
+     -51.952187
+    ],
+    [
+     -29.488408,
+     -51.95212
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49420,-51.95402|-29.49592,-51.94709": {
+   "metros": 2079.3,
+   "segundos": 1497.1,
+   "snap_m": 54.212308318740035,
+   "obtido_em": "2026-09-13T19:40:25-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.493734,
+     -51.953835
+    ],
+    [
+     -29.493378,
+     -51.955036
+    ],
+    [
+     -29.492842,
+     -51.954632
+    ],
+    [
+     -29.492219,
+     -51.9542
+    ],
+    [
+     -29.491835,
+     -51.95396
+    ],
+    [
+     -29.491401,
+     -51.953738
+    ],
+    [
+     -29.490823,
+     -51.953537
+    ],
+    [
+     -29.490698,
+     -51.953492
+    ],
+    [
+     -29.489937,
+     -51.953244
+    ],
+    [
+     -29.489494,
+     -51.953078
+    ],
+    [
+     -29.489331,
+     -51.953145
+    ],
+    [
+     -29.489282,
+     -51.953177
+    ],
+    [
+     -29.489109,
+     -51.953285
+    ],
+    [
+     -29.489096,
+     -51.953261
+    ],
+    [
+     -29.489308,
+     -51.953125
+    ],
+    [
+     -29.488882,
+     -51.952693
+    ],
+    [
+     -29.48865,
+     -51.952837
+    ],
+    [
+     -29.488638,
+     -51.952809
+    ],
+    [
+     -29.488795,
+     -51.952711
+    ],
+    [
+     -29.488862,
+     -51.952669
+    ],
+    [
+     -29.488894,
+     -51.952614
+    ],
+    [
+     -29.489025,
+     -51.952667
+    ],
+    [
+     -29.489307,
+     -51.952444
+    ],
+    [
+     -29.489612,
+     -51.952257
+    ],
+    [
+     -29.489695,
+     -51.952034
+    ],
+    [
+     -29.489805,
+     -51.952186
+    ],
+    [
+     -29.489911,
+     -51.952146
+    ],
+    [
+     -29.490005,
+     -51.952063
+    ],
+    [
+     -29.490792,
+     -51.951712
+    ],
+    [
+     -29.490849,
+     -51.951673
+    ],
+    [
+     -29.490906,
+     -51.951568
+    ],
+    [
+     -29.491247,
+     -51.950551
+    ],
+    [
+     -29.492311,
+     -51.950895
+    ],
+    [
+     -29.492349,
+     -51.950848
+    ],
+    [
+     -29.492575,
+     -51.950048
+    ],
+    [
+     -29.492798,
+     -51.949267
+    ],
+    [
+     -29.492999,
+     -51.948618
+    ],
+    [
+     -29.493343,
+     -51.947373
+    ],
+    [
+     -29.494216,
+     -51.947675
+    ],
+    [
+     -29.495303,
+     -51.948061
+    ],
+    [
+     -29.495488,
+     -51.947411
+    ],
+    [
+     -29.495706,
+     -51.946615
+    ],
+    [
+     -29.496023,
+     -51.946729
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49420,-51.95402|-29.49164,-51.96268": {
+   "metros": 1141.6,
+   "segundos": 822.0,
+   "snap_m": 54.212308318740035,
+   "obtido_em": "2026-09-13T19:40:26-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.493734,
+     -51.953835
+    ],
+    [
+     -29.493378,
+     -51.955036
+    ],
+    [
+     -29.493469,
+     -51.955101
+    ],
+    [
+     -29.494259,
+     -51.9557
+    ],
+    [
+     -29.494043,
+     -51.956471
+    ],
+    [
+     -29.493545,
+     -51.958242
+    ],
+    [
+     -29.493354,
+     -51.958924
+    ],
+    [
+     -29.49309,
+     -51.959959
+    ],
+    [
+     -29.492936,
+     -51.960414
+    ],
+    [
+     -29.492792,
+     -51.960878
+    ],
+    [
+     -29.49287,
+     -51.960934
+    ],
+    [
+     -29.492849,
+     -51.961006
+    ],
+    [
+     -29.492486,
+     -51.96227
+    ],
+    [
+     -29.492183,
+     -51.963355
+    ],
+    [
+     -29.491991,
+     -51.963291
+    ],
+    [
+     -29.491551,
+     -51.963126
+    ],
+    [
+     -29.491672,
+     -51.962692
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49420,-51.95402|-29.50384,-51.94736": {
+   "metros": 1700.6,
+   "segundos": 1224.4,
+   "snap_m": 54.212308318740035,
+   "obtido_em": "2026-09-13T19:40:27-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.493734,
+     -51.953835
+    ],
+    [
+     -29.493737,
+     -51.953825
+    ],
+    [
+     -29.494228,
+     -51.951876
+    ],
+    [
+     -29.494921,
+     -51.952151
+    ],
+    [
+     -29.495188,
+     -51.952257
+    ],
+    [
+     -29.496175,
+     -51.952649
+    ],
+    [
+     -29.496964,
+     -51.952962
+    ],
+    [
+     -29.497368,
+     -51.951458
+    ],
+    [
+     -29.498307,
+     -51.951831
+    ],
+    [
+     -29.498589,
+     -51.951944
+    ],
+    [
+     -29.498688,
+     -51.951855
+    ],
+    [
+     -29.498804,
+     -51.951693
+    ],
+    [
+     -29.498996,
+     -51.951551
+    ],
+    [
+     -29.499038,
+     -51.951468
+    ],
+    [
+     -29.499082,
+     -51.951324
+    ],
+    [
+     -29.499141,
+     -51.951197
+    ],
+    [
+     -29.499144,
+     -51.950883
+    ],
+    [
+     -29.499115,
+     -51.950764
+    ],
+    [
+     -29.499449,
+     -51.950882
+    ],
+    [
+     -29.499696,
+     -51.950425
+    ],
+    [
+     -29.499799,
+     -51.950268
+    ],
+    [
+     -29.499956,
+     -51.950136
+    ],
+    [
+     -29.500333,
+     -51.949908
+    ],
+    [
+     -29.501067,
+     -51.94926
+    ],
+    [
+     -29.501136,
+     -51.949232
+    ],
+    [
+     -29.501221,
+     -51.949228
+    ],
+    [
+     -29.501546,
+     -51.949343
+    ],
+    [
+     -29.503041,
+     -51.949874
+    ],
+    [
+     -29.503277,
+     -51.949025
+    ],
+    [
+     -29.503486,
+     -51.948227
+    ],
+    [
+     -29.503659,
+     -51.94762
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49420,-51.95402|-29.48298,-51.95250": {
+   "metros": 1585.92,
+   "segundos": 1141.84,
+   "snap_m": 54.53,
+   "obtido_em": "2026-09-13T19:40:28-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49420,-51.95402|-29.48805,-51.96498": {
+   "metros": 1729.7,
+   "segundos": 1245.37,
+   "snap_m": 54.53,
+   "obtido_em": "2026-09-13T19:40:28-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49420,-51.95402|-29.48305,-51.95859": {
+   "metros": 1981.15,
+   "segundos": 1426.42,
+   "snap_m": 54.53,
+   "obtido_em": "2026-09-13T19:40:28-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49420,-51.95402|-29.48006,-51.95758": {
+   "metros": 2328.48,
+   "segundos": 1676.5,
+   "snap_m": 54.53,
+   "obtido_em": "2026-09-13T19:40:28-03:00",
+   "procedencia": {
+    "graph_date": "2026-08-28T12:16:53Z",
+    "osm_date": "2026-08-17T00:00:02Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48663,-51.93395|-29.49592,-51.94709": {
+   "metros": 2129.21,
+   "segundos": 1533.02,
+   "snap_m": 169.35,
+   "obtido_em": "2026-09-16T15:39:03-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48663,-51.93395|-29.48821,-51.95238": {
+   "metros": 2728.05,
+   "segundos": 1964.18,
+   "snap_m": 169.35,
+   "obtido_em": "2026-09-16T15:39:03-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48663,-51.93395|-29.50384,-51.94736": {
+   "metros": 5207.07,
+   "segundos": 3749.06,
+   "snap_m": 169.35,
+   "obtido_em": "2026-09-16T15:39:03-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48663,-51.93395|-29.49164,-51.96268": {
+   "metros": 4201.76,
+   "segundos": 3025.24,
+   "snap_m": 169.35,
+   "obtido_em": "2026-09-16T15:39:03-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.48663,-51.93395|-29.48361,-51.94296": {
+   "metros": 2010.2,
+   "segundos": 1447.3,
+   "snap_m": 168.36682652631768,
+   "obtido_em": "2026-09-16T15:39:05-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.486756,
+     -51.93569
+    ],
+    [
+     -29.486883,
+     -51.935678
+    ],
+    [
+     -29.487732,
+     -51.935456
+    ],
+    [
+     -29.487886,
+     -51.935439
+    ],
+    [
+     -29.488044,
+     -51.935464
+    ],
+    [
+     -29.488164,
+     -51.93551
+    ],
+    [
+     -29.48919,
+     -51.935912
+    ],
+    [
+     -29.491055,
+     -51.936602
+    ],
+    [
+     -29.491176,
+     -51.936649
+    ],
+    [
+     -29.491144,
+     -51.936766
+    ],
+    [
+     -29.491281,
+     -51.937027
+    ],
+    [
+     -29.491133,
+     -51.93745
+    ],
+    [
+     -29.491081,
+     -51.937744
+    ],
+    [
+     -29.490848,
+     -51.938563
+    ],
+    [
+     -29.490743,
+     -51.938702
+    ],
+    [
+     -29.490744,
+     -51.938764
+    ],
+    [
+     -29.49036,
+     -51.940054
+    ],
+    [
+     -29.490251,
+     -51.94049
+    ],
+    [
+     -29.490153,
+     -51.940881
+    ],
+    [
+     -29.490259,
+     -51.94113
+    ],
+    [
+     -29.490249,
+     -51.941267
+    ],
+    [
+     -29.490181,
+     -51.941507
+    ],
+    [
+     -29.489845,
+     -51.941595
+    ],
+    [
+     -29.489793,
+     -51.941802
+    ],
+    [
+     -29.489759,
+     -51.941924
+    ],
+    [
+     -29.489729,
+     -51.942029
+    ],
+    [
+     -29.489605,
+     -51.942493
+    ],
+    [
+     -29.489337,
+     -51.943495
+    ],
+    [
+     -29.489312,
+     -51.943574
+    ],
+    [
+     -29.489418,
+     -51.943614
+    ],
+    [
+     -29.489285,
+     -51.944133
+    ],
+    [
+     -29.48917,
+     -51.9441
+    ],
+    [
+     -29.488947,
+     -51.94404
+    ],
+    [
+     -29.488784,
+     -51.944602
+    ],
+    [
+     -29.488223,
+     -51.944398
+    ],
+    [
+     -29.487552,
+     -51.944175
+    ],
+    [
+     -29.486754,
+     -51.943887
+    ],
+    [
+     -29.486054,
+     -51.943622
+    ],
+    [
+     -29.485375,
+     -51.943385
+    ],
+    [
+     -29.483667,
+     -51.942756
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48663,-51.93395|-29.49587,-51.94503": {
+   "metros": 2077.82,
+   "segundos": 1496.02,
+   "snap_m": 169.35,
+   "obtido_em": "2026-09-16T15:39:05-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48663,-51.93395|-29.48298,-51.95250": {
+   "metros": 2680.93,
+   "segundos": 1930.26,
+   "snap_m": 169.35,
+   "obtido_em": "2026-09-16T15:39:05-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49934,-51.96013|-29.48238,-51.96794": {
+   "metros": 3526.83,
+   "segundos": 2539.3,
+   "snap_m": 37.56,
+   "obtido_em": "2026-09-16T16:35:24-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49934,-51.96013|-29.48446,-51.97516": {
+   "metros": 2928.97,
+   "segundos": 2108.84,
+   "snap_m": 37.56,
+   "obtido_em": "2026-09-16T16:35:24-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49934,-51.96013|-29.52018,-51.95923": {
+   "metros": 3641.08,
+   "segundos": 2621.55,
+   "snap_m": 37.56,
+   "obtido_em": "2026-09-16T16:35:24-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49934,-51.96013|-29.48361,-51.94296": {
+   "metros": 3460.26,
+   "segundos": 2491.37,
+   "snap_m": 37.56,
+   "obtido_em": "2026-09-16T16:35:24-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49934,-51.96013|-29.49164,-51.96268": {
+   "metros": 1909.2,
+   "segundos": 1374.6,
+   "snap_m": 37.339195804865405,
+   "obtido_em": "2026-09-16T16:35:25-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.499298,
+     -51.960513
+    ],
+    [
+     -29.49964,
+     -51.960563
+    ],
+    [
+     -29.49993,
+     -51.960638
+    ],
+    [
+     -29.500247,
+     -51.960603
+    ],
+    [
+     -29.499861,
+     -51.959028
+    ],
+    [
+     -29.499704,
+     -51.958518
+    ],
+    [
+     -29.499653,
+     -51.958435
+    ],
+    [
+     -29.499571,
+     -51.958358
+    ],
+    [
+     -29.499279,
+     -51.958258
+    ],
+    [
+     -29.498982,
+     -51.958183
+    ],
+    [
+     -29.498824,
+     -51.958177
+    ],
+    [
+     -29.498581,
+     -51.958243
+    ],
+    [
+     -29.498404,
+     -51.958239
+    ],
+    [
+     -29.498233,
+     -51.95813
+    ],
+    [
+     -29.498063,
+     -51.957966
+    ],
+    [
+     -29.496862,
+     -51.9568
+    ],
+    [
+     -29.496487,
+     -51.956457
+    ],
+    [
+     -29.496196,
+     -51.956248
+    ],
+    [
+     -29.496063,
+     -51.956175
+    ],
+    [
+     -29.496002,
+     -51.956154
+    ],
+    [
+     -29.495705,
+     -51.956079
+    ],
+    [
+     -29.494735,
+     -51.955905
+    ],
+    [
+     -29.494504,
+     -51.95583
+    ],
+    [
+     -29.494259,
+     -51.9557
+    ],
+    [
+     -29.494043,
+     -51.956471
+    ],
+    [
+     -29.493545,
+     -51.958242
+    ],
+    [
+     -29.493354,
+     -51.958924
+    ],
+    [
+     -29.49309,
+     -51.959959
+    ],
+    [
+     -29.492936,
+     -51.960414
+    ],
+    [
+     -29.492792,
+     -51.960878
+    ],
+    [
+     -29.49287,
+     -51.960934
+    ],
+    [
+     -29.492849,
+     -51.961006
+    ],
+    [
+     -29.492486,
+     -51.96227
+    ],
+    [
+     -29.492183,
+     -51.963355
+    ],
+    [
+     -29.491991,
+     -51.963291
+    ],
+    [
+     -29.491551,
+     -51.963126
+    ],
+    [
+     -29.491672,
+     -51.962692
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49934,-51.96013|-29.50931,-51.96718": {
+   "metros": 2004.2,
+   "segundos": 1443.0,
+   "snap_m": 37.339195804865405,
+   "obtido_em": "2026-09-16T16:35:26-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.499298,
+     -51.960513
+    ],
+    [
+     -29.49964,
+     -51.960563
+    ],
+    [
+     -29.49993,
+     -51.960638
+    ],
+    [
+     -29.500247,
+     -51.960603
+    ],
+    [
+     -29.500288,
+     -51.960783
+    ],
+    [
+     -29.500351,
+     -51.961384
+    ],
+    [
+     -29.500163,
+     -51.963451
+    ],
+    [
+     -29.500155,
+     -51.963846
+    ],
+    [
+     -29.500439,
+     -51.96389
+    ],
+    [
+     -29.500373,
+     -51.964698
+    ],
+    [
+     -29.501105,
+     -51.964774
+    ],
+    [
+     -29.501024,
+     -51.965616
+    ],
+    [
+     -29.500941,
+     -51.966412
+    ],
+    [
+     -29.500939,
+     -51.966443
+    ],
+    [
+     -29.501608,
+     -51.966525
+    ],
+    [
+     -29.501648,
+     -51.966572
+    ],
+    [
+     -29.501702,
+     -51.966589
+    ],
+    [
+     -29.502337,
+     -51.966634
+    ],
+    [
+     -29.502384,
+     -51.96667
+    ],
+    [
+     -29.503107,
+     -51.966711
+    ],
+    [
+     -29.50383,
+     -51.966801
+    ],
+    [
+     -29.504422,
+     -51.966882
+    ],
+    [
+     -29.504436,
+     -51.96695
+    ],
+    [
+     -29.504511,
+     -51.967304
+    ],
+    [
+     -29.504604,
+     -51.967609
+    ],
+    [
+     -29.504725,
+     -51.967709
+    ],
+    [
+     -29.504895,
+     -51.967819
+    ],
+    [
+     -29.505064,
+     -51.967825
+    ],
+    [
+     -29.506472,
+     -51.968008
+    ],
+    [
+     -29.506619,
+     -51.96803
+    ],
+    [
+     -29.507844,
+     -51.968194
+    ],
+    [
+     -29.508311,
+     -51.968272
+    ],
+    [
+     -29.508689,
+     -51.968341
+    ],
+    [
+     -29.508931,
+     -51.968371
+    ],
+    [
+     -29.509305,
+     -51.96825
+    ],
+    [
+     -29.509334,
+     -51.968231
+    ],
+    [
+     -29.509388,
+     -51.967765
+    ],
+    [
+     -29.509667,
+     -51.967041
+    ],
+    [
+     -29.509682,
+     -51.966981
+    ],
+    [
+     -29.509667,
+     -51.966937
+    ],
+    [
+     -29.509246,
+     -51.966743
+    ],
+    [
+     -29.509187,
+     -51.966746
+    ],
+    [
+     -29.509109,
+     -51.966898
+    ],
+    [
+     -29.509052,
+     -51.967063
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49934,-51.96013|-29.49592,-51.94709": {
+   "metros": 3081.2,
+   "segundos": 2218.4,
+   "snap_m": 37.339195804865405,
+   "obtido_em": "2026-09-16T16:35:27-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.499298,
+     -51.960513
+    ],
+    [
+     -29.49964,
+     -51.960563
+    ],
+    [
+     -29.49993,
+     -51.960638
+    ],
+    [
+     -29.500247,
+     -51.960603
+    ],
+    [
+     -29.499861,
+     -51.959028
+    ],
+    [
+     -29.499704,
+     -51.958518
+    ],
+    [
+     -29.499653,
+     -51.958435
+    ],
+    [
+     -29.499571,
+     -51.958358
+    ],
+    [
+     -29.499279,
+     -51.958258
+    ],
+    [
+     -29.498982,
+     -51.958183
+    ],
+    [
+     -29.498824,
+     -51.958177
+    ],
+    [
+     -29.498581,
+     -51.958243
+    ],
+    [
+     -29.498404,
+     -51.958239
+    ],
+    [
+     -29.498233,
+     -51.95813
+    ],
+    [
+     -29.498063,
+     -51.957966
+    ],
+    [
+     -29.496862,
+     -51.9568
+    ],
+    [
+     -29.496487,
+     -51.956457
+    ],
+    [
+     -29.496196,
+     -51.956248
+    ],
+    [
+     -29.496063,
+     -51.956175
+    ],
+    [
+     -29.496002,
+     -51.956154
+    ],
+    [
+     -29.495705,
+     -51.956079
+    ],
+    [
+     -29.494735,
+     -51.955905
+    ],
+    [
+     -29.494504,
+     -51.95583
+    ],
+    [
+     -29.494259,
+     -51.9557
+    ],
+    [
+     -29.493469,
+     -51.955101
+    ],
+    [
+     -29.493378,
+     -51.955036
+    ],
+    [
+     -29.492842,
+     -51.954632
+    ],
+    [
+     -29.492219,
+     -51.9542
+    ],
+    [
+     -29.491835,
+     -51.95396
+    ],
+    [
+     -29.491401,
+     -51.953738
+    ],
+    [
+     -29.490823,
+     -51.953537
+    ],
+    [
+     -29.490698,
+     -51.953492
+    ],
+    [
+     -29.489937,
+     -51.953244
+    ],
+    [
+     -29.489494,
+     -51.953078
+    ],
+    [
+     -29.489331,
+     -51.953145
+    ],
+    [
+     -29.489282,
+     -51.953177
+    ],
+    [
+     -29.489109,
+     -51.953285
+    ],
+    [
+     -29.489096,
+     -51.953261
+    ],
+    [
+     -29.489308,
+     -51.953125
+    ],
+    [
+     -29.488882,
+     -51.952693
+    ],
+    [
+     -29.48865,
+     -51.952837
+    ],
+    [
+     -29.488638,
+     -51.952809
+    ],
+    [
+     -29.488795,
+     -51.952711
+    ],
+    [
+     -29.488862,
+     -51.952669
+    ],
+    [
+     -29.488894,
+     -51.952614
+    ],
+    [
+     -29.489025,
+     -51.952667
+    ],
+    [
+     -29.489307,
+     -51.952444
+    ],
+    [
+     -29.489612,
+     -51.952257
+    ],
+    [
+     -29.489695,
+     -51.952034
+    ],
+    [
+     -29.489805,
+     -51.952186
+    ],
+    [
+     -29.489911,
+     -51.952146
+    ],
+    [
+     -29.490005,
+     -51.952063
+    ],
+    [
+     -29.490792,
+     -51.951712
+    ],
+    [
+     -29.490849,
+     -51.951673
+    ],
+    [
+     -29.490906,
+     -51.951568
+    ],
+    [
+     -29.491247,
+     -51.950551
+    ],
+    [
+     -29.492311,
+     -51.950895
+    ],
+    [
+     -29.492349,
+     -51.950848
+    ],
+    [
+     -29.492575,
+     -51.950048
+    ],
+    [
+     -29.492798,
+     -51.949267
+    ],
+    [
+     -29.493016,
+     -51.948559
+    ],
+    [
+     -29.493343,
+     -51.947373
+    ],
+    [
+     -29.494216,
+     -51.947675
+    ],
+    [
+     -29.495303,
+     -51.948061
+    ],
+    [
+     -29.495488,
+     -51.947411
+    ],
+    [
+     -29.495706,
+     -51.946615
+    ],
+    [
+     -29.496023,
+     -51.946729
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49934,-51.96013|-29.50384,-51.94736": {
+   "metros": 1856.2,
+   "segundos": 1336.5,
+   "snap_m": 37.339195804865405,
+   "obtido_em": "2026-09-16T16:35:28-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.499298,
+     -51.960513
+    ],
+    [
+     -29.49964,
+     -51.960563
+    ],
+    [
+     -29.49993,
+     -51.960638
+    ],
+    [
+     -29.500247,
+     -51.960603
+    ],
+    [
+     -29.499861,
+     -51.959028
+    ],
+    [
+     -29.499704,
+     -51.958518
+    ],
+    [
+     -29.499653,
+     -51.958435
+    ],
+    [
+     -29.499571,
+     -51.958358
+    ],
+    [
+     -29.499279,
+     -51.958258
+    ],
+    [
+     -29.498982,
+     -51.958183
+    ],
+    [
+     -29.498824,
+     -51.958177
+    ],
+    [
+     -29.498854,
+     -51.957985
+    ],
+    [
+     -29.498921,
+     -51.957587
+    ],
+    [
+     -29.499146,
+     -51.957311
+    ],
+    [
+     -29.499271,
+     -51.957014
+    ],
+    [
+     -29.49932,
+     -51.956794
+    ],
+    [
+     -29.499336,
+     -51.956568
+    ],
+    [
+     -29.499287,
+     -51.95595
+    ],
+    [
+     -29.499299,
+     -51.955782
+    ],
+    [
+     -29.49934,
+     -51.955563
+    ],
+    [
+     -29.4995,
+     -51.954938
+    ],
+    [
+     -29.49957,
+     -51.954691
+    ],
+    [
+     -29.499845,
+     -51.953501
+    ],
+    [
+     -29.50009,
+     -51.952578
+    ],
+    [
+     -29.500333,
+     -51.951772
+    ],
+    [
+     -29.50046,
+     -51.95132
+    ],
+    [
+     -29.50045,
+     -51.951287
+    ],
+    [
+     -29.500395,
+     -51.951244
+    ],
+    [
+     -29.49992,
+     -51.951079
+    ],
+    [
+     -29.500093,
+     -51.950699
+    ],
+    [
+     -29.500599,
+     -51.950351
+    ],
+    [
+     -29.501158,
+     -51.949903
+    ],
+    [
+     -29.501259,
+     -51.949866
+    ],
+    [
+     -29.501407,
+     -51.949881
+    ],
+    [
+     -29.501546,
+     -51.949343
+    ],
+    [
+     -29.503041,
+     -51.949874
+    ],
+    [
+     -29.503277,
+     -51.949025
+    ],
+    [
+     -29.503486,
+     -51.948227
+    ],
+    [
+     -29.503659,
+     -51.94762
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49934,-51.96013|-29.48821,-51.95238": {
+   "metros": 1879.7,
+   "segundos": 1353.4,
+   "snap_m": 37.339195804865405,
+   "obtido_em": "2026-09-16T16:35:28-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.499298,
+     -51.960513
+    ],
+    [
+     -29.49964,
+     -51.960563
+    ],
+    [
+     -29.49993,
+     -51.960638
+    ],
+    [
+     -29.500247,
+     -51.960603
+    ],
+    [
+     -29.499861,
+     -51.959028
+    ],
+    [
+     -29.499704,
+     -51.958518
+    ],
+    [
+     -29.499653,
+     -51.958435
+    ],
+    [
+     -29.499571,
+     -51.958358
+    ],
+    [
+     -29.499279,
+     -51.958258
+    ],
+    [
+     -29.498982,
+     -51.958183
+    ],
+    [
+     -29.498824,
+     -51.958177
+    ],
+    [
+     -29.498581,
+     -51.958243
+    ],
+    [
+     -29.498404,
+     -51.958239
+    ],
+    [
+     -29.498233,
+     -51.95813
+    ],
+    [
+     -29.498063,
+     -51.957966
+    ],
+    [
+     -29.496862,
+     -51.9568
+    ],
+    [
+     -29.496487,
+     -51.956457
+    ],
+    [
+     -29.496196,
+     -51.956248
+    ],
+    [
+     -29.496063,
+     -51.956175
+    ],
+    [
+     -29.496002,
+     -51.956154
+    ],
+    [
+     -29.495705,
+     -51.956079
+    ],
+    [
+     -29.494735,
+     -51.955905
+    ],
+    [
+     -29.494504,
+     -51.95583
+    ],
+    [
+     -29.494259,
+     -51.9557
+    ],
+    [
+     -29.493469,
+     -51.955101
+    ],
+    [
+     -29.493378,
+     -51.955036
+    ],
+    [
+     -29.492842,
+     -51.954632
+    ],
+    [
+     -29.492219,
+     -51.9542
+    ],
+    [
+     -29.491835,
+     -51.95396
+    ],
+    [
+     -29.491401,
+     -51.953738
+    ],
+    [
+     -29.490823,
+     -51.953537
+    ],
+    [
+     -29.490698,
+     -51.953492
+    ],
+    [
+     -29.489937,
+     -51.953244
+    ],
+    [
+     -29.489494,
+     -51.953078
+    ],
+    [
+     -29.489331,
+     -51.953145
+    ],
+    [
+     -29.489282,
+     -51.953177
+    ],
+    [
+     -29.489109,
+     -51.953285
+    ],
+    [
+     -29.489096,
+     -51.953261
+    ],
+    [
+     -29.489308,
+     -51.953125
+    ],
+    [
+     -29.488882,
+     -51.952693
+    ],
+    [
+     -29.48865,
+     -51.952837
+    ],
+    [
+     -29.488638,
+     -51.952809
+    ],
+    [
+     -29.488795,
+     -51.952711
+    ],
+    [
+     -29.488862,
+     -51.952669
+    ],
+    [
+     -29.488894,
+     -51.952614
+    ],
+    [
+     -29.488475,
+     -51.952187
+    ],
+    [
+     -29.488408,
+     -51.95212
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49934,-51.96013|-29.48805,-51.96498": {
+   "metros": 2497.24,
+   "segundos": 1798.0,
+   "snap_m": 37.56,
+   "obtido_em": "2026-09-16T16:35:29-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49934,-51.96013|-29.49587,-51.94503": {
+   "metros": 3195.67,
+   "segundos": 2300.86,
+   "snap_m": 37.56,
+   "obtido_em": "2026-09-16T16:35:29-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49934,-51.96013|-29.51256,-51.96837": {
+   "metros": 2391.21,
+   "segundos": 1721.65,
+   "snap_m": 37.56,
+   "obtido_em": "2026-09-16T16:35:29-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49934,-51.96013|-29.48305,-51.95859": {
+   "metros": 2779.93,
+   "segundos": 2001.54,
+   "snap_m": 37.56,
+   "obtido_em": "2026-09-16T16:35:29-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49934,-51.96013|-29.48298,-51.95250": {
+   "metros": 2587.81,
+   "segundos": 1863.2,
+   "snap_m": 37.56,
+   "obtido_em": "2026-09-16T16:35:29-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.50000,-51.90000|-29.48585,-51.89406": {
+   "metros": 2191.4,
+   "segundos": 1577.8,
+   "snap_m": 50.79,
+   "obtido_em": "2026-09-16T16:37:54-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.50000,-51.90000|-29.52580,-51.89827": {
+   "metros": 4222.08,
+   "segundos": 3039.88,
+   "snap_m": 50.79,
+   "obtido_em": "2026-09-16T16:37:54-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-22.90905,-45.94609|-22.91017,-45.95169": {
+   "metros": 760.1,
+   "segundos": 547.3,
+   "snap_m": 53.25974367342327,
+   "obtido_em": "2026-09-16T19:49:01-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -22.909505,
+     -45.945934
+    ],
+    [
+     -22.909873,
+     -45.947199
+    ],
+    [
+     -22.910438,
+     -45.948618
+    ],
+    [
+     -22.910613,
+     -45.949113
+    ],
+    [
+     -22.910716,
+     -45.949612
+    ],
+    [
+     -22.910748,
+     -45.949914
+    ],
+    [
+     -22.910745,
+     -45.950061
+    ],
+    [
+     -22.910729,
+     -45.950185
+    ],
+    [
+     -22.910645,
+     -45.950516
+    ],
+    [
+     -22.910569,
+     -45.950714
+    ],
+    [
+     -22.910475,
+     -45.951025
+    ],
+    [
+     -22.910448,
+     -45.951284
+    ],
+    [
+     -22.910692,
+     -45.951401
+    ],
+    [
+     -22.910703,
+     -45.951476
+    ],
+    [
+     -22.910687,
+     -45.951522
+    ],
+    [
+     -22.91059,
+     -45.951626
+    ],
+    [
+     -22.910446,
+     -45.951742
+    ],
+    [
+     -22.910457,
+     -45.95222
+    ],
+    [
+     -22.910379,
+     -45.952213
+    ],
+    [
+     -22.910328,
+     -45.952133
+    ],
+    [
+     -22.910325,
+     -45.951766
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-22.90905,-45.94609|-22.90879,-45.96176": {
+   "metros": 1925.11,
+   "segundos": 1386.06,
+   "snap_m": 53.52,
+   "obtido_em": "2026-09-16T19:49:02-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.47298,-51.94968|-29.48821,-51.95238": {
+   "metros": 2026.0,
+   "segundos": 1458.7,
+   "snap_m": 76.3,
+   "obtido_em": "2026-09-16T20:45:16-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.47298,-51.94968|-29.48238,-51.96794": {
+   "metros": 2919.95,
+   "segundos": 2102.34,
+   "snap_m": 76.3,
+   "obtido_em": "2026-09-16T20:45:16-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.47298,-51.94968|-29.49164,-51.96268": {
+   "metros": 3094.83,
+   "segundos": 2228.26,
+   "snap_m": 76.3,
+   "obtido_em": "2026-09-16T20:45:16-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.47298,-51.94968|-29.49592,-51.94709": {
+   "metros": 3568.96,
+   "segundos": 2569.63,
+   "snap_m": 76.3,
+   "obtido_em": "2026-09-16T20:45:16-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.47298,-51.94968|-29.48446,-51.97516": {
+   "metros": 3956.38,
+   "segundos": 2848.57,
+   "snap_m": 76.3,
+   "obtido_em": "2026-09-16T20:45:16-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.47298,-51.94968|-29.48361,-51.94296": {
+   "metros": 2506.4,
+   "segundos": 1804.6,
+   "snap_m": 75.8939762608567,
+   "obtido_em": "2026-09-16T20:45:17-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.473427,
+     -51.949086
+    ],
+    [
+     -29.473462,
+     -51.949121
+    ],
+    [
+     -29.474272,
+     -51.949759
+    ],
+    [
+     -29.475063,
+     -51.950556
+    ],
+    [
+     -29.475669,
+     -51.951197
+    ],
+    [
+     -29.476357,
+     -51.951827
+    ],
+    [
+     -29.476987,
+     -51.952241
+    ],
+    [
+     -29.477901,
+     -51.952846
+    ],
+    [
+     -29.47798,
+     -51.952826
+    ],
+    [
+     -29.479063,
+     -51.952711
+    ],
+    [
+     -29.479274,
+     -51.952698
+    ],
+    [
+     -29.479382,
+     -51.952693
+    ],
+    [
+     -29.479505,
+     -51.952679
+    ],
+    [
+     -29.479574,
+     -51.952667
+    ],
+    [
+     -29.479771,
+     -51.952638
+    ],
+    [
+     -29.480367,
+     -51.952555
+    ],
+    [
+     -29.480947,
+     -51.950321
+    ],
+    [
+     -29.481238,
+     -51.949274
+    ],
+    [
+     -29.48195,
+     -51.949532
+    ],
+    [
+     -29.482735,
+     -51.94983
+    ],
+    [
+     -29.483178,
+     -51.948334
+    ],
+    [
+     -29.483652,
+     -51.946841
+    ],
+    [
+     -29.483899,
+     -51.946143
+    ],
+    [
+     -29.484553,
+     -51.946354
+    ],
+    [
+     -29.485028,
+     -51.944637
+    ],
+    [
+     -29.484299,
+     -51.94438
+    ],
+    [
+     -29.484463,
+     -51.943774
+    ],
+    [
+     -29.482839,
+     -51.943156
+    ],
+    [
+     -29.483035,
+     -51.942524
+    ],
+    [
+     -29.483667,
+     -51.942756
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.47298,-51.94968|-29.48006,-51.95758": {
+   "metros": 1894.17,
+   "segundos": 1363.79,
+   "snap_m": 76.3,
+   "obtido_em": "2026-09-16T20:45:18-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.47298,-51.94968|-29.48298,-51.95250": {
+   "metros": 1297.89,
+   "segundos": 934.47,
+   "snap_m": 76.3,
+   "obtido_em": "2026-09-16T20:45:18-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.47298,-51.94968|-29.48361,-51.94296": {
+   "metros": 2506.4,
+   "segundos": 1804.59,
+   "snap_m": 76.3,
+   "obtido_em": "2026-09-16T20:45:18-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.47298,-51.94968|-29.48305,-51.95859": {
+   "metros": 1880.98,
+   "segundos": 1354.29,
+   "snap_m": 76.3,
+   "obtido_em": "2026-09-16T20:45:18-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49125,-51.94710|-29.49164,-51.96268": {
+   "metros": 2095.08,
+   "segundos": 1508.44,
+   "snap_m": 72.31,
+   "obtido_em": "2026-09-17T11:51:35-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49125,-51.94710|-29.48238,-51.96794": {
+   "metros": 3044.41,
+   "segundos": 2191.95,
+   "snap_m": 72.31,
+   "obtido_em": "2026-09-17T11:51:35-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49125,-51.94710|-29.50931,-51.96718": {
+   "metros": 4624.07,
+   "segundos": 3329.3,
+   "snap_m": 72.31,
+   "obtido_em": "2026-09-17T11:51:35-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49125,-51.94710|-29.48446,-51.97516": {
+   "metros": 3705.28,
+   "segundos": 2667.78,
+   "snap_m": 72.31,
+   "obtido_em": "2026-09-17T11:51:35-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49125,-51.94710|-29.49592,-51.94709": {
+   "metros": 759.9,
+   "segundos": 547.1,
+   "snap_m": 71.88397164971607,
+   "obtido_em": "2026-09-17T11:51:36-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.491049,
+     -51.947808
+    ],
+    [
+     -29.491942,
+     -51.948149
+    ],
+    [
+     -29.492286,
+     -51.946976
+    ],
+    [
+     -29.493343,
+     -51.947373
+    ],
+    [
+     -29.494216,
+     -51.947675
+    ],
+    [
+     -29.495303,
+     -51.948061
+    ],
+    [
+     -29.495488,
+     -51.947411
+    ],
+    [
+     -29.495706,
+     -51.946615
+    ],
+    [
+     -29.496023,
+     -51.946729
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49125,-51.94710|-29.48821,-51.95238": {
+   "metros": 621.4,
+   "segundos": 447.4,
+   "snap_m": 71.88397164971607,
+   "obtido_em": "2026-09-17T11:51:37-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.491049,
+     -51.947808
+    ],
+    [
+     -29.490924,
+     -51.947761
+    ],
+    [
+     -29.49071,
+     -51.948497
+    ],
+    [
+     -29.490491,
+     -51.949265
+    ],
+    [
+     -29.490179,
+     -51.950411
+    ],
+    [
+     -29.4895,
+     -51.950286
+    ],
+    [
+     -29.489148,
+     -51.950164
+    ],
+    [
+     -29.488654,
+     -51.951667
+    ],
+    [
+     -29.488475,
+     -51.952187
+    ],
+    [
+     -29.488408,
+     -51.95212
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49125,-51.94710|-29.48361,-51.94296": {
+   "metros": 1587.0,
+   "segundos": 1142.7,
+   "snap_m": 71.88397164971607,
+   "obtido_em": "2026-09-17T11:51:37-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.491049,
+     -51.947808
+    ],
+    [
+     -29.491942,
+     -51.948149
+    ],
+    [
+     -29.492286,
+     -51.946976
+    ],
+    [
+     -29.492466,
+     -51.946338
+    ],
+    [
+     -29.49267,
+     -51.9456
+    ],
+    [
+     -29.492866,
+     -51.944843
+    ],
+    [
+     -29.492316,
+     -51.944639
+    ],
+    [
+     -29.491994,
+     -51.944518
+    ],
+    [
+     -29.491661,
+     -51.944377
+    ],
+    [
+     -29.4911,
+     -51.944187
+    ],
+    [
+     -29.490545,
+     -51.943998
+    ],
+    [
+     -29.490171,
+     -51.943867
+    ],
+    [
+     -29.489418,
+     -51.943614
+    ],
+    [
+     -29.489285,
+     -51.944133
+    ],
+    [
+     -29.48917,
+     -51.9441
+    ],
+    [
+     -29.488947,
+     -51.94404
+    ],
+    [
+     -29.488784,
+     -51.944602
+    ],
+    [
+     -29.488223,
+     -51.944398
+    ],
+    [
+     -29.487552,
+     -51.944175
+    ],
+    [
+     -29.486754,
+     -51.943887
+    ],
+    [
+     -29.486054,
+     -51.943622
+    ],
+    [
+     -29.485375,
+     -51.943385
+    ],
+    [
+     -29.483667,
+     -51.942756
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49125,-51.94710|-29.50384,-51.94736": {
+   "metros": 3100.4,
+   "segundos": 2232.3,
+   "snap_m": 71.88397164971607,
+   "obtido_em": "2026-09-17T11:51:38-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.491049,
+     -51.947808
+    ],
+    [
+     -29.490924,
+     -51.947761
+    ],
+    [
+     -29.49071,
+     -51.948497
+    ],
+    [
+     -29.490491,
+     -51.949265
+    ],
+    [
+     -29.490179,
+     -51.950411
+    ],
+    [
+     -29.489695,
+     -51.952034
+    ],
+    [
+     -29.489612,
+     -51.952257
+    ],
+    [
+     -29.489307,
+     -51.952444
+    ],
+    [
+     -29.489025,
+     -51.952667
+    ],
+    [
+     -29.488894,
+     -51.952614
+    ],
+    [
+     -29.488862,
+     -51.952669
+    ],
+    [
+     -29.488795,
+     -51.952711
+    ],
+    [
+     -29.488638,
+     -51.952809
+    ],
+    [
+     -29.48865,
+     -51.952837
+    ],
+    [
+     -29.488882,
+     -51.952693
+    ],
+    [
+     -29.489308,
+     -51.953125
+    ],
+    [
+     -29.489096,
+     -51.953261
+    ],
+    [
+     -29.489109,
+     -51.953285
+    ],
+    [
+     -29.489282,
+     -51.953177
+    ],
+    [
+     -29.489331,
+     -51.953145
+    ],
+    [
+     -29.489494,
+     -51.953078
+    ],
+    [
+     -29.489937,
+     -51.953244
+    ],
+    [
+     -29.490698,
+     -51.953492
+    ],
+    [
+     -29.490823,
+     -51.953537
+    ],
+    [
+     -29.491401,
+     -51.953738
+    ],
+    [
+     -29.491835,
+     -51.95396
+    ],
+    [
+     -29.492219,
+     -51.9542
+    ],
+    [
+     -29.492842,
+     -51.954632
+    ],
+    [
+     -29.493378,
+     -51.955036
+    ],
+    [
+     -29.493469,
+     -51.955101
+    ],
+    [
+     -29.494259,
+     -51.9557
+    ],
+    [
+     -29.494504,
+     -51.95583
+    ],
+    [
+     -29.494735,
+     -51.955905
+    ],
+    [
+     -29.495705,
+     -51.956079
+    ],
+    [
+     -29.496002,
+     -51.956154
+    ],
+    [
+     -29.496063,
+     -51.956175
+    ],
+    [
+     -29.496196,
+     -51.956248
+    ],
+    [
+     -29.496487,
+     -51.956457
+    ],
+    [
+     -29.496862,
+     -51.9568
+    ],
+    [
+     -29.497613,
+     -51.954253
+    ],
+    [
+     -29.497649,
+     -51.954128
+    ],
+    [
+     -29.497853,
+     -51.953426
+    ],
+    [
+     -29.497995,
+     -51.952921
+    ],
+    [
+     -29.498154,
+     -51.952359
+    ],
+    [
+     -29.498307,
+     -51.951831
+    ],
+    [
+     -29.498589,
+     -51.951944
+    ],
+    [
+     -29.498688,
+     -51.951855
+    ],
+    [
+     -29.498804,
+     -51.951693
+    ],
+    [
+     -29.498996,
+     -51.951551
+    ],
+    [
+     -29.499038,
+     -51.951468
+    ],
+    [
+     -29.499082,
+     -51.951324
+    ],
+    [
+     -29.499141,
+     -51.951197
+    ],
+    [
+     -29.499144,
+     -51.950883
+    ],
+    [
+     -29.499115,
+     -51.950764
+    ],
+    [
+     -29.499449,
+     -51.950882
+    ],
+    [
+     -29.499696,
+     -51.950425
+    ],
+    [
+     -29.499799,
+     -51.950268
+    ],
+    [
+     -29.499956,
+     -51.950136
+    ],
+    [
+     -29.500333,
+     -51.949908
+    ],
+    [
+     -29.501067,
+     -51.94926
+    ],
+    [
+     -29.501136,
+     -51.949232
+    ],
+    [
+     -29.501221,
+     -51.949228
+    ],
+    [
+     -29.501546,
+     -51.949343
+    ],
+    [
+     -29.503041,
+     -51.949874
+    ],
+    [
+     -29.503277,
+     -51.949025
+    ],
+    [
+     -29.503486,
+     -51.948227
+    ],
+    [
+     -29.503659,
+     -51.94762
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49125,-51.94710|-29.48298,-51.95250": {
+   "metros": 1329.43,
+   "segundos": 957.18,
+   "snap_m": 72.31,
+   "obtido_em": "2026-09-17T11:51:39-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49125,-51.94710|-29.50132,-51.95034": {
+   "metros": 2660.93,
+   "segundos": 1915.85,
+   "snap_m": 72.31,
+   "obtido_em": "2026-09-17T11:51:39-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49125,-51.94710|-29.48305,-51.95859": {
+   "metros": 2295.78,
+   "segundos": 1652.95,
+   "snap_m": 72.31,
+   "obtido_em": "2026-09-17T11:51:39-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49125,-51.94710|-29.49360,-51.96294": {
+   "metros": 2307.01,
+   "segundos": 1661.03,
+   "snap_m": 72.31,
+   "obtido_em": "2026-09-17T11:51:39-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49125,-51.94710|-29.48006,-51.95758": {
+   "metros": 2643.08,
+   "segundos": 1903.0,
+   "snap_m": 72.31,
+   "obtido_em": "2026-09-17T11:51:39-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49125,-51.94710|-29.48805,-51.96498": {
+   "metros": 2327.52,
+   "segundos": 1675.8,
+   "snap_m": 72.31,
+   "obtido_em": "2026-09-17T11:51:39-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48318,-51.96936|-29.48821,-51.95238": {
+   "metros": 2720.03,
+   "segundos": 1958.4,
+   "snap_m": 95.49,
+   "obtido_em": "2026-09-17T11:59:47-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48318,-51.96936|-29.48361,-51.94296": {
+   "metros": 4026.75,
+   "segundos": 2899.24,
+   "snap_m": 95.49,
+   "obtido_em": "2026-09-17T11:59:47-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48318,-51.96936|-29.49592,-51.94709": {
+   "metros": 3921.49,
+   "segundos": 2823.45,
+   "snap_m": 95.49,
+   "obtido_em": "2026-09-17T11:59:47-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48318,-51.96936|-29.50931,-51.96718": {
+   "metros": 4354.57,
+   "segundos": 3135.26,
+   "snap_m": 95.49,
+   "obtido_em": "2026-09-17T11:59:47-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.48318,-51.96936|-29.48238,-51.96794": {
+   "metros": 169.0,
+   "segundos": 121.7,
+   "snap_m": 94.974515917171,
+   "obtido_em": "2026-09-17T11:59:48-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.483728,
+     -51.968591
+    ],
+    [
+     -29.483108,
+     -51.968009
+    ],
+    [
+     -29.482672,
+     -51.967639
+    ],
+    [
+     -29.48261,
+     -51.967708
+    ],
+    [
+     -29.482562,
+     -51.967717
+    ],
+    [
+     -29.482524,
+     -51.967699
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.48318,-51.96936|-29.48446,-51.97516": {
+   "metros": 867.5,
+   "segundos": 624.6,
+   "snap_m": 94.974515917171,
+   "obtido_em": "2026-09-17T11:59:49-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.483728,
+     -51.968591
+    ],
+    [
+     -29.48459,
+     -51.969401
+    ],
+    [
+     -29.484426,
+     -51.970175
+    ],
+    [
+     -29.484323,
+     -51.970535
+    ],
+    [
+     -29.482971,
+     -51.975025
+    ],
+    [
+     -29.483667,
+     -51.975292
+    ],
+    [
+     -29.484459,
+     -51.975324
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.48318,-51.96936|-29.49164,-51.96268": {
+   "metros": 1683.7,
+   "segundos": 1212.3,
+   "snap_m": 94.974515917171,
+   "obtido_em": "2026-09-17T11:59:50-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.483728,
+     -51.968591
+    ],
+    [
+     -29.48459,
+     -51.969401
+    ],
+    [
+     -29.485389,
+     -51.970077
+    ],
+    [
+     -29.486332,
+     -51.970688
+    ],
+    [
+     -29.487901,
+     -51.971386
+    ],
+    [
+     -29.488309,
+     -51.971536
+    ],
+    [
+     -29.489179,
+     -51.968388
+    ],
+    [
+     -29.489331,
+     -51.967855
+    ],
+    [
+     -29.489777,
+     -51.966205
+    ],
+    [
+     -29.490171,
+     -51.964916
+    ],
+    [
+     -29.490056,
+     -51.964934
+    ],
+    [
+     -29.49008,
+     -51.964488
+    ],
+    [
+     -29.490102,
+     -51.964113
+    ],
+    [
+     -29.490235,
+     -51.962981
+    ],
+    [
+     -29.490968,
+     -51.963241
+    ],
+    [
+     -29.491056,
+     -51.962939
+    ],
+    [
+     -29.491551,
+     -51.963126
+    ],
+    [
+     -29.491672,
+     -51.962692
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48318,-51.96936|-29.48305,-51.95859": {
+   "metros": 1247.47,
+   "segundos": 898.17,
+   "snap_m": 95.49,
+   "obtido_em": "2026-09-17T11:59:51-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48318,-51.96936|-29.48006,-51.95758": {
+   "metros": 1529.36,
+   "segundos": 1101.13,
+   "snap_m": 95.49,
+   "obtido_em": "2026-09-17T11:59:51-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48318,-51.96936|-29.49360,-51.96294": {
+   "metros": 2028.33,
+   "segundos": 1460.39,
+   "snap_m": 95.49,
+   "obtido_em": "2026-09-17T11:59:51-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48318,-51.96936|-29.48298,-51.95250": {
+   "metros": 2818.25,
+   "segundos": 2029.12,
+   "snap_m": 95.49,
+   "obtido_em": "2026-09-17T11:59:51-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49252,-51.95296|-29.48238,-51.96794": {
+   "metros": 2685.9,
+   "segundos": 1933.83,
+   "snap_m": 87.91,
+   "obtido_em": "2026-09-17T15:21:37+00:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49252,-51.95296|-29.50931,-51.96718": {
+   "metros": 3599.21,
+   "segundos": 2591.41,
+   "snap_m": 87.91,
+   "obtido_em": "2026-09-17T15:21:37+00:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49252,-51.95296|-29.48446,-51.97516": {
+   "metros": 2872.52,
+   "segundos": 2068.2,
+   "snap_m": 87.91,
+   "obtido_em": "2026-09-17T15:21:37+00:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49252,-51.95296|-29.48821,-51.95238": {
+   "metros": 835.7,
+   "segundos": 601.7,
+   "snap_m": 87.42567177546817,
+   "obtido_em": "2026-09-17T15:21:38+00:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.49329,
+     -51.953155
+    ],
+    [
+     -29.493241,
+     -51.953403
+    ],
+    [
+     -29.492974,
+     -51.95419
+    ],
+    [
+     -29.492842,
+     -51.954632
+    ],
+    [
+     -29.492219,
+     -51.9542
+    ],
+    [
+     -29.491835,
+     -51.95396
+    ],
+    [
+     -29.491401,
+     -51.953738
+    ],
+    [
+     -29.490823,
+     -51.953537
+    ],
+    [
+     -29.490698,
+     -51.953492
+    ],
+    [
+     -29.489937,
+     -51.953244
+    ],
+    [
+     -29.489494,
+     -51.953078
+    ],
+    [
+     -29.489331,
+     -51.953145
+    ],
+    [
+     -29.489282,
+     -51.953177
+    ],
+    [
+     -29.489109,
+     -51.953285
+    ],
+    [
+     -29.489096,
+     -51.953261
+    ],
+    [
+     -29.489308,
+     -51.953125
+    ],
+    [
+     -29.488882,
+     -51.952693
+    ],
+    [
+     -29.48865,
+     -51.952837
+    ],
+    [
+     -29.488638,
+     -51.952809
+    ],
+    [
+     -29.488795,
+     -51.952711
+    ],
+    [
+     -29.488862,
+     -51.952669
+    ],
+    [
+     -29.488894,
+     -51.952614
+    ],
+    [
+     -29.488475,
+     -51.952187
+    ],
+    [
+     -29.488408,
+     -51.95212
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49252,-51.95296|-29.49592,-51.94709": {
+   "metros": 2037.2,
+   "segundos": 1466.7,
+   "snap_m": 87.42567177546817,
+   "obtido_em": "2026-09-17T15:21:39+00:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.49329,
+     -51.953155
+    ],
+    [
+     -29.493241,
+     -51.953403
+    ],
+    [
+     -29.492974,
+     -51.95419
+    ],
+    [
+     -29.492842,
+     -51.954632
+    ],
+    [
+     -29.492219,
+     -51.9542
+    ],
+    [
+     -29.491835,
+     -51.95396
+    ],
+    [
+     -29.491401,
+     -51.953738
+    ],
+    [
+     -29.490823,
+     -51.953537
+    ],
+    [
+     -29.490698,
+     -51.953492
+    ],
+    [
+     -29.489937,
+     -51.953244
+    ],
+    [
+     -29.489494,
+     -51.953078
+    ],
+    [
+     -29.489331,
+     -51.953145
+    ],
+    [
+     -29.489282,
+     -51.953177
+    ],
+    [
+     -29.489109,
+     -51.953285
+    ],
+    [
+     -29.489096,
+     -51.953261
+    ],
+    [
+     -29.489308,
+     -51.953125
+    ],
+    [
+     -29.488882,
+     -51.952693
+    ],
+    [
+     -29.48865,
+     -51.952837
+    ],
+    [
+     -29.488638,
+     -51.952809
+    ],
+    [
+     -29.488795,
+     -51.952711
+    ],
+    [
+     -29.488862,
+     -51.952669
+    ],
+    [
+     -29.488894,
+     -51.952614
+    ],
+    [
+     -29.489025,
+     -51.952667
+    ],
+    [
+     -29.489307,
+     -51.952444
+    ],
+    [
+     -29.489612,
+     -51.952257
+    ],
+    [
+     -29.489695,
+     -51.952034
+    ],
+    [
+     -29.489805,
+     -51.952186
+    ],
+    [
+     -29.489911,
+     -51.952146
+    ],
+    [
+     -29.490005,
+     -51.952063
+    ],
+    [
+     -29.490792,
+     -51.951712
+    ],
+    [
+     -29.490849,
+     -51.951673
+    ],
+    [
+     -29.490906,
+     -51.951568
+    ],
+    [
+     -29.491247,
+     -51.950551
+    ],
+    [
+     -29.492311,
+     -51.950895
+    ],
+    [
+     -29.492349,
+     -51.950848
+    ],
+    [
+     -29.492575,
+     -51.950048
+    ],
+    [
+     -29.492798,
+     -51.949267
+    ],
+    [
+     -29.493016,
+     -51.948559
+    ],
+    [
+     -29.493343,
+     -51.947373
+    ],
+    [
+     -29.494216,
+     -51.947675
+    ],
+    [
+     -29.495303,
+     -51.948061
+    ],
+    [
+     -29.495488,
+     -51.947411
+    ],
+    [
+     -29.495706,
+     -51.946615
+    ],
+    [
+     -29.496023,
+     -51.946729
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49252,-51.95296|-29.49164,-51.96268": {
+   "metros": 1057.5,
+   "segundos": 761.4,
+   "snap_m": 87.42567177546817,
+   "obtido_em": "2026-09-17T15:21:40+00:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.49329,
+     -51.953155
+    ],
+    [
+     -29.493241,
+     -51.953403
+    ],
+    [
+     -29.492974,
+     -51.95419
+    ],
+    [
+     -29.492842,
+     -51.954632
+    ],
+    [
+     -29.492096,
+     -51.957256
+    ],
+    [
+     -29.491488,
+     -51.959394
+    ],
+    [
+     -29.492126,
+     -51.959617
+    ],
+    [
+     -29.491847,
+     -51.960371
+    ],
+    [
+     -29.491822,
+     -51.960443
+    ],
+    [
+     -29.49151,
+     -51.961302
+    ],
+    [
+     -29.491973,
+     -51.96161
+    ],
+    [
+     -29.491672,
+     -51.962692
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49252,-51.95296|-29.50384,-51.94736": {
+   "metros": 2075.5,
+   "segundos": 1494.4,
+   "snap_m": 87.42567177546817,
+   "obtido_em": "2026-09-17T15:21:41+00:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.49329,
+     -51.953155
+    ],
+    [
+     -29.493241,
+     -51.953403
+    ],
+    [
+     -29.492974,
+     -51.95419
+    ],
+    [
+     -29.492842,
+     -51.954632
+    ],
+    [
+     -29.493378,
+     -51.955036
+    ],
+    [
+     -29.493469,
+     -51.955101
+    ],
+    [
+     -29.494259,
+     -51.9557
+    ],
+    [
+     -29.494504,
+     -51.95583
+    ],
+    [
+     -29.494735,
+     -51.955905
+    ],
+    [
+     -29.495705,
+     -51.956079
+    ],
+    [
+     -29.496002,
+     -51.956154
+    ],
+    [
+     -29.496063,
+     -51.956175
+    ],
+    [
+     -29.496196,
+     -51.956248
+    ],
+    [
+     -29.496487,
+     -51.956457
+    ],
+    [
+     -29.496862,
+     -51.9568
+    ],
+    [
+     -29.497613,
+     -51.954253
+    ],
+    [
+     -29.497649,
+     -51.954128
+    ],
+    [
+     -29.497853,
+     -51.953426
+    ],
+    [
+     -29.497995,
+     -51.952921
+    ],
+    [
+     -29.498154,
+     -51.952359
+    ],
+    [
+     -29.498307,
+     -51.951831
+    ],
+    [
+     -29.498589,
+     -51.951944
+    ],
+    [
+     -29.498688,
+     -51.951855
+    ],
+    [
+     -29.498804,
+     -51.951693
+    ],
+    [
+     -29.498996,
+     -51.951551
+    ],
+    [
+     -29.499038,
+     -51.951468
+    ],
+    [
+     -29.499082,
+     -51.951324
+    ],
+    [
+     -29.499141,
+     -51.951197
+    ],
+    [
+     -29.499144,
+     -51.950883
+    ],
+    [
+     -29.499115,
+     -51.950764
+    ],
+    [
+     -29.499449,
+     -51.950882
+    ],
+    [
+     -29.499696,
+     -51.950425
+    ],
+    [
+     -29.499799,
+     -51.950268
+    ],
+    [
+     -29.499956,
+     -51.950136
+    ],
+    [
+     -29.500333,
+     -51.949908
+    ],
+    [
+     -29.501067,
+     -51.94926
+    ],
+    [
+     -29.501136,
+     -51.949232
+    ],
+    [
+     -29.501221,
+     -51.949228
+    ],
+    [
+     -29.501546,
+     -51.949343
+    ],
+    [
+     -29.503041,
+     -51.949874
+    ],
+    [
+     -29.503277,
+     -51.949025
+    ],
+    [
+     -29.503486,
+     -51.948227
+    ],
+    [
+     -29.503659,
+     -51.94762
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49252,-51.95296|-29.48361,-51.94296": {
+   "metros": 2416.2,
+   "segundos": 1739.7,
+   "snap_m": 87.42567177546817,
+   "obtido_em": "2026-09-17T15:21:42+00:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.49329,
+     -51.953155
+    ],
+    [
+     -29.493241,
+     -51.953403
+    ],
+    [
+     -29.492974,
+     -51.95419
+    ],
+    [
+     -29.492842,
+     -51.954632
+    ],
+    [
+     -29.492219,
+     -51.9542
+    ],
+    [
+     -29.491835,
+     -51.95396
+    ],
+    [
+     -29.491401,
+     -51.953738
+    ],
+    [
+     -29.490823,
+     -51.953537
+    ],
+    [
+     -29.490698,
+     -51.953492
+    ],
+    [
+     -29.489937,
+     -51.953244
+    ],
+    [
+     -29.489494,
+     -51.953078
+    ],
+    [
+     -29.489331,
+     -51.953145
+    ],
+    [
+     -29.489282,
+     -51.953177
+    ],
+    [
+     -29.489109,
+     -51.953285
+    ],
+    [
+     -29.489096,
+     -51.953261
+    ],
+    [
+     -29.489308,
+     -51.953125
+    ],
+    [
+     -29.488882,
+     -51.952693
+    ],
+    [
+     -29.48865,
+     -51.952837
+    ],
+    [
+     -29.488638,
+     -51.952809
+    ],
+    [
+     -29.488795,
+     -51.952711
+    ],
+    [
+     -29.488862,
+     -51.952669
+    ],
+    [
+     -29.488894,
+     -51.952614
+    ],
+    [
+     -29.488475,
+     -51.952187
+    ],
+    [
+     -29.487952,
+     -51.951663
+    ],
+    [
+     -29.487549,
+     -51.951259
+    ],
+    [
+     -29.487478,
+     -51.951108
+    ],
+    [
+     -29.487496,
+     -51.951016
+    ],
+    [
+     -29.487661,
+     -51.95022
+    ],
+    [
+     -29.487449,
+     -51.950174
+    ],
+    [
+     -29.486725,
+     -51.9501
+    ],
+    [
+     -29.486211,
+     -51.950045
+    ],
+    [
+     -29.485439,
+     -51.950021
+    ],
+    [
+     -29.484922,
+     -51.949261
+    ],
+    [
+     -29.484739,
+     -51.948723
+    ],
+    [
+     -29.48477,
+     -51.948526
+    ],
+    [
+     -29.485075,
+     -51.947377
+    ],
+    [
+     -29.484319,
+     -51.947121
+    ],
+    [
+     -29.484553,
+     -51.946354
+    ],
+    [
+     -29.485028,
+     -51.944637
+    ],
+    [
+     -29.484299,
+     -51.94438
+    ],
+    [
+     -29.484463,
+     -51.943774
+    ],
+    [
+     -29.482839,
+     -51.943156
+    ],
+    [
+     -29.483035,
+     -51.942524
+    ],
+    [
+     -29.483667,
+     -51.942756
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49252,-51.95296|-29.50132,-51.95034": {
+   "metros": 1636.07,
+   "segundos": 1177.96,
+   "snap_m": 87.91,
+   "obtido_em": "2026-09-17T15:21:42+00:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49252,-51.95296|-29.48298,-51.95250": {
+   "metros": 1543.77,
+   "segundos": 1111.5,
+   "snap_m": 87.91,
+   "obtido_em": "2026-09-17T15:21:42+00:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49252,-51.95296|-29.48305,-51.95859": {
+   "metros": 1939.0,
+   "segundos": 1396.07,
+   "snap_m": 87.91,
+   "obtido_em": "2026-09-17T15:21:42+00:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49252,-51.95296|-29.48805,-51.96498": {
+   "metros": 1623.63,
+   "segundos": 1169.01,
+   "snap_m": 87.91,
+   "obtido_em": "2026-09-17T15:21:42+00:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49252,-51.95296|-29.48361,-51.94296": {
+   "metros": 2416.23,
+   "segundos": 1739.67,
+   "snap_m": 87.91,
+   "obtido_em": "2026-09-17T15:21:42+00:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49252,-51.95296|-29.48006,-51.95758": {
+   "metros": 2286.3,
+   "segundos": 1646.13,
+   "snap_m": 87.91,
+   "obtido_em": "2026-09-17T15:21:42+00:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48778,-51.94608|-29.49164,-51.96268": {
+   "metros": 2613.21,
+   "segundos": 1881.49,
+   "snap_m": 78.21,
+   "obtido_em": "2026-09-17T16:36:10-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48778,-51.94608|-29.50384,-51.94736": {
+   "metros": 3618.52,
+   "segundos": 2605.31,
+   "snap_m": 78.21,
+   "obtido_em": "2026-09-17T16:36:10-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48778,-51.94608|-29.48238,-51.96794": {
+   "metros": 3054.35,
+   "segundos": 2199.11,
+   "snap_m": 78.21,
+   "obtido_em": "2026-09-17T16:36:10-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48778,-51.94608|-29.48446,-51.97516": {
+   "metros": 4223.4,
+   "segundos": 3040.83,
+   "snap_m": 78.21,
+   "obtido_em": "2026-09-17T16:36:10-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.48778,-51.94608|-29.48361,-51.94296": {
+   "metros": 936.7,
+   "segundos": 674.5,
+   "snap_m": 77.7570135033049,
+   "obtido_em": "2026-09-17T16:36:11-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.487953,
+     -51.945296
+    ],
+    [
+     -29.488251,
+     -51.945383
+    ],
+    [
+     -29.488321,
+     -51.945382
+    ],
+    [
+     -29.488401,
+     -51.945375
+    ],
+    [
+     -29.488557,
+     -51.945309
+    ],
+    [
+     -29.488631,
+     -51.945307
+    ],
+    [
+     -29.488803,
+     -51.945438
+    ],
+    [
+     -29.48889,
+     -51.94514
+    ],
+    [
+     -29.489048,
+     -51.945072
+    ],
+    [
+     -29.489285,
+     -51.944133
+    ],
+    [
+     -29.48917,
+     -51.9441
+    ],
+    [
+     -29.488947,
+     -51.94404
+    ],
+    [
+     -29.488784,
+     -51.944602
+    ],
+    [
+     -29.488223,
+     -51.944398
+    ],
+    [
+     -29.487552,
+     -51.944175
+    ],
+    [
+     -29.486754,
+     -51.943887
+    ],
+    [
+     -29.486054,
+     -51.943622
+    ],
+    [
+     -29.485375,
+     -51.943385
+    ],
+    [
+     -29.483667,
+     -51.942756
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.48778,-51.94608|-29.48821,-51.95238": {
+   "metros": 1139.5,
+   "segundos": 820.4,
+   "snap_m": 77.7570135033049,
+   "obtido_em": "2026-09-17T16:36:12-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.487953,
+     -51.945296
+    ],
+    [
+     -29.488251,
+     -51.945383
+    ],
+    [
+     -29.488321,
+     -51.945382
+    ],
+    [
+     -29.488401,
+     -51.945375
+    ],
+    [
+     -29.488557,
+     -51.945309
+    ],
+    [
+     -29.488631,
+     -51.945307
+    ],
+    [
+     -29.488803,
+     -51.945438
+    ],
+    [
+     -29.488422,
+     -51.946806
+    ],
+    [
+     -29.490924,
+     -51.947761
+    ],
+    [
+     -29.49071,
+     -51.948497
+    ],
+    [
+     -29.490491,
+     -51.949265
+    ],
+    [
+     -29.490179,
+     -51.950411
+    ],
+    [
+     -29.4895,
+     -51.950286
+    ],
+    [
+     -29.489148,
+     -51.950164
+    ],
+    [
+     -29.488654,
+     -51.951667
+    ],
+    [
+     -29.488475,
+     -51.952187
+    ],
+    [
+     -29.488408,
+     -51.95212
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.48778,-51.94608|-29.49592,-51.94709": {
+   "metros": 1162.1,
+   "segundos": 836.7,
+   "snap_m": 77.7570135033049,
+   "obtido_em": "2026-09-17T16:36:13-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.487953,
+     -51.945296
+    ],
+    [
+     -29.488251,
+     -51.945383
+    ],
+    [
+     -29.488321,
+     -51.945382
+    ],
+    [
+     -29.488401,
+     -51.945375
+    ],
+    [
+     -29.488557,
+     -51.945309
+    ],
+    [
+     -29.488631,
+     -51.945307
+    ],
+    [
+     -29.488803,
+     -51.945438
+    ],
+    [
+     -29.48889,
+     -51.94514
+    ],
+    [
+     -29.489048,
+     -51.945072
+    ],
+    [
+     -29.489285,
+     -51.944133
+    ],
+    [
+     -29.489418,
+     -51.943614
+    ],
+    [
+     -29.490171,
+     -51.943867
+    ],
+    [
+     -29.490545,
+     -51.943998
+    ],
+    [
+     -29.4911,
+     -51.944187
+    ],
+    [
+     -29.491661,
+     -51.944377
+    ],
+    [
+     -29.491994,
+     -51.944518
+    ],
+    [
+     -29.492316,
+     -51.944639
+    ],
+    [
+     -29.492866,
+     -51.944843
+    ],
+    [
+     -29.49339,
+     -51.945006
+    ],
+    [
+     -29.49394,
+     -51.945168
+    ],
+    [
+     -29.494833,
+     -51.94548
+    ],
+    [
+     -29.495895,
+     -51.945864
+    ],
+    [
+     -29.495706,
+     -51.946615
+    ],
+    [
+     -29.496023,
+     -51.946729
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48778,-51.94608|-29.48305,-51.95859": {
+   "metros": 2926.89,
+   "segundos": 2107.35,
+   "snap_m": 78.21,
+   "obtido_em": "2026-09-17T16:36:14-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48778,-51.94608|-29.48006,-51.95758": {
+   "metros": 2940.08,
+   "segundos": 2116.84,
+   "snap_m": 78.21,
+   "obtido_em": "2026-09-17T16:36:14-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48778,-51.94608|-29.50132,-51.95034": {
+   "metros": 3179.06,
+   "segundos": 2288.91,
+   "snap_m": 78.21,
+   "obtido_em": "2026-09-17T16:36:14-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48778,-51.94608|-29.49360,-51.96294": {
+   "metros": 2825.13,
+   "segundos": 2034.08,
+   "snap_m": 78.21,
+   "obtido_em": "2026-09-17T16:36:14-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48778,-51.94608|-29.48805,-51.96498": {
+   "metros": 2845.64,
+   "segundos": 2048.84,
+   "snap_m": 78.21,
+   "obtido_em": "2026-09-17T16:36:14-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-11T12:08:56Z",
+    "osm_date": "2026-08-30T23:59:56Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48937,-51.94766|-29.50384,-51.94736": {
+   "metros": 3252.94,
+   "segundos": 2342.1,
+   "snap_m": 45.26,
+   "obtido_em": "2026-09-22T18:37:13-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48937,-51.94766|-29.48238,-51.96794": {
+   "metros": 3196.96,
+   "segundos": 2301.79,
+   "snap_m": 45.26,
+   "obtido_em": "2026-09-22T18:37:13-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48937,-51.94766|-29.48446,-51.97516": {
+   "metros": 3857.83,
+   "segundos": 2777.61,
+   "snap_m": 45.26,
+   "obtido_em": "2026-09-22T18:37:13-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48937,-51.94766|-29.50931,-51.96718": {
+   "metros": 4583.59,
+   "segundos": 3300.16,
+   "snap_m": 45.26,
+   "obtido_em": "2026-09-22T18:37:13-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.48937,-51.94766|-29.48821,-51.95238": {
+   "metros": 773.9,
+   "segundos": 557.2,
+   "snap_m": 44.95705816926762,
+   "obtido_em": "2026-09-22T18:37:14-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.4895,
+     -51.947218
+    ],
+    [
+     -29.490924,
+     -51.947761
+    ],
+    [
+     -29.49071,
+     -51.948497
+    ],
+    [
+     -29.490491,
+     -51.949265
+    ],
+    [
+     -29.490179,
+     -51.950411
+    ],
+    [
+     -29.4895,
+     -51.950286
+    ],
+    [
+     -29.489148,
+     -51.950164
+    ],
+    [
+     -29.488654,
+     -51.951667
+    ],
+    [
+     -29.488475,
+     -51.952187
+    ],
+    [
+     -29.488408,
+     -51.95212
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.48937,-51.94766|-29.49592,-51.94709": {
+   "metros": 941.7,
+   "segundos": 678.0,
+   "snap_m": 44.95705816926762,
+   "obtido_em": "2026-09-22T18:37:15-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.4895,
+     -51.947218
+    ],
+    [
+     -29.490924,
+     -51.947761
+    ],
+    [
+     -29.491942,
+     -51.948149
+    ],
+    [
+     -29.492286,
+     -51.946976
+    ],
+    [
+     -29.493343,
+     -51.947373
+    ],
+    [
+     -29.494216,
+     -51.947675
+    ],
+    [
+     -29.495303,
+     -51.948061
+    ],
+    [
+     -29.495488,
+     -51.947411
+    ],
+    [
+     -29.495706,
+     -51.946615
+    ],
+    [
+     -29.496023,
+     -51.946729
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.48937,-51.94766|-29.48361,-51.94296": {
+   "metros": 1102.0,
+   "segundos": 793.4,
+   "snap_m": 44.95705816926762,
+   "obtido_em": "2026-09-22T18:37:16-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.4895,
+     -51.947218
+    ],
+    [
+     -29.488422,
+     -51.946806
+    ],
+    [
+     -29.488803,
+     -51.945438
+    ],
+    [
+     -29.48889,
+     -51.94514
+    ],
+    [
+     -29.489048,
+     -51.945072
+    ],
+    [
+     -29.489285,
+     -51.944133
+    ],
+    [
+     -29.48917,
+     -51.9441
+    ],
+    [
+     -29.488947,
+     -51.94404
+    ],
+    [
+     -29.488784,
+     -51.944602
+    ],
+    [
+     -29.488223,
+     -51.944398
+    ],
+    [
+     -29.487552,
+     -51.944175
+    ],
+    [
+     -29.486754,
+     -51.943887
+    ],
+    [
+     -29.486054,
+     -51.943622
+    ],
+    [
+     -29.485375,
+     -51.943385
+    ],
+    [
+     -29.483667,
+     -51.942756
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.48937,-51.94766|-29.49164,-51.96268": {
+   "metros": 2247.6,
+   "segundos": 1618.3,
+   "snap_m": 44.95705816926762,
+   "obtido_em": "2026-09-22T18:37:17-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.4895,
+     -51.947218
+    ],
+    [
+     -29.490924,
+     -51.947761
+    ],
+    [
+     -29.49071,
+     -51.948497
+    ],
+    [
+     -29.490491,
+     -51.949265
+    ],
+    [
+     -29.490179,
+     -51.950411
+    ],
+    [
+     -29.489695,
+     -51.952034
+    ],
+    [
+     -29.489612,
+     -51.952257
+    ],
+    [
+     -29.489307,
+     -51.952444
+    ],
+    [
+     -29.489025,
+     -51.952667
+    ],
+    [
+     -29.488894,
+     -51.952614
+    ],
+    [
+     -29.488862,
+     -51.952669
+    ],
+    [
+     -29.488795,
+     -51.952711
+    ],
+    [
+     -29.488638,
+     -51.952809
+    ],
+    [
+     -29.48865,
+     -51.952837
+    ],
+    [
+     -29.488882,
+     -51.952693
+    ],
+    [
+     -29.489308,
+     -51.953125
+    ],
+    [
+     -29.489096,
+     -51.953261
+    ],
+    [
+     -29.489109,
+     -51.953285
+    ],
+    [
+     -29.489282,
+     -51.953177
+    ],
+    [
+     -29.489331,
+     -51.953145
+    ],
+    [
+     -29.489494,
+     -51.953078
+    ],
+    [
+     -29.489937,
+     -51.953244
+    ],
+    [
+     -29.490698,
+     -51.953492
+    ],
+    [
+     -29.490823,
+     -51.953537
+    ],
+    [
+     -29.490568,
+     -51.954449
+    ],
+    [
+     -29.490174,
+     -51.95593
+    ],
+    [
+     -29.490055,
+     -51.956363
+    ],
+    [
+     -29.49058,
+     -51.956593
+    ],
+    [
+     -29.491454,
+     -51.956993
+    ],
+    [
+     -29.492096,
+     -51.957256
+    ],
+    [
+     -29.491488,
+     -51.959394
+    ],
+    [
+     -29.492126,
+     -51.959617
+    ],
+    [
+     -29.491847,
+     -51.960371
+    ],
+    [
+     -29.491822,
+     -51.960443
+    ],
+    [
+     -29.49151,
+     -51.961302
+    ],
+    [
+     -29.491973,
+     -51.96161
+    ],
+    [
+     -29.491672,
+     -51.962692
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48937,-51.94766|-29.48305,-51.95859": {
+   "metros": 2448.34,
+   "segundos": 1762.79,
+   "snap_m": 45.26,
+   "obtido_em": "2026-09-22T18:37:18-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48937,-51.94766|-29.50132,-51.95034": {
+   "metros": 2813.49,
+   "segundos": 2025.69,
+   "snap_m": 45.26,
+   "obtido_em": "2026-09-22T18:37:18-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48937,-51.94766|-29.48006,-51.95758": {
+   "metros": 2827.21,
+   "segundos": 2035.57,
+   "snap_m": 45.26,
+   "obtido_em": "2026-09-22T18:37:18-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48937,-51.94766|-29.49360,-51.96294": {
+   "metros": 2459.56,
+   "segundos": 1770.86,
+   "snap_m": 45.26,
+   "obtido_em": "2026-09-22T18:37:18-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48937,-51.94766|-29.48805,-51.96498": {
+   "metros": 2480.07,
+   "segundos": 1785.63,
+   "snap_m": 45.26,
+   "obtido_em": "2026-09-22T18:37:18-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48740,-51.92926|-29.49592,-51.94709": {
+   "metros": 2533.56,
+   "segundos": 1824.15,
+   "snap_m": 319.0,
+   "obtido_em": "2026-09-22T18:52:37-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48740,-51.92926|-29.48821,-51.95238": {
+   "metros": 3132.4,
+   "segundos": 2255.31,
+   "snap_m": 319.0,
+   "obtido_em": "2026-09-22T18:52:37-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48740,-51.92926|-29.50384,-51.94736": {
+   "metros": 5611.42,
+   "segundos": 4040.19,
+   "snap_m": 319.0,
+   "obtido_em": "2026-09-22T18:52:37-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.48740,-51.92926|-29.48361,-51.94296": {
+   "metros": 2414.6,
+   "segundos": 1738.5,
+   "snap_m": 317.16693516950846,
+   "obtido_em": "2026-09-22T18:52:39-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.490268,
+     -51.929122
+    ],
+    [
+     -29.490796,
+     -51.929326
+    ],
+    [
+     -29.490859,
+     -51.929428
+    ],
+    [
+     -29.490857,
+     -51.929739
+    ],
+    [
+     -29.490897,
+     -51.929828
+    ],
+    [
+     -29.490971,
+     -51.929905
+    ],
+    [
+     -29.491165,
+     -51.930192
+    ],
+    [
+     -29.491646,
+     -51.930398
+    ],
+    [
+     -29.492454,
+     -51.930697
+    ],
+    [
+     -29.492524,
+     -51.930736
+    ],
+    [
+     -29.492562,
+     -51.930793
+    ],
+    [
+     -29.492555,
+     -51.930903
+    ],
+    [
+     -29.492453,
+     -51.931454
+    ],
+    [
+     -29.49245,
+     -51.931563
+    ],
+    [
+     -29.492465,
+     -51.931865
+    ],
+    [
+     -29.492453,
+     -51.931911
+    ],
+    [
+     -29.492362,
+     -51.932274
+    ],
+    [
+     -29.492269,
+     -51.932615
+    ],
+    [
+     -29.492051,
+     -51.933412
+    ],
+    [
+     -29.491865,
+     -51.934087
+    ],
+    [
+     -29.491663,
+     -51.93488
+    ],
+    [
+     -29.491507,
+     -51.93547
+    ],
+    [
+     -29.491176,
+     -51.936649
+    ],
+    [
+     -29.491144,
+     -51.936766
+    ],
+    [
+     -29.491281,
+     -51.937027
+    ],
+    [
+     -29.491133,
+     -51.93745
+    ],
+    [
+     -29.491081,
+     -51.937744
+    ],
+    [
+     -29.490848,
+     -51.938563
+    ],
+    [
+     -29.490743,
+     -51.938702
+    ],
+    [
+     -29.490744,
+     -51.938764
+    ],
+    [
+     -29.49036,
+     -51.940054
+    ],
+    [
+     -29.490251,
+     -51.94049
+    ],
+    [
+     -29.490153,
+     -51.940881
+    ],
+    [
+     -29.490259,
+     -51.94113
+    ],
+    [
+     -29.490249,
+     -51.941267
+    ],
+    [
+     -29.490181,
+     -51.941507
+    ],
+    [
+     -29.489845,
+     -51.941595
+    ],
+    [
+     -29.489793,
+     -51.941802
+    ],
+    [
+     -29.489759,
+     -51.941924
+    ],
+    [
+     -29.489729,
+     -51.942029
+    ],
+    [
+     -29.489605,
+     -51.942493
+    ],
+    [
+     -29.489337,
+     -51.943495
+    ],
+    [
+     -29.489312,
+     -51.943574
+    ],
+    [
+     -29.489418,
+     -51.943614
+    ],
+    [
+     -29.489285,
+     -51.944133
+    ],
+    [
+     -29.48917,
+     -51.9441
+    ],
+    [
+     -29.488947,
+     -51.94404
+    ],
+    [
+     -29.488784,
+     -51.944602
+    ],
+    [
+     -29.488223,
+     -51.944398
+    ],
+    [
+     -29.487552,
+     -51.944175
+    ],
+    [
+     -29.486754,
+     -51.943887
+    ],
+    [
+     -29.486054,
+     -51.943622
+    ],
+    [
+     -29.485375,
+     -51.943385
+    ],
+    [
+     -29.483667,
+     -51.942756
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48740,-51.92926|-29.48361,-51.94296": {
+   "metros": 2414.57,
+   "segundos": 1738.48,
+   "snap_m": 319.0,
+   "obtido_em": "2026-09-22T18:52:39-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48740,-51.92926|-29.49587,-51.94503": {
+   "metros": 2482.17,
+   "segundos": 1787.15,
+   "snap_m": 319.0,
+   "obtido_em": "2026-09-22T18:52:39-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49067,-51.93576|-29.48821,-51.95238": {
+   "metros": 2485.86,
+   "segundos": 1789.8,
+   "snap_m": 50.9,
+   "obtido_em": "2026-09-22T18:55:29-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49067,-51.93576|-29.50384,-51.94736": {
+   "metros": 4964.88,
+   "segundos": 3574.69,
+   "snap_m": 50.9,
+   "obtido_em": "2026-09-22T18:55:29-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49067,-51.93576|-29.49164,-51.96268": {
+   "metros": 3959.58,
+   "segundos": 2850.87,
+   "snap_m": 50.9,
+   "obtido_em": "2026-09-22T18:55:29-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49067,-51.93576|-29.48361,-51.94296": {
+   "metros": 1768.0,
+   "segundos": 1273.0,
+   "snap_m": 50.66159484196283,
+   "obtido_em": "2026-09-22T18:55:29-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.490336,
+     -51.935409
+    ],
+    [
+     -29.490432,
+     -51.9352
+    ],
+    [
+     -29.490486,
+     -51.935136
+    ],
+    [
+     -29.490565,
+     -51.93512
+    ],
+    [
+     -29.491507,
+     -51.93547
+    ],
+    [
+     -29.491176,
+     -51.936649
+    ],
+    [
+     -29.491144,
+     -51.936766
+    ],
+    [
+     -29.491281,
+     -51.937027
+    ],
+    [
+     -29.491133,
+     -51.93745
+    ],
+    [
+     -29.491081,
+     -51.937744
+    ],
+    [
+     -29.490848,
+     -51.938563
+    ],
+    [
+     -29.490743,
+     -51.938702
+    ],
+    [
+     -29.490744,
+     -51.938764
+    ],
+    [
+     -29.49036,
+     -51.940054
+    ],
+    [
+     -29.490251,
+     -51.94049
+    ],
+    [
+     -29.490153,
+     -51.940881
+    ],
+    [
+     -29.490259,
+     -51.94113
+    ],
+    [
+     -29.490249,
+     -51.941267
+    ],
+    [
+     -29.490181,
+     -51.941507
+    ],
+    [
+     -29.489845,
+     -51.941595
+    ],
+    [
+     -29.489793,
+     -51.941802
+    ],
+    [
+     -29.489759,
+     -51.941924
+    ],
+    [
+     -29.489729,
+     -51.942029
+    ],
+    [
+     -29.489605,
+     -51.942493
+    ],
+    [
+     -29.489337,
+     -51.943495
+    ],
+    [
+     -29.489312,
+     -51.943574
+    ],
+    [
+     -29.489418,
+     -51.943614
+    ],
+    [
+     -29.489285,
+     -51.944133
+    ],
+    [
+     -29.48917,
+     -51.9441
+    ],
+    [
+     -29.488947,
+     -51.94404
+    ],
+    [
+     -29.488784,
+     -51.944602
+    ],
+    [
+     -29.488223,
+     -51.944398
+    ],
+    [
+     -29.487552,
+     -51.944175
+    ],
+    [
+     -29.486754,
+     -51.943887
+    ],
+    [
+     -29.486054,
+     -51.943622
+    ],
+    [
+     -29.485375,
+     -51.943385
+    ],
+    [
+     -29.483667,
+     -51.942756
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49067,-51.93576|-29.49592,-51.94709": {
+   "metros": 1887.0,
+   "segundos": 1358.6,
+   "snap_m": 50.66159484196283,
+   "obtido_em": "2026-09-22T18:55:30-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.490336,
+     -51.935409
+    ],
+    [
+     -29.490432,
+     -51.9352
+    ],
+    [
+     -29.490486,
+     -51.935136
+    ],
+    [
+     -29.490565,
+     -51.93512
+    ],
+    [
+     -29.491507,
+     -51.93547
+    ],
+    [
+     -29.491176,
+     -51.936649
+    ],
+    [
+     -29.491144,
+     -51.936766
+    ],
+    [
+     -29.491281,
+     -51.937027
+    ],
+    [
+     -29.491133,
+     -51.93745
+    ],
+    [
+     -29.491081,
+     -51.937744
+    ],
+    [
+     -29.490848,
+     -51.938563
+    ],
+    [
+     -29.490743,
+     -51.938702
+    ],
+    [
+     -29.490744,
+     -51.938764
+    ],
+    [
+     -29.49036,
+     -51.940054
+    ],
+    [
+     -29.490251,
+     -51.94049
+    ],
+    [
+     -29.490153,
+     -51.940881
+    ],
+    [
+     -29.490259,
+     -51.94113
+    ],
+    [
+     -29.490249,
+     -51.941267
+    ],
+    [
+     -29.490181,
+     -51.941507
+    ],
+    [
+     -29.489845,
+     -51.941595
+    ],
+    [
+     -29.489793,
+     -51.941802
+    ],
+    [
+     -29.489759,
+     -51.941924
+    ],
+    [
+     -29.489729,
+     -51.942029
+    ],
+    [
+     -29.489605,
+     -51.942493
+    ],
+    [
+     -29.489337,
+     -51.943495
+    ],
+    [
+     -29.489749,
+     -51.943626
+    ],
+    [
+     -29.490193,
+     -51.943776
+    ],
+    [
+     -29.490569,
+     -51.943913
+    ],
+    [
+     -29.491122,
+     -51.944108
+    ],
+    [
+     -29.491682,
+     -51.944291
+    ],
+    [
+     -29.492022,
+     -51.944422
+    ],
+    [
+     -29.492332,
+     -51.944555
+    ],
+    [
+     -29.492889,
+     -51.944758
+    ],
+    [
+     -29.493412,
+     -51.944942
+    ],
+    [
+     -29.49396,
+     -51.945094
+    ],
+    [
+     -29.49485,
+     -51.945409
+    ],
+    [
+     -29.494833,
+     -51.94548
+    ],
+    [
+     -29.495895,
+     -51.945864
+    ],
+    [
+     -29.495706,
+     -51.946615
+    ],
+    [
+     -29.496023,
+     -51.946729
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49067,-51.93576|-29.48361,-51.94296": {
+   "metros": 1768.03,
+   "segundos": 1272.97,
+   "snap_m": 50.9,
+   "obtido_em": "2026-09-22T18:55:31-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49067,-51.93576|-29.49587,-51.94503": {
+   "metros": 1835.63,
+   "segundos": 1321.64,
+   "snap_m": 50.9,
+   "obtido_em": "2026-09-22T18:55:31-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49067,-51.93576|-29.48298,-51.95250": {
+   "metros": 2438.74,
+   "segundos": 1755.88,
+   "snap_m": 50.9,
+   "obtido_em": "2026-09-22T18:55:31-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49067,-51.93576|-29.50132,-51.95034": {
+   "metros": 4525.43,
+   "segundos": 3258.28,
+   "snap_m": 50.9,
+   "obtido_em": "2026-09-22T18:55:31-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49117,-51.93066|-29.49592,-51.94709": {
+   "metros": 2276.63,
+   "segundos": 1639.16,
+   "snap_m": 31.87,
+   "obtido_em": "2026-09-24T15:03:21-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49117,-51.93066|-29.48821,-51.95238": {
+   "metros": 2875.47,
+   "segundos": 2070.32,
+   "snap_m": 31.87,
+   "obtido_em": "2026-09-24T15:03:21-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49117,-51.93066|-29.50384,-51.94736": {
+   "metros": 5354.49,
+   "segundos": 3855.2,
+   "snap_m": 31.87,
+   "obtido_em": "2026-09-24T15:03:21-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.49117,-51.93066|-29.48361,-51.94296": {
+   "metros": 2157.6,
+   "segundos": 1553.5,
+   "snap_m": 31.674186265634837,
+   "obtido_em": "2026-09-24T15:03:23-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.491363,
+     -51.930898
+    ],
+    [
+     -29.491483,
+     -51.93119
+    ],
+    [
+     -29.491564,
+     -51.931281
+    ],
+    [
+     -29.49245,
+     -51.931563
+    ],
+    [
+     -29.492465,
+     -51.931865
+    ],
+    [
+     -29.492453,
+     -51.931911
+    ],
+    [
+     -29.492362,
+     -51.932274
+    ],
+    [
+     -29.492269,
+     -51.932615
+    ],
+    [
+     -29.492051,
+     -51.933412
+    ],
+    [
+     -29.491865,
+     -51.934087
+    ],
+    [
+     -29.491663,
+     -51.93488
+    ],
+    [
+     -29.491507,
+     -51.93547
+    ],
+    [
+     -29.491176,
+     -51.936649
+    ],
+    [
+     -29.491144,
+     -51.936766
+    ],
+    [
+     -29.491281,
+     -51.937027
+    ],
+    [
+     -29.491133,
+     -51.93745
+    ],
+    [
+     -29.491081,
+     -51.937744
+    ],
+    [
+     -29.490848,
+     -51.938563
+    ],
+    [
+     -29.490743,
+     -51.938702
+    ],
+    [
+     -29.490744,
+     -51.938764
+    ],
+    [
+     -29.49036,
+     -51.940054
+    ],
+    [
+     -29.490251,
+     -51.94049
+    ],
+    [
+     -29.490153,
+     -51.940881
+    ],
+    [
+     -29.490259,
+     -51.94113
+    ],
+    [
+     -29.490249,
+     -51.941267
+    ],
+    [
+     -29.490181,
+     -51.941507
+    ],
+    [
+     -29.489845,
+     -51.941595
+    ],
+    [
+     -29.489793,
+     -51.941802
+    ],
+    [
+     -29.489759,
+     -51.941924
+    ],
+    [
+     -29.489729,
+     -51.942029
+    ],
+    [
+     -29.489605,
+     -51.942493
+    ],
+    [
+     -29.489337,
+     -51.943495
+    ],
+    [
+     -29.489312,
+     -51.943574
+    ],
+    [
+     -29.489418,
+     -51.943614
+    ],
+    [
+     -29.489285,
+     -51.944133
+    ],
+    [
+     -29.48917,
+     -51.9441
+    ],
+    [
+     -29.488947,
+     -51.94404
+    ],
+    [
+     -29.488784,
+     -51.944602
+    ],
+    [
+     -29.488223,
+     -51.944398
+    ],
+    [
+     -29.487552,
+     -51.944175
+    ],
+    [
+     -29.486754,
+     -51.943887
+    ],
+    [
+     -29.486054,
+     -51.943622
+    ],
+    [
+     -29.485375,
+     -51.943385
+    ],
+    [
+     -29.483667,
+     -51.942756
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49117,-51.93066|-29.48361,-51.94296": {
+   "metros": 2157.64,
+   "segundos": 1553.49,
+   "snap_m": 31.87,
+   "obtido_em": "2026-09-24T15:03:24-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49117,-51.93066|-29.49587,-51.94503": {
+   "metros": 2225.24,
+   "segundos": 1602.16,
+   "snap_m": 31.87,
+   "obtido_em": "2026-09-24T15:03:24-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-15T03:30:33Z",
+    "osm_date": "2026-09-07T00:00:04Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49431,-51.93022|-29.49592,-51.94709": {
+   "metros": 2547.1,
+   "segundos": 1833.89,
+   "snap_m": 91.55,
+   "obtido_em": "2026-09-25T17:03:13-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49431,-51.93022|-29.48361,-51.94296": {
+   "metros": 2428.11,
+   "segundos": 1748.22,
+   "snap_m": 91.55,
+   "obtido_em": "2026-09-25T17:03:13-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49431,-51.93022|-29.50384,-51.94736": {
+   "metros": 5624.96,
+   "segundos": 4049.93,
+   "snap_m": 91.55,
+   "obtido_em": "2026-09-25T17:03:13-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49431,-51.93022|-29.48821,-51.95238": {
+   "metros": 3145.94,
+   "segundos": 2265.05,
+   "snap_m": 91.55,
+   "obtido_em": "2026-09-25T17:03:13-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.49431,-51.93022|-29.49587,-51.94503": {
+   "metros": 2495.71,
+   "segundos": 1796.89,
+   "snap_m": 91.55,
+   "obtido_em": "2026-09-25T17:03:14-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48683,-51.94053|-29.50384,-51.94736": {
+   "metros": 4483.52,
+   "segundos": 3228.11,
+   "snap_m": 114.96,
+   "obtido_em": "2026-09-25T18:26:43-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48683,-51.94053|-29.49164,-51.96268": {
+   "metros": 3478.22,
+   "segundos": 2504.29,
+   "snap_m": 114.96,
+   "obtido_em": "2026-09-25T18:26:43-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48683,-51.94053|-29.48238,-51.96794": {
+   "metros": 4427.54,
+   "segundos": 3187.8,
+   "snap_m": 114.96,
+   "obtido_em": "2026-09-25T18:26:43-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.48683,-51.94053|-29.48361,-51.94296": {
+   "metros": 1286.7,
+   "segundos": 926.4,
+   "snap_m": 114.33983089060305,
+   "obtido_em": "2026-09-25T18:26:44-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.487857,
+     -51.94042
+    ],
+    [
+     -29.488013,
+     -51.940216
+    ],
+    [
+     -29.488482,
+     -51.940304
+    ],
+    [
+     -29.48857,
+     -51.94029
+    ],
+    [
+     -29.48927,
+     -51.940554
+    ],
+    [
+     -29.489913,
+     -51.940785
+    ],
+    [
+     -29.48976,
+     -51.941337
+    ],
+    [
+     -29.489789,
+     -51.941481
+    ],
+    [
+     -29.489845,
+     -51.941595
+    ],
+    [
+     -29.489793,
+     -51.941802
+    ],
+    [
+     -29.489759,
+     -51.941924
+    ],
+    [
+     -29.489729,
+     -51.942029
+    ],
+    [
+     -29.489605,
+     -51.942493
+    ],
+    [
+     -29.489337,
+     -51.943495
+    ],
+    [
+     -29.489312,
+     -51.943574
+    ],
+    [
+     -29.489418,
+     -51.943614
+    ],
+    [
+     -29.489285,
+     -51.944133
+    ],
+    [
+     -29.48917,
+     -51.9441
+    ],
+    [
+     -29.488947,
+     -51.94404
+    ],
+    [
+     -29.488784,
+     -51.944602
+    ],
+    [
+     -29.488223,
+     -51.944398
+    ],
+    [
+     -29.487552,
+     -51.944175
+    ],
+    [
+     -29.486754,
+     -51.943887
+    ],
+    [
+     -29.486054,
+     -51.943622
+    ],
+    [
+     -29.485375,
+     -51.943385
+    ],
+    [
+     -29.483667,
+     -51.942756
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.48683,-51.94053|-29.48821,-51.95238": {
+   "metros": 2004.5,
+   "segundos": 1443.2,
+   "snap_m": 114.33983089060305,
+   "obtido_em": "2026-09-25T18:26:45-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.487857,
+     -51.94042
+    ],
+    [
+     -29.488013,
+     -51.940216
+    ],
+    [
+     -29.488482,
+     -51.940304
+    ],
+    [
+     -29.48857,
+     -51.94029
+    ],
+    [
+     -29.48927,
+     -51.940554
+    ],
+    [
+     -29.489913,
+     -51.940785
+    ],
+    [
+     -29.48976,
+     -51.941337
+    ],
+    [
+     -29.489789,
+     -51.941481
+    ],
+    [
+     -29.489845,
+     -51.941595
+    ],
+    [
+     -29.489793,
+     -51.941802
+    ],
+    [
+     -29.489759,
+     -51.941924
+    ],
+    [
+     -29.489729,
+     -51.942029
+    ],
+    [
+     -29.489605,
+     -51.942493
+    ],
+    [
+     -29.489337,
+     -51.943495
+    ],
+    [
+     -29.489749,
+     -51.943626
+    ],
+    [
+     -29.490193,
+     -51.943776
+    ],
+    [
+     -29.490569,
+     -51.943913
+    ],
+    [
+     -29.491122,
+     -51.944108
+    ],
+    [
+     -29.491682,
+     -51.944291
+    ],
+    [
+     -29.492022,
+     -51.944422
+    ],
+    [
+     -29.492332,
+     -51.944555
+    ],
+    [
+     -29.492316,
+     -51.944639
+    ],
+    [
+     -29.492866,
+     -51.944843
+    ],
+    [
+     -29.49267,
+     -51.9456
+    ],
+    [
+     -29.492466,
+     -51.946338
+    ],
+    [
+     -29.492286,
+     -51.946976
+    ],
+    [
+     -29.491942,
+     -51.948149
+    ],
+    [
+     -29.490924,
+     -51.947761
+    ],
+    [
+     -29.49071,
+     -51.948497
+    ],
+    [
+     -29.490491,
+     -51.949265
+    ],
+    [
+     -29.490179,
+     -51.950411
+    ],
+    [
+     -29.4895,
+     -51.950286
+    ],
+    [
+     -29.489148,
+     -51.950164
+    ],
+    [
+     -29.488654,
+     -51.951667
+    ],
+    [
+     -29.488475,
+     -51.952187
+    ],
+    [
+     -29.488408,
+     -51.95212
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.48683,-51.94053|-29.49592,-51.94709": {
+   "metros": 1405.7,
+   "segundos": 1012.1,
+   "snap_m": 114.33983089060305,
+   "obtido_em": "2026-09-25T18:26:46-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.487857,
+     -51.94042
+    ],
+    [
+     -29.488013,
+     -51.940216
+    ],
+    [
+     -29.488482,
+     -51.940304
+    ],
+    [
+     -29.48857,
+     -51.94029
+    ],
+    [
+     -29.48927,
+     -51.940554
+    ],
+    [
+     -29.489913,
+     -51.940785
+    ],
+    [
+     -29.48976,
+     -51.941337
+    ],
+    [
+     -29.489789,
+     -51.941481
+    ],
+    [
+     -29.489845,
+     -51.941595
+    ],
+    [
+     -29.489793,
+     -51.941802
+    ],
+    [
+     -29.489759,
+     -51.941924
+    ],
+    [
+     -29.489729,
+     -51.942029
+    ],
+    [
+     -29.489605,
+     -51.942493
+    ],
+    [
+     -29.489337,
+     -51.943495
+    ],
+    [
+     -29.489749,
+     -51.943626
+    ],
+    [
+     -29.490193,
+     -51.943776
+    ],
+    [
+     -29.490569,
+     -51.943913
+    ],
+    [
+     -29.491122,
+     -51.944108
+    ],
+    [
+     -29.491682,
+     -51.944291
+    ],
+    [
+     -29.492022,
+     -51.944422
+    ],
+    [
+     -29.492332,
+     -51.944555
+    ],
+    [
+     -29.492889,
+     -51.944758
+    ],
+    [
+     -29.493412,
+     -51.944942
+    ],
+    [
+     -29.49396,
+     -51.945094
+    ],
+    [
+     -29.49485,
+     -51.945409
+    ],
+    [
+     -29.494833,
+     -51.94548
+    ],
+    [
+     -29.495895,
+     -51.945864
+    ],
+    [
+     -29.495706,
+     -51.946615
+    ],
+    [
+     -29.496023,
+     -51.946729
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48683,-51.94053|-29.49587,-51.94503": {
+   "metros": 1354.27,
+   "segundos": 975.07,
+   "snap_m": 114.96,
+   "obtido_em": "2026-09-25T18:26:47-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48683,-51.94053|-29.48298,-51.95250": {
+   "metros": 1957.38,
+   "segundos": 1409.31,
+   "snap_m": 114.96,
+   "obtido_em": "2026-09-25T18:26:47-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48683,-51.94053|-29.48305,-51.95859": {
+   "metros": 3557.92,
+   "segundos": 2561.68,
+   "snap_m": 114.96,
+   "obtido_em": "2026-09-25T18:26:47-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48683,-51.94053|-29.48006,-51.95758": {
+   "metros": 3571.11,
+   "segundos": 2571.18,
+   "snap_m": 114.96,
+   "obtido_em": "2026-09-25T18:26:47-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48683,-51.94053|-29.50132,-51.95034": {
+   "metros": 4044.07,
+   "segundos": 2911.7,
+   "snap_m": 114.96,
+   "obtido_em": "2026-09-25T18:26:47-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48765,-51.94570|-29.49164,-51.96268": {
+   "metros": 2656.33,
+   "segundos": 1912.54,
+   "snap_m": 38.94,
+   "obtido_em": "2026-10-04T12:19:50-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48765,-51.94570|-29.50384,-51.94736": {
+   "metros": 3661.64,
+   "segundos": 2636.36,
+   "snap_m": 38.94,
+   "obtido_em": "2026-10-04T12:19:50-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48765,-51.94570|-29.48238,-51.96794": {
+   "metros": 3097.48,
+   "segundos": 2230.16,
+   "snap_m": 38.94,
+   "obtido_em": "2026-10-04T12:19:50-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48765,-51.94570|-29.48446,-51.97516": {
+   "metros": 4266.53,
+   "segundos": 3071.88,
+   "snap_m": 38.94,
+   "obtido_em": "2026-10-04T12:19:50-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.48765,-51.94570|-29.48361,-51.94296": {
+   "metros": 979.9,
+   "segundos": 705.5,
+   "snap_m": 38.74796880574353,
+   "obtido_em": "2026-10-04T12:19:51-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.487571,
+     -51.945305
+    ],
+    [
+     -29.487675,
+     -51.945277
+    ],
+    [
+     -29.487784,
+     -51.945266
+    ],
+    [
+     -29.487871,
+     -51.945272
+    ],
+    [
+     -29.488251,
+     -51.945383
+    ],
+    [
+     -29.488321,
+     -51.945382
+    ],
+    [
+     -29.488401,
+     -51.945375
+    ],
+    [
+     -29.488557,
+     -51.945309
+    ],
+    [
+     -29.488631,
+     -51.945307
+    ],
+    [
+     -29.488803,
+     -51.945438
+    ],
+    [
+     -29.48889,
+     -51.94514
+    ],
+    [
+     -29.489048,
+     -51.945072
+    ],
+    [
+     -29.489285,
+     -51.944133
+    ],
+    [
+     -29.48917,
+     -51.9441
+    ],
+    [
+     -29.488947,
+     -51.94404
+    ],
+    [
+     -29.488784,
+     -51.944602
+    ],
+    [
+     -29.488223,
+     -51.944398
+    ],
+    [
+     -29.487552,
+     -51.944175
+    ],
+    [
+     -29.486754,
+     -51.943887
+    ],
+    [
+     -29.486054,
+     -51.943622
+    ],
+    [
+     -29.485375,
+     -51.943385
+    ],
+    [
+     -29.483667,
+     -51.942756
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.48765,-51.94570|-29.48821,-51.95238": {
+   "metros": 1182.6,
+   "segundos": 851.5,
+   "snap_m": 38.74796880574353,
+   "obtido_em": "2026-10-04T12:19:52-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.487571,
+     -51.945305
+    ],
+    [
+     -29.487675,
+     -51.945277
+    ],
+    [
+     -29.487784,
+     -51.945266
+    ],
+    [
+     -29.487871,
+     -51.945272
+    ],
+    [
+     -29.488251,
+     -51.945383
+    ],
+    [
+     -29.488321,
+     -51.945382
+    ],
+    [
+     -29.488401,
+     -51.945375
+    ],
+    [
+     -29.488557,
+     -51.945309
+    ],
+    [
+     -29.488631,
+     -51.945307
+    ],
+    [
+     -29.488803,
+     -51.945438
+    ],
+    [
+     -29.488422,
+     -51.946806
+    ],
+    [
+     -29.490924,
+     -51.947761
+    ],
+    [
+     -29.49071,
+     -51.948497
+    ],
+    [
+     -29.490491,
+     -51.949265
+    ],
+    [
+     -29.490179,
+     -51.950411
+    ],
+    [
+     -29.4895,
+     -51.950286
+    ],
+    [
+     -29.489148,
+     -51.950164
+    ],
+    [
+     -29.488654,
+     -51.951667
+    ],
+    [
+     -29.488475,
+     -51.952187
+    ],
+    [
+     -29.488408,
+     -51.95212
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|directions|-29.48765,-51.94570|-29.49592,-51.94709": {
+   "metros": 1205.2,
+   "segundos": 867.7,
+   "snap_m": 38.74796880574353,
+   "obtido_em": "2026-10-04T12:19:53-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "rota": [
+    [
+     -29.487571,
+     -51.945305
+    ],
+    [
+     -29.487675,
+     -51.945277
+    ],
+    [
+     -29.487784,
+     -51.945266
+    ],
+    [
+     -29.487871,
+     -51.945272
+    ],
+    [
+     -29.488251,
+     -51.945383
+    ],
+    [
+     -29.488321,
+     -51.945382
+    ],
+    [
+     -29.488401,
+     -51.945375
+    ],
+    [
+     -29.488557,
+     -51.945309
+    ],
+    [
+     -29.488631,
+     -51.945307
+    ],
+    [
+     -29.488803,
+     -51.945438
+    ],
+    [
+     -29.48889,
+     -51.94514
+    ],
+    [
+     -29.489048,
+     -51.945072
+    ],
+    [
+     -29.489285,
+     -51.944133
+    ],
+    [
+     -29.489418,
+     -51.943614
+    ],
+    [
+     -29.490171,
+     -51.943867
+    ],
+    [
+     -29.490545,
+     -51.943998
+    ],
+    [
+     -29.4911,
+     -51.944187
+    ],
+    [
+     -29.491661,
+     -51.944377
+    ],
+    [
+     -29.491994,
+     -51.944518
+    ],
+    [
+     -29.492316,
+     -51.944639
+    ],
+    [
+     -29.492866,
+     -51.944843
+    ],
+    [
+     -29.49339,
+     -51.945006
+    ],
+    [
+     -29.49394,
+     -51.945168
+    ],
+    [
+     -29.494833,
+     -51.94548
+    ],
+    [
+     -29.495895,
+     -51.945864
+    ],
+    [
+     -29.495706,
+     -51.946615
+    ],
+    [
+     -29.496023,
+     -51.946729
+    ]
+   ],
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48765,-51.94570|-29.48305,-51.95859": {
+   "metros": 2970.02,
+   "segundos": 2138.4,
+   "snap_m": 38.94,
+   "obtido_em": "2026-10-04T12:19:53-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48765,-51.94570|-29.48006,-51.95758": {
+   "metros": 2983.21,
+   "segundos": 2147.89,
+   "snap_m": 38.94,
+   "obtido_em": "2026-10-04T12:19:53-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48765,-51.94570|-29.50132,-51.95034": {
+   "metros": 3222.19,
+   "segundos": 2319.96,
+   "snap_m": 38.94,
+   "obtido_em": "2026-10-04T12:19:53-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48765,-51.94570|-29.49360,-51.96294": {
+   "metros": 2868.26,
+   "segundos": 2065.13,
+   "snap_m": 38.94,
+   "obtido_em": "2026-10-04T12:19:53-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  },
+  "ors|foot-walking|matrix|-29.48765,-51.94570|-29.48805,-51.96498": {
+   "metros": 2888.77,
+   "segundos": 2079.9,
+   "snap_m": 38.94,
+   "obtido_em": "2026-10-04T12:19:53-03:00",
+   "procedencia": {
+    "graph_date": "2026-09-20T06:31:34Z",
+    "osm_date": "2026-09-13T23:59:59Z",
+    "version": "9.10.0"
+   },
+   "arredondamento_m": 1.2
+  }
+ }
+}

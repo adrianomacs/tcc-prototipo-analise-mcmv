@@ -1,0 +1,46 @@
+{
+  "id": "ad4d03de876d",
+  "nome": "Residencial Estrela I",
+  "versao": 26,
+  "localizacao": {
+    "codigo_ibge": "4307807",
+    "uf": "RS",
+    "municipio": "Estrela"
+  },
+  "declaracoes": {
+    "arranjo": "loteamento",
+    "tipologia": "apartamento",
+    "num_uhs": 1
+  },
+  "terreno": {
+    "origem": "desenhada",
+    "nivel": "ponto",
+    "precisao": "aproximada",
+    "crs_metrico": "EPSG:31982",
+    "centro_wgs84": {
+      "lat": -29.487779731252747,
+      "lon": -51.94607895394905
+    },
+    "poligonal_wgs84": null,
+    "area_m2": null,
+    "perimetro_m": null,
+    "procedencia": {
+      "metodo_centro": "coordenada informada pelo usuário",
+      "fuso_utm": 22,
+      "entrada": "centro marcado por clique no mapa (OSM)",
+      "confronto_municipio": {
+        "dentro": true,
+        "fonte": "cache",
+        "mensagem": "Âncora do modelo dentro dos limites do município (malha IBGE, cache)."
+      },
+      "municipio_declarado": {
+        "uf": "RS",
+        "nome": "Estrela",
+        "ibge": "4307807"
+      }
+    },
+    "avisos": []
+  },
+  "modelo": null,
+  "gravado_em": "2026-09-20T20:46:07+00:00"
+}

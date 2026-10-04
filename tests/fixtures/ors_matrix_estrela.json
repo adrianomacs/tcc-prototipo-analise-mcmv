@@ -1,0 +1,73 @@
+{
+  "_fixture": "SINTÉTICA — construída à mão, mas com o FORMATO já validado contra a gravação real em ors_matrix_real.json (12/09/2026). Existe para exercitar os ramos que a chamada real não produziu: o par sem rota (null na matriz) e o caso em que a rede reprova quem o piso euclidiano aprovaria.",
+  "_cenario": "Terreno urbano de Estrela/RS contra três escolas fictícias. A primeira está a 874 m em linha reta e 1.043 m pela rede — o caso que justifica o roteamento existir. A terceira volta null, que a gravação real não produziu.",
+  "distances": [
+    [
+      1043.27,
+      1620.44,
+      null
+    ]
+  ],
+  "durations": [
+    [
+      751.2,
+      1166.7,
+      null
+    ]
+  ],
+  "sources": [
+    {
+      "location": [
+        -51.96498,
+        -29.50201
+      ],
+      "snapped_distance": 34.12,
+      "name": "Rua Julio de Castilhos"
+    }
+  ],
+  "destinations": [
+    {
+      "location": [
+        -51.95661,
+        -29.49702
+      ],
+      "snapped_distance": 8.44,
+      "name": "Rua Marechal Floriano"
+    },
+    {
+      "location": [
+        -51.97812,
+        -29.50944
+      ],
+      "snapped_distance": 12.9,
+      "name": "Avenida Buricá"
+    },
+    {
+      "location": [
+        -51.99001,
+        -29.48001
+      ],
+      "snapped_distance": 1877.5,
+      "name": ""
+    }
+  ],
+  "metadata": {
+    "attribution": "openrouteservice.org | OpenStreetMap contributors",
+    "service": "matrix",
+    "timestamp": 1789227000000,
+    "query": {
+      "profile": "foot-walking",
+      "responseType": "json",
+      "metrics": [
+        "distance",
+        "duration"
+      ],
+      "units": "m",
+      "resolve_locations": true
+    },
+    "engine": {
+      "version": "9.0.0",
+      "graph_date": "2026-08-30T14:21:11Z"
+    }
+  }
+}

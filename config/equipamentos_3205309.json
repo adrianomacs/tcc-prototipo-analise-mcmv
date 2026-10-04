@@ -1,0 +1,176 @@
+{
+  "municipio": "3205309",
+  "nome_municipio": "Vitória",
+  "uf": "ES",
+  "ano_censo": "2025",
+  "gerado_em": "2026-10-03T21:32:22-03:00",
+  "gerador": {
+    "script": "scripts/gerar_equipamentos.py",
+    "versao": "1.0"
+  },
+  "urls": {
+    "microdado": "https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar",
+    "catalogo": "https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar"
+  },
+  "precedencia_por_campo": {
+    "identidade": "microdado/Tabela_Escola",
+    "rede": "microdado/Tabela_Escola",
+    "situacao": "microdado/Tabela_Escola",
+    "ciclos": "microdado/Tabela_Turma",
+    "coordenada": "Catálogo de Escolas",
+    "conveniada": "Catálogo de Escolas",
+    "motivo": "a divulgação pública do microdado 2025 não traz coordenada nem oferta de etapa; a precedência por campo é imposição da fonte, não escolha de projeto"
+  },
+  "fontes": [
+    {
+      "papel": "escola",
+      "arquivo": "Tabela_Escola_2025_V2.csv",
+      "sha256": "f737d25dc5e80879e08f868d06d55f2bc1178cbb893dc14589a2123151f5b523",
+      "bytes": 141425160,
+      "linhas_lidas": 214192,
+      "linhas_no_municipio": 226
+    },
+    {
+      "papel": "turma",
+      "arquivo": "Tabela_Turma_2025_V2.csv",
+      "sha256": "be3832b6af9c1f3717262336c4d764b480cdc063f9ead17467155a7346cb9102",
+      "bytes": 99920475,
+      "linhas_lidas": 178772,
+      "linhas_no_municipio": 178
+    },
+    {
+      "papel": "catalogo",
+      "arquivo": "Análise - Tabela da lista das escolas - Detalhado.csv",
+      "sha256": "0022540a48a944972f6a2d9b9756153ae92bf242b25f2aa1a49a486c9f164c59",
+      "bytes": 85660101,
+      "linhas_lidas": 212386,
+      "linhas_no_municipio": 224
+    }
+  ],
+  "contagens": {
+    "no_municipio": 226,
+    "gravados_no_csv": 183,
+    "sem_coordenada": 43,
+    "considerados_apos_filtros": 120,
+    "por_motivo_de_descarte": {
+      "rede_privada": 59,
+      "sem_coordenada": 43,
+      "situacao_inativa": 4
+    },
+    "aptos_por_ciclo": {
+      "infantil": 50,
+      "fundamental_i": 53,
+      "fundamental_ii": 49
+    },
+    "resumo": "226 equipamento(s) no conjunto; 120 considerado(s); 106 descartado(s) — 59 rede privada, 43 sem coordenada, 4 situação não ativa."
+  },
+  "sensibilidade_conveniadas": {
+    "infantil": {
+      "considerados": 50,
+      "conveniadas_excluidas": 0,
+      "considerados_se_incluisse": 50,
+      "nomes": [],
+      "regra_aplicada": "somente rede pública (municipal, estadual, federal)"
+    },
+    "fundamental_i": {
+      "considerados": 53,
+      "conveniadas_excluidas": 0,
+      "considerados_se_incluisse": 53,
+      "nomes": [],
+      "regra_aplicada": "somente rede pública (municipal, estadual, federal)"
+    },
+    "fundamental_ii": {
+      "considerados": 49,
+      "conveniadas_excluidas": 0,
+      "considerados_se_incluisse": 49,
+      "nomes": [],
+      "regra_aplicada": "somente rede pública (municipal, estadual, federal)"
+    }
+  },
+  "divergencias_entre_fontes": {
+    "so_no_microdado": 2,
+    "so_no_catalogo": 11,
+    "situacao_divergente": 0,
+    "atendimento_divergente": 0,
+    "conveniada_divergente": 1,
+    "sem_linha_de_turma": 48,
+    "codigos": {
+      "so_no_microdado": [
+        "32084277",
+        "32084587"
+      ],
+      "so_no_catalogo": [
+        "32039948",
+        "32041110",
+        "32041420",
+        "32077556",
+        "32079150",
+        "32080450",
+        "32080514",
+        "32080530",
+        "32080697",
+        "32080980",
+        "32081898"
+      ],
+      "situacao_divergente": [],
+      "atendimento_divergente": [],
+      "conveniada_divergente": [
+        "32041209"
+      ],
+      "sem_linha_de_turma": [
+        "32039921",
+        "32040059",
+        "32040091",
+        "32040121",
+        "32040130",
+        "32040148",
+        "32040156",
+        "32040717",
+        "32040750",
+        "32040873",
+        "32041020",
+        "32041055",
+        "32041080",
+        "32041144",
+        "32041217",
+        "32041225",
+        "32041241",
+        "32041322",
+        "32062753",
+        "32065094",
+        "32065108",
+        "32065159",
+        "32065167",
+        "32067321",
+        "32074000",
+        "32074018",
+        "32074050",
+        "32074077",
+        "32074514",
+        "32074778",
+        "32074948",
+        "32075219",
+        "32076029",
+        "32078455",
+        "32079117",
+        "32079974",
+        "32080239",
+        "32080425",
+        "32080611",
+        "32080930",
+        "32080948",
+        "32081235",
+        "32081243",
+        "32081952",
+        "32081979",
+        "32082258",
+        "32092008",
+        "32115008"
+      ]
+    }
+  },
+  "avisos": [
+    "43 de 226 estabelecimento(s) sem coordenada no Catálogo. Eles entram no conjunto e são descartados com motivo 'sem_coordenada' — lacuna para o CSV complementar resolver, nunca motivo para reprovar o requisito.",
+    "48 estabelecimento(s) sem linha na Tabela_Turma: não ofertam turma alguma, e por isso ficam sem ciclo. Não é lacuna de leitura."
+  ]
+}

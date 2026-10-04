@@ -1,0 +1,121 @@
+[project]
+name = "prototipo-mcmv"
+version = "0.1.0"
+description = "Protótipo de verificação automatizada de requisitos do PMCMV (BIM/IFC + GIS)"
+authors = [{ name = "Adriano Macedo Silva" }]
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.10"
+dependencies = [
+    "ifcopenshell>=0.8.0",   # leitura de geometria, quantidades e propriedades do IFC
+    "ifctester>=0.8.0",      # validação de informações via IDS
+    "geopandas>=0.14",       # leitura e manipulação de camadas geoespaciais
+    "shapely>=2.0",          # operações geométricas espaciais
+    "pyproj>=3.6",           # conversão de sistemas de coordenadas (SIRGAS 2000/UTM <-> geo)
+    "pandas>=2.0",           # leitura do recorte da base de requisitos
+    "openpyxl>=3.1",         # leitura da planilha-mãe (app/servicos/requisitos.py)
+    "pdfplumber>=0.11",      # tabela de zonas dos PDFs da ABNT (scripts/gerar_zonas_bioclimaticas.py)
+    "pyyaml>=6.0",           # leitura do config/settings.yaml
+    "streamlit>=1.36",       # interface de uso (app/main.py)
+    "folium>=0.16",          # mapa base (OSM) da entrada do terreno
+    "streamlit-folium>=0.20",  # devolve ao Python o desenho/clique no mapa
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "matplotlib>=3.8",  # só scripts/gerar_figura1.py (figuras em docs/figuras/); fora do núcleo
+]
+
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["core*", "app*"]
+
+[tool.ruff]
+# Fixa a sintaxe-alvo do pyupgrade (UP) e do parser no piso de `requires-python`
+# (linha 6) — sem isto, o ruff assume a versão do Python que roda o próprio
+# ruff, não a do projeto.
+target-version = "py310"
+
+[tool.ruff.lint]
+# Sem esta seção, `ruff check .` caía no conjunto padrão embutido no binário
+# instalado — ~415 regras "estáveis" (medido com `ruff check --isolated`),
+# que muda de uma versão do ruff para outra sem aviso (com ruff 0.16.8, esse padrão implícito acusava 206 achados pré-existentes;
+# duas pessoas com ruff diferente viam listas diferentes). Em vez de herdar
+# esse padrão, listamos aqui exatamente as regras que hoje têm achado no
+# repositório — nem mais (não amplia o que é checado) nem menos (nenhum
+# achado pré-existente fica fora do radar sem decisão registrada). Regra nova
+# só entra nesta lista por decisão explícita.
+select = [
+    "I001",     # unsorted-imports — corrigido (reordenado)
+    "ISC004",   # concatenação implícita de string em coleção — corrigido (parênteses)
+    "C408",     # `dict()` desnecessário — corrigido (literal `{}`)
+    "RUF015",   # slice de 1 elemento p/ pegar o primeiro — corrigido (`next()`)
+    "SIM115",   # `open()` sem context manager — corrigido nos testes;
+                # 1 ocorrência ignorada abaixo (core/infra/gis/inep.py)
+    "RUF059",   # variável desempacotada e não usada — corrigido (prefixo `_`)
+    "PERF102",  # `.items()` quando só o valor é usado — corrigido (`.values()`)
+    "S112",     # try/except/continue sem log — corrigido (`_log.debug`)
+    "PIE810",   # múltiplos `startswith` — corrigido (uma chamada com tupla)
+    "UP031",    # formatação `%` — corrigido (`.format()`)
+    "BLE001",   # `except Exception` genérico — ignorado, ver comentário abaixo
+    "RUF012",   # atributo mutável como default de classe — ignorado, ver abaixo
+    "S110",     # try/except/pass sem log — ignorado, ver abaixo
+    "B017",     # `pytest.raises(Exception)` genérico — ignorado, ver abaixo
+    "DTZ005",   # `datetime.now()` sem tz — ignorado, ver abaixo
+    "SIM222",   # `... or True` sempre verdadeiro — ignorado, ver abaixo
+]
+
+ignore = [
+    # BLE001 (82 achados) — `except Exception` genérico é o padrão do núcleo
+    # para produzir NAO_AVALIAVEL com motivo da taxonomia (ADR-006); decidir
+    # qual exceção cada um dos ~50 pontos realmente espera é revisão de
+    # domínio, ponto a ponto — fora do escopo da higiene de estilo.
+    "BLE001",
+    # RUF012 (53 achados) — list/dict mutável como default de classe, em Value
+    # Objects e configuração; escolher entre `field(default_factory=...)` e
+    # congelar como tupla é decisão de design por módulo — fora do escopo.
+    "RUF012",
+    # S110 (12 achados) — try/except/pass deliberado nos leitores IFC/GIS e
+    # exportadores (degradar sem interromper a checagem). Diferente dos 2
+    # pontos de S112 (try/except/continue) já corrigidos acima, aqui são 12
+    # pontos espalhados por 7 módulos — acrescentar log exige confirmar, em
+    # cada um, que o silêncio atual já era o comportamento pretendido.
+    "S110",
+    # B017 (1 achado) — tests/core/dominio/test_empreendimento.py: verifica
+    # que `Localizacao` (frozen) rejeita atribuição pós-construção com
+    # `pytest.raises(Exception)`. Trocar por um tipo específico (provável
+    # `dataclasses.FrozenInstanceError`) é mudança de teste, que não
+    # deve ser feita como efeito colateral de uma limpeza de estilo.
+    "B017",
+    # DTZ005 (1 achado) — core/infra/exportadores/relatorio_json.py: o
+    # `datetime.now()` de "gerado_em" alimenta o contrato núcleo↔interface
+    # (artefatos/relatorios/<chave>.json). Acrescentar `tz` muda o formato do
+    # artefato — é mudança de contrato, não de estilo; decidir à parte.
+    "DTZ005",
+    # SIM222 (1 achado) — core/regras/registro.py:92, `if args.listar or True:`.
+    # O fix do ruff só colapsaria a expressão para `True` (que já é o
+    # comportamento atual hoje), sem tocar a causa: a CLI lista as regras
+    # mesmo sem `--listar`. Ignorado de propósito — é bug de comportamento a
+    # decidir à parte, não achado de estilo a maquiar.
+    "SIM222",
+    # SIM115 (1 achado remanescente) — `_abrir()` em core/infra/gis/inep.py
+    # abre o arquivo e devolve o handle de propósito, para o chamador fechar
+    # (`f.close()` em 3 pontos de saída diferentes); não cabe em `with` local
+    # sem refatorar esse fluxo de leitura.
+    "SIM115",
+]
+
+[tool.pytest.ini_options]
+# Substitui os dois hacks de sys.path (conftest.py da raiz e tests/app/conftest.py):
+# a raiz do projeto entra no sys.path pelo próprio pytest, para
+# "from core..." e "from app..." funcionarem sem instalar o pacote.
+testpaths = ["tests"]
+pythonpath = ["."]
+markers = [
+    "integracao: exige IfcOpenShell real (constrói um modelo IFC de verdade, não os falsos de tests/apoio/ifc_falso.py); ciclo rápido roda sem eles",
+    "interface: usa streamlit.testing.v1.AppTest (renderiza a página; mais lento que exercitar a função diretamente)",
+]

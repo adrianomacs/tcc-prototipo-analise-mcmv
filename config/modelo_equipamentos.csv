@@ -1,0 +1,5 @@
+nome;latitude;longitude;ciclo;rede;situacao;codigo_inep;endereco
+EMEI Jardim das Acácias;-20,4712;-54,6215;infantil;municipal;ativa;50012345;Rua das Acácias 100
+EM Prof. Ana Rita;-20,4688;-54,6301;fundamental_i|fundamental_ii;municipal;ativa;50012346;Av. Central 250
+EE Dom Aquino;-20,4750;-54,6180;fundamental_ii;estadual;ativa;50012347;Rua Dom Aquino 45
+CEI Pequeno Príncipe;-20,4801;-54,6260;infantil|fundamental_i;estadual;ativa;50012348;Rua das Palmeiras 12
